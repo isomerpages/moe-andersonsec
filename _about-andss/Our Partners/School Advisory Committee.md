@@ -19,4 +19,3 @@ The SAC members have been active in serving the school and contributing to teach
 | Mr Charlie Ang Hwa Leong | Member |
 
 ![](/images/SAC.png)
-
