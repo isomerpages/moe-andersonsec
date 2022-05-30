@@ -4,7 +4,6 @@ permalink: /anderson-experience/Curriculum/English
 description: ""
 third_nav_title: Curriculum
 ---
-
 Vision
 
 The English and Literature Department aims to develop confident speakers and critical thinkers who respect and empathise with others. This is achieved through the implementation of a rigorous English curriculum and various language-related activities organised for Andersonians.
@@ -35,7 +34,8 @@ Students participating in the Read for Books Initiative
 
 To further cultivate the joy of reading, our student, Christine Kho from 4/1 facilitated a book club session during the mid-year Sabbatical. Like-minded individuals from Secondary 1 to 3 gathered on Zoom to hear more about her book recommendations and shared more about the books they were currently reading. At the end of the session, the members of this select group spontaneously formed an informal book club to continue sharing more about the books they read!
 
-![](/images/Christine%20Kho%204_1%20facilitating%20the%20Sabbatical%20Book%20Club%20Workshop%20via%20Zoom.jpeg)
+<img src="/images/Christine%20Kho%204_1%20facilitating%20the%20Sabbatical%20Book%20Club%20Workshop%20via%20Zoom.jpeg" 
+     style="width:25%">
 Christine Kho 4/1 facilitating the Sabbatical Book Club via Zoom
 
 National Schools Literature Festival 2021
