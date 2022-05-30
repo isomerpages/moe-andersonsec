@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/7bc87a6de_961.png
       key_highlights:
         - title: Announcement
           description: ""
-          url: https://google.com
+          url: ""
         - title: Events
           description: ""
           url: ""
