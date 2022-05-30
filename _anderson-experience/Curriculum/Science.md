@@ -47,3 +47,19 @@ A series of Enrichment workshops and learning journeys have been organized outsi
 <img src="/images/Picture%201.jpg" 
      style="width:50%">
 <center> Renewable Energy Science Enrichment for Sec 2 students </center>
+
+2) Science Research Programme (SRP)
+
+SRP aims to infuse Science research skills and methods into the Lower Secondary Science Curriculum. Beyond lower secondary level, the Science Specialist Programme also provides the upper secondary students with an opportunity to  learn about the latest research developments from our partners in institutes of higher learning. In this programme, students participate in science research projects that undergraduates in our local universities are involved in. 
+
+
+3) Anderson Science Week
+
+The department has organised a series of activities to enhance students’ interest and exposure to science in real world context. Career talks by scientists from A*STAR, Mixology show by Science Centre, exhibits on the science behind how fireworks and vaccine works, and inter-class quizzes were some of the activities in which students learnt Science in engaging and authentic contexts.
+
+<img src="/images/Picture%202.png" 
+     style="width:50%">
+<center> Sec 2 Interclass Science Quiz during EFL  </center>
+<img src="/images/Picture%203.png" 
+     style="width:50%">
+		 <center>Engagement with Scientist Workshop  </center>
