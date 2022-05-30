@@ -2,6 +2,7 @@ collections:
   about-andss:
     output: true
     order:
+      - Contact Us.md
       - Our Partners.md
       - Principal's Message.md
       - Mission and Values.md
