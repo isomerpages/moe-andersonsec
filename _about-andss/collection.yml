@@ -2,11 +2,11 @@ collections:
   about-andss:
     output: true
     order:
-      - PDPA Notice.md
-      - Contact Us.md
-      - Our Partners.md
       - Principal's Message.md
       - Mission and Values.md
       - Emblem.md
       - Bamboo Perspective.md
       - Our Staff.md
+      - Our Partners.md
+      - Contact Us.md
+      - PDPA Notice.md
