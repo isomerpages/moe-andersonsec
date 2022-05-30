@@ -2,6 +2,7 @@ collections:
   anderson-experience:
     output: true
     order:
+      - Curriculum/Aesthetics & Technology.md
       - Curriculum/Science.md
       - Curriculum/Mathematics.md
       - Curriculum/.keep
