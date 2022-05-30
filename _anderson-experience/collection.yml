@@ -2,4 +2,5 @@ collections:
   anderson-experience:
     output: true
     order:
+      - Curriculum/English.md
       - Curriculum/.keep
