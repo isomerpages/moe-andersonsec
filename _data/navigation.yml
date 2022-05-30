@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: About ANDSS
     collection: about-andss
+  - title: Menu Title
+    collection: anderson-experience
