@@ -2,11 +2,11 @@ collections:
   anderson-experience:
     output: true
     order:
-      - Curriculum/Physical Education.md
-      - Curriculum/Humanities.md
-      - Curriculum/Aesthetics & Technology.md
-      - Curriculum/Science.md
-      - Curriculum/Mathematics.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mother Tongue.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Aesthetics & Technology.md
+      - Curriculum/Humanities.md
+      - Curriculum/Physical Education.md
