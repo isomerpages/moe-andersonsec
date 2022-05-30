@@ -48,13 +48,8 @@ The students were tasked to use the skills and knowledge that they have picked u
 
 <img src="/images/Code%20for%20Fun_Pic%201.jpg" 
      style="width:50%">
-		 <div class="row">
-  <div class="column">
 		 <img src="/images/Code%20for%20Fun_Pic%203.jpg" 
+     style="width:50%"><img src="/images/Code%20for%20Fun_Pic%202.jpg" 
      style="width:50%">
-		 <img src="/images/Code%20for%20Fun_Pic%202.jpg" 
-     style="width:50%">
-		</div>
-	</div>
 		 <img src="/images/Code%20for%20Fun_Pic%204.jpg" 
      style="width:50%">
