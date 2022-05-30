@@ -42,10 +42,14 @@ The Tamil Language Unit strives to ignite a spark in students that will inspire 
 
 The MTL Fortnight Programme was accompanied by the Tamil Reading Programme, a brand new initiative, which sought to promote a love for literature in a positive and nurturing learning environment, while encouraging critical thinking and deeper engagement with selected pieces of literature. This activity has been held for the lower secondary students, and done so in collaboration with the National Library Board. Texts have been carefully selected to suit students’ reading capabilities and each reading has been followed by a class discussion and individual reflection. This Reading Programme boosts students’ enthusiasm towards Tamil literature and instil in them the good discipline of reading, reflecting and critical thinking.
 
-![](/images/MTL%20fornight-CL-Kite%20making.jpg)
-![](/images/MTL%20fortnight-CL-Wushu.jpg)
-![](/images/MTL%20fortnight-CL-Xinyao.jpeg)
-![](/images/MTL%20Fortnight-TL-The%20Puppetry%20Workshop.jpeg)
+<img src="/images/MTL%20fornight-CL-Kite%20making.jpg" 
+     style="width:50%">
+<img src="/images/MTL%20fortnight-CL-Wushu.jpg" 
+     style="width:50%">
+<img src="/images/MTL%20fortnight-CL-Xinyao.jpeg" 
+     style="width:50%">
+<img src="/images/MTL%20Fortnight-TL-The%20Puppetry%20Workshop.jpeg" 
+     style="width:50%">
 
 **Competitions**
 
@@ -58,13 +62,15 @@ Our school has participated in the Bilingual Youth Model United Nations Competit
 
 Our school has also participated in The 12th Good Talk (Global Village) International Children & Youth Bilingual Speech Conference. Soon Hao Jun, Javen from class 4/5 has received the Most Potential Award.
 
-![](/images/Our%20Docent%20in%20River%20Hongbao.jpg)
+<img src="/images/Our%20Docent%20in%20River%20Hongbao.jpg" 
+     style="width:50%">
 
 **The Malay Language Unit**
 
 Students have participated in the National Malay Language Debate Competition 4PM. This competition tested students' debating skills and also stimulated students' interest in learning the language. Through this competition, students not only sharpened debating skills, but also expanded their knowledge and improved their thinking skills.
 
-![](/images/ML_EMAS_debate.jpg)
+<img src="/images/ML_EMAS_debate.jpg" 
+     style="width:50%">
 
 Our school has participated in the Translation Competition organised by National Junior College. The team comprising Eunice Felicia Jo, Jadelyn Minneke Sutopo and Akasyah Shahrin from Class 4/5, was among the top 10 high performing groups.
 
@@ -72,7 +78,8 @@ Our school has participated in the Translation Competition organised by National
 
 In spite of the various restrictions due to the pandemic, five of our students have participated in the Budding Artistes and Budding Writers Programme organised by CPDD, in a series of workshops via zoom that culminated in an inter-school competition. It was an enriching experience for all the students from various streams and levels, learning about essay writing and script writing from local writers and television script writers. We are proud of S.Vishalini of class 4/2 who wrote an essay that was commended and selected as one of the top entries!
 
-![](/images/Competitions-TL-Vishalini%20sharing%20about%20her%20essay%20by%20using%20puppets.jpeg)
+<img src="/images/Competitions-TL-Vishalini%20sharing%20about%20her%20essay%20by%20using%20puppets.jpeg" 
+     style="width:50%">
 
 “I have a strong passion for and interest in story writing. I gained new insights about the art of writing through the sharings of our local writers’ real-life experiences. Taking part in the various workshops was extremely engaging and it was a breath of fresh air. I am very grateful for this wonderful opportunity and thankful that I was also interviewed by CPDD to share about the essay that I wrote! ” 
 - Selvaraj Vishalini (4/2)
