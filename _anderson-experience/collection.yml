@@ -2,6 +2,6 @@ collections:
   anderson-experience:
     output: true
     order:
-      - Curriculum/Mother Tongue.md
-      - Curriculum/English.md
       - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mother Tongue.md
