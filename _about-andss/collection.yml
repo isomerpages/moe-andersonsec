@@ -2,8 +2,8 @@ collections:
   about-andss:
     output: true
     order:
-      - Our Staff.md
       - Principal's Message.md
       - Mission and Values.md
       - Emblem.md
       - Bamboo Perspective.md
+      - Our Staff.md
