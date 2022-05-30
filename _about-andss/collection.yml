@@ -2,7 +2,7 @@ collections:
   about-andss:
     output: true
     order:
-      - Bamboo Perspective.md
       - Principal's Message.md
       - Mission and Values.md
       - Emblem.md
+      - Bamboo Perspective.md
