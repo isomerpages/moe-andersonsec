@@ -30,7 +30,7 @@ In order to encourage students to think beyond themselves, the school population
      style="width:50%">
 <img src="/images/Students%20participating%20in%20the%20_Read%20for%20Books_%20initiative%206.jpg" 
      style="width:50%">
-Students participating in the Read for Books Initiative
+<center> Students participating in the Read for Books Initiative </center>
 
 **Sabbatical Book Club**
 
@@ -38,7 +38,7 @@ To further cultivate the joy of reading, our student, Christine Kho from 4/1 fac
 
 <img src="/images/Christine%20Kho%204_1%20facilitating%20the%20Sabbatical%20Book%20Club%20Workshop%20via%20Zoom.jpeg" 
      style="width:50%">
-Christine Kho 4/1 facilitating the Sabbatical Book Club via Zoom
+<center> Christine Kho 4/1 facilitating the Sabbatical Book Club via Zoom </center>
 
 National Schools Literature Festival 2021
 
@@ -51,7 +51,7 @@ In the Choral Speaking category, the team, made up of our Secondary 1 Express st
 Flash Fiction Entry 2021
 <img src="/images/NSLF%20-%20Enacting%20a%20scene%20from%20the%20play%20_Don_t%20Know%20Don_t%20Care_.png" 
      style="width:50%">
-Enacting a scene from the play, Don't Know Don't Care
+<center> Enacting a scene from the play, Don't Know Don't Care </center>
 
 Literature Debate Workshop
 
