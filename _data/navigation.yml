@@ -1,9 +1,4 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About ANSSS
-    url: /about-us/permalink
-    sublinks:
-      - title: Principal's Message
-        url: /principal
-      - title: Mission and Values
-        url: /permalink
+  - title: About ANDSS
+    collection: about-andss
