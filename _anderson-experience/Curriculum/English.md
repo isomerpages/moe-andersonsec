@@ -62,7 +62,7 @@ debate challenge between our Pure and Elective Literature students where they pu
      style="width:50%">
 <img src="/images/The%20Literature%20Debate%20Workshop%20-%20Closing%20Speech%20by%20Ms%20Khoo%20Poh%20Leng%20EL_%20LIT%20HOD.jpg" 
      style="width:50%">
-The Literature Debate Workshop with Coach Mr Edwin Tham
+<center>The Literature Debate Workshop with Coach Mr Edwin Tham </center>
 
 <img src="/images/The%20Literature%20Debate%20Competition-%20Debaters%202.jpeg" 
      style="width:50%">
