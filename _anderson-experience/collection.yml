@@ -2,6 +2,7 @@ collections:
   anderson-experience:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mother Tongue.md
