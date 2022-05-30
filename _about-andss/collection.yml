@@ -1,4 +1,5 @@
 collections:
   about-andss:
     output: true
-    order: []
+    order:
+      - Principal's Message.md
