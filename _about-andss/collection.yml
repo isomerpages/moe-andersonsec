@@ -2,5 +2,5 @@ collections:
   about-andss:
     output: true
     order:
-      - Mission and Values.md
       - Principal's Message.md
+      - Mission and Values.md
