@@ -15,4 +15,5 @@ I am happy to share that the school will embark on our Full Subject-Based Bandin
 Despite the restrictions that have been necessitated by the pandemic, we have many exciting learning experiences planned for all our students in the new year, ranging from STEM learning and enrichment programmes, to inter-class sporting events, to applied learning attachments in tertiary education institutions. Through these opportunities, our students will be given platforms to make their thinking visible, discuss ideas, consider others’ perspectives, reflect on their takeaways, and engage in creative problem-finding and solving. Above all, we will continue to support them in their growth as Thinkers, Innovators and Leaders who make a difference for the greater good.  
 
 Ms Tan Po Chin
+
 Principal
