@@ -23,7 +23,7 @@ Additional Information :
 Info Letter Regarding Hindi as a MT subject.pdf 
  The MTL department strives to create an environment for learning and appreciating the Mother Tongue languages. We want our students to get in touch with traditional culture and fall in love with their Mother Tongue through classroom learning and various cultural activities.
 
-Improvements in Classroom Learning
+**Improvements in Classroom Learning**
 
 This year, we continued to use Making Thinking Visible (MTV) routines for teaching. At the same time, we use SLS  and many ICT tools to enhance students' thinking and discussions in the classroom.  We emphasize the use of mind maps to improve students' classroom discussions, sharing and feedback so that students can move out of passive learning to active learning. In the classroom, the use of iPad and various ICT apps enable students to communicate and discuss more quickly and conveniently, thereby stimulating students' enthusiasm for learning the languages.
 
