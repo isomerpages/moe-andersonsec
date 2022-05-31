@@ -16,26 +16,26 @@ Excellence in the teaching and learning of Mathematics to nurture self-directed 
 To steer the direction of the Mathematics department with the following aims for our Andersonians:
 
 Learn to learn
-Enjoy Mathematics
-Appreciate & apply
-Reflect on learning
-Never give up
+<br>Enjoy Mathematics
+<br>Appreciate & apply
+<br>Reflect on learning
+<br>Never give up
 
 
 
 
-Subjects offered by Department
+**Subjects offered by Department**
 
 
-1.     Mathematics
+1.   Mathematics
 
 
-2.     Additional Mathematics
+2.   Additional Mathematics
 
 
 
 
-Key programmes of Department
+**Key programmes of Department**
 
 
 Code for Fun Programme
@@ -97,4 +97,3 @@ Selected students underwent specialised training during the June Holidays to pre
 | Upper Sec NT  (Individual) | 2nd Overall	| Cheryline Tan Shi Qing (3/9)
 | Lower Sec NA (Individual) | 15th Overall	| Lim Kim Yee John (2/6)
 | Lower Sec NA (Individual) | 19th Overall | Andre J Lim En Xu (2/6) |
-
