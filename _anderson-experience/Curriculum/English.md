@@ -40,7 +40,7 @@ To further cultivate the joy of reading, our student, Christine Kho from 4/1 fac
      style="width:50%">
 <center> Christine Kho 4/1 facilitating the Sabbatical Book Club via Zoom </center>
 
-National Schools Literature Festival 2021
+**National Schools Literature Festival 2021**
 
 The National Schools Literature Festival (NSLF) is the biggest literary festival for students in Singapore and has provided a powerful platform to deepen their passion and love for Literature as well as gain greater exposure to the world of Literature beyond the classroom. Every year, our students participate actively in the literary festival and this year was no exception. Despite the challenges faced due to the Covid-19 pandemic, our Secondary 1 and 2 students persisted and enthusiastically participated in the Choral Speaking and Book Trailer categories of the festival – creatively thinking out of the box as they prepared a virtual performance that adhered to the specified Safe Management Measures (SMM). 
 
@@ -53,7 +53,7 @@ Flash Fiction Entry 2021
      style="width:50%">
 <center> Enacting a scene from the play, Don't Know Don't Care </center>
 
-Literature Debate Workshop
+**Literature Debate Workshop**
 
 During the March school holidays, our Secondary 4 Pure and Elective Literature students participated in the Debate Workshop cum Competition organised by the department. The Debate Workshop, conducted by debate coach, Mr Edwin Tham, sharpened our students' critical thinking skills and equipped them with strategies to form compelling and persuasive arguments, both of which are essential in their writing and daily lives. The workshop ended with a heated 
 debate challenge between our Pure and Elective Literature students where they put into practice what they had learnt from the workshop. Congratulations to the winning teams and our best speakers!
