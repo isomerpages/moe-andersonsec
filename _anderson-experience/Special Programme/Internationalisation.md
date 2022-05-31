@@ -69,10 +69,4 @@ The school believes in providing the students with the exposure to cultural imme
 | -------- | -------- | -------- |
 | 2016   | 	**Trip to SM Sultan Abdul Halim School, Kedah**<br>Twinning Programme – Language Immersion & Cultural Exchange <br>**EMAS Trip to to Penang and Langkawi** <br>Language Immersion & Cultural <br> **Winitsuksa School, Thailand STEP Camp**<br> Cultural Exchange & Adventure Camp<br> Immersion Trip to Shanghai<br>Cultural Immersion | **Wushu Overseas Learning Journey**<br>Enhancement of CCA Skills Exchange	<br>**InfoComm Trip**<br>Enhancement of CCA Skills <br> **NCC Overseas Adventure Camp**<br>Exposure to Adventure
 |2017    		| **Staff Recce Trip to Shanghai**<br> Networking for Cultural Immersion	| **Humanities Experiential Learning Trip to Hong Kong**<br>Study Trip<br> **SJAB, Combined VIA Trip**Service Learning
-|2018  	| **EMAS Overseas Learning Journey to Sabah** <br>Language Immersion & Cultural Exchange	<br>Infocomm Club, Immersion cum Training trip to Cambodia <br> Service Learning & Cultural  Immersion | Wushu Training Trip to China<br> Intensive training with elite Wushu athletes in China.<br> 	Band Trip to Japan <br> Enhancement of CCA Skills
-
-
-
-
-
-
+|2018  	| **EMAS Overseas Learning Journey to Sabah** <br>Language Immersion & Cultural Exchange	<br>**Infocomm Club, Immersion cum Training trip to Cambodia** <br> Service Learning & Cultural  Immersion | **Wushu Training Trip to China**<br> Intensive training with elite Wushu athletes in China.<br> 	**Band Trip to Japan** <br> Enhancement of CCA Skills
