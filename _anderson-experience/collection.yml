@@ -2,6 +2,7 @@ collections:
   anderson-experience:
     output: true
     order:
+      - CCA/CCA Training Timetable 2022.md
       - CCA/.keep
       - Curriculum/.keep
       - Curriculum/English.md
