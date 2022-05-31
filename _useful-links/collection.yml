@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Textbook List.md
       - SWN WiFi.md
       - Student Learning Space (SLS).md
