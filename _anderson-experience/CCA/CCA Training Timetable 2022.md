@@ -4,8 +4,6 @@ permalink: /anderson-experience/CCA/timetable
 description: ""
 third_nav_title: CCA
 ---
-
-
 | CCA | Date & Time | Group Involved | Teachers OIC |
 | -------- | -------- | -------- | -------- | 
 | Anderson Science Academy| Mon, 1515 - 1730hrs	| All| Ms Cheong Shi Ya Sheena
@@ -24,7 +22,6 @@ third_nav_title: CCA
 |Netball (Girls)|Wed, 1530 – 1800hrs<br>Fri, 1330 – 1700hrs|All|Mrs Goh Li Eng
 |National Police Cadet Corps (NPCC)|Mon, 1515 – 1700hrs<br>Fri, 1415 - 1645hrs|All|Ms Soh Wan Ting
 |Robotics|Mon, 1515 – 1800hrs<br>Fri, 13:15 - 1615hrs|All|Mr Ranganathan
-|Table Tennis (Girls)|Mon, 1515 – 1800hrs<br>Wed, 1530 – 1800hrs<br>Fri, 1330 – 1630hrs|‘C’ Girls<br><br>‘B’ & ‘C’ Girls<br><br>‘B’ Girls|Mr Ken Leong
+|Table Tennis (Girls)|Mon, 1515 – 1800hrs<br>Wed, 1530 – 1800hrs<br>Fri, 1330 – 1630hrs|‘C’ Girls<br>‘B’ & ‘C’ Girls<br>‘B’ Girls|Mr Ken Leong
 |Volleyball (Girls)|Mon, 1515 – 1745hrs<br>Fri, 1315 – 1600hrs|All|Mr Benedict Low
 |Wushu|Mon, 1515 – 1800hrs<br>Wed, 1530 – 1800hrs|All|Mr Neo Eng Hup
-
