@@ -13,10 +13,10 @@ By the end of their Secondary school experience, Andersonians should possess int
 **Subjects offered by Department**
 
 English Language
-Lower Secondary Literature
-Upper Secondary Literature (Elective)
-Upper Secondary Literature
-English Reading Programme 
+<br>Lower Secondary Literature
+<br>Upper Secondary Literature (Elective)
+<br>Upper Secondary Literature
+<br>English Reading Programme 
 
 Our Reading Programme aims to expose our students to a wide range of articles, short stories, essays and poetry. Through this weekly dose of knowledge, we hope that our students will develop a deep sense of appreciation for the language. This activity takes place every Tuesday and Wednesday morning. 
 
