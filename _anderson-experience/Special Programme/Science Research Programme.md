@@ -66,7 +66,7 @@ Studying the Periodic Table can never be boring if you grab opportunities to get
 Molecule tables and chairs
 
 **Learning Stations – Biology**
-*Our hidden treasure cove*
+<br>*Our hidden treasure cove*
 
 A typical fish tank?……. Stop, take a closer look and you will detect vibrancy instituted in a self-sustaining aqua-habitat.
 
@@ -110,5 +110,3 @@ Most Popular Roller-Coaster (Top 10)
 1 Distinction
 2 Bronzes
 $2nd runner-up in the Balloon-Powered Vehicle category
-
-
