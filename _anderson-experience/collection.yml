@@ -2,9 +2,6 @@ collections:
   anderson-experience:
     output: true
     order:
-      - Key School Events/.keep
-      - Special Programme/.keep
-      - Direct School Admission 2022.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mother Tongue.md
@@ -15,3 +12,6 @@ collections:
       - Curriculum/Physical Education.md
       - CCA/.keep
       - CCA/CCA Training Timetable 2022.md
+      - Direct School Admission 2022.md
+      - Special Programme/.keep
+      - Key School Events/.keep
