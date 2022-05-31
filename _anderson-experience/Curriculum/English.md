@@ -4,13 +4,13 @@ permalink: /anderson-experience/Curriculum/English
 description: ""
 third_nav_title: Curriculum
 ---
-Vision
+**Vision**
 
 The English and Literature Department aims to develop confident speakers and critical thinkers who respect and empathise with others. This is achieved through the implementation of a rigorous English curriculum and various language-related activities organised for Andersonians.
 
 By the end of their Secondary school experience, Andersonians should possess intellectual curiosity and mental agility. Not only will they be well-informed about world and local affairs, they will have the ability to evaluate and synthesise information critically.
 
-Subjects offered by Department
+**Subjects offered by Department**
 
 English Language
 Lower Secondary Literature
