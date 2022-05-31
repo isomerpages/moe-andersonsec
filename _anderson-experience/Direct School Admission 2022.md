@@ -25,3 +25,39 @@ Applicants should:
 
 ●       Have demonstrated good leadership capabilities in your CCA or school
 <br><br>* Meeting all the above criteria does not guarantee the applicant will be shortlisted/given an offer.
+
+
+
+| <center>Talent Area</center>| |
+| -------- | -------- | 
+| Sports and Games |    Basketball (Girls and Boys)<br>Netball (Girls)<br>Table Tennis (Girls)<br>Volleyball (Girls)<br>Wushu (Girls and Boys) |
+|Performing Arts| Band - Concert (Girls and Boys) <br>Dance - Chinese (Girls) |
+|Others| Language - Malay (Girls and Boys) |
+
+Application for procedure and information
+
+●  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm.
+
+For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec 
+
+ 
+
+●    Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. 
+
+For details, please refer to MOE's website - https://go.gov.sg/nmsdsa-sec-application
+
+ 
+
+● Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+ 
+
+●  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
+
+ 
+
+● The school's decision on the offer is final. We regret that no appeal will be entertained. The school reserves the right not to disclose the reason for non-selection of an applicant or to release the results of the trials.
+
+ 
+
+●   For further enquiries, please email us at anderson_ss@moe.edu.sg
