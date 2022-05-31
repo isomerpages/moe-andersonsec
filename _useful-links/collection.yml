@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - SWN WiFi.md
       - Student Learning Space (SLS).md
