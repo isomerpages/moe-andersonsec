@@ -4,18 +4,20 @@ permalink: /anderson-experience/Curriculum/MT
 description: ""
 third_nav_title: Curriculum
 ---
-Vision
+**Vision**
+
 Passionate, competent and lifelong learners of Mother Tongue Language and Culture
 
-Mission
+**Mission**
+
 Developing and inspiring Andersonians to advocate learning and appreciation of their Mother Tongue Language and Culture.
 
-Subjects offered by Department
+**Subjects offered by Department**
 
 Higher Mother Tongue Languages
-Mother Tongue Language
-Basic Mother Tongue Languages
-Literature in Malay (Elective)
+<br>Mother Tongue Language
+<br>Basic Mother Tongue Languages
+<br>Literature in Malay (Elective)
 
 Additional Information :
 Info Letter Regarding Hindi as a MT subject.pdf 
