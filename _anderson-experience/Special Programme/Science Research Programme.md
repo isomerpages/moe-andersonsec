@@ -80,33 +80,5 @@ A typical fish tank?……. Stop, take a closer look and you will detect vibranc
 | Year | Competition | Awards |
 | -------- | -------- | -------- |
 |2013|14th ElementzScience Research Conference & Exhibition<br><br>12th ElementzScience Project Competition & Exhibition<br><br>AJC Science Challenge<br><br>Engineering Innovation Programme by RP|1 Gold, 1 Silver, 1 Bronze<br><br>1 Gold, 1 Silver<br><br>1 Bronze<br><br>Top 3 Outstanding Project
-
-2014
-
-15th ElementzScience Research Conference & Exhibition
-13th ElementzScience Project Competition & Exhibition
-National Science Challenge 2014
-Science Mentorship Programme (SMP)
-Shell Singapore Youth Science Festival
-Singapore ArtScience Prize 2014
-2 Bronzes
-3 Silvers
-Quarter-Finalists
-2 Merits
-Most Creative Design
-Best Team Prize, Best Prototype Prize
-
-2015
-
-16th ElementzScience Research Conference & Exhibition
-Fuel Your School – STEM @ Central Singapore
-VJC East Zone A*STAR Science Fair
-Science Mentorship Programme (SMP)
-Singapore Junior Chemistry Olympiad
-NYP Science & Technology Challenge
-1 Gold, 1 Silver
-Most Popular Roller-Coaster (Top 10)
-1 Merit
-1 Distinction
-2 Bronzes
-$2nd runner-up in the Balloon-Powered Vehicle category
+|2014|15th ElementzScience Research Conference & Exhibition<br><br>13th ElementzScience Project Competition & Exhibition<br><br>National Science Challenge 2014<br><br>Science Mentorship Programme (SMP)<br><br>Shell Singapore Youth Science Festival<br><br>Singapore ArtScience Prize 2014|2 Bronzes<br><br>3 Silvers<br><br>Quarter-Finalists<br><br>2 Merits<br><br>Most Creative Design<br><br>Best Team Prize, Best Prototype Prize
+|2015|16th ElementzScience Research Conference & Exhibition<br><br>Fuel Your School – STEM @ Central Singapore<br><br>VJC East Zone A*STAR Science Fair<br><br>Science Mentorship Programme (SMP)<br><br>Singapore Junior Chemistry Olympiad<br><br>NYP Science & Technology Challenge|1 Gold, 1 Silver<br><br>Most Popular Roller-Coaster (Top 10)<br><br>1 Merit<br><br>1 Distinction<br><br>2 Bronzes<br><br>2nd runner-up in the Balloon-Powered Vehicle category
