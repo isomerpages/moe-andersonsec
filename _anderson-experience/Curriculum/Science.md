@@ -14,14 +14,14 @@ Where learners EXCEL in science education, EXPLORE their interests and ENJOY the
 As a learning community, we value openness and embrace a growth culture that is committed to professional development. We aim to exemplify our school values of being caring in action, noble in character, daring in our dreams and excellent in all our endeavours when working with teachers and students.
 
 
-Subjects offered by Department
+**Subjects offered by Department**
 GCE N-Level Science (Physics, Chemistry)
-GCE N-Level Science Syllabus T
-GCE O-Level Biology
-GCE O-Level Chemistry
-GCE O-Level Physics
-GCE O-Level Science (Physics, Chemistry)
-GCE O-Level Science (Chemistry, Biology)
+<br>GCE N-Level Science Syllabus T
+<br>GCE O-Level Biology
+<br>GCE O-Level Chemistry
+<br>GCE O-Level Physics
+<br>GCE O-Level Science (Physics, Chemistry)
+<br>GCE O-Level Science (Chemistry, Biology)
 
 
 **Key programmes of Department**
@@ -140,5 +140,3 @@ Semi-Finalist : Das Debansha (4/1, 2021), Justin Leong Qi Wei(4/1, 2021), Kho Yu
 |4|Qin Weichen (4/1,2021)|Silver
 |5|Das Debansha (4/1,2021)|Silver
 |6|Shirleen Anjeanette (4/1, 2021)|Silver
-
-
