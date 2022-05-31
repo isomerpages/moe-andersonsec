@@ -2,6 +2,7 @@ collections:
   anderson-experience:
     output: true
     order:
+      - Key School Events/.keep
       - Special Programme/.keep
       - Direct School Admission 2022.md
       - Curriculum/.keep
