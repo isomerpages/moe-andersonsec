@@ -14,6 +14,5 @@ sections:
           url: ""
         - title: Events
           description: ""
-          url: ""
+          url: /events
 ---
-
