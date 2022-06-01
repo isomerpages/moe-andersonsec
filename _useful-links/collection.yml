@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Teachers/MOE Intranet.md
       - For Teachers/OPAL 2.md
       - For Teachers/School Cockpit Plus.md
       - For Teachers/SC Mobile.md
