@@ -2,6 +2,13 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/.keep
+      - For Students/SLS FAQ.md
+      - For Students/Student iCON.md
+      - For Students/Textbook List.md
+      - For Students/SWN WiFi.md
+      - For Students/Student Learning Space (SLS).md
+      - For Teachers/.keep
       - For Teachers/Fault Reporting ICT.md
       - For Teachers/Haze Website.md
       - For Teachers/HRP Website.md
@@ -15,13 +22,6 @@ collections:
       - For Teachers/SC Mobile.md
       - For Teachers/Singapore Examinations and Assessment Board.md
       - For Teachers/Student Learning Space.md
-      - For Teachers/.keep
+      - For Parents/.keep
       - For Parents/Parent's Gateway.md
       - For Parents/Singapore Examinations and Assessment Board.md
-      - For Parents/.keep
-      - For Students/SLS FAQ.md
-      - For Students/Student iCON.md
-      - For Students/Textbook List.md
-      - For Students/SWN WiFi.md
-      - For Students/Student Learning Space (SLS).md
-      - For Students/.keep
