@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - Student Learning Space (SLS).md
       - SWN WiFi.md
       - Textbook List.md
       - Student iCON.md
