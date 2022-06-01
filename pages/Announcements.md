@@ -22,4 +22,5 @@ Term 2 Updates<br>
 Dear parents, please refer to the attached letters for relevant Term 2 updates. These letters have been uploaded to Parents Gateway on 17 March 2022. Thank you.
 
 Competitions Related to Innovations 2022
-1. Tan Kah Kee Young Inventions Award (TKKYIA) https://singaporetkkf.com.sg/yia/ <br>2. Social Innovation Hackathon info@socialcollider.co
+1. Tan Kah Kee Young Inventions Award (TKKYIA) https://singaporetkkf.com.sg/yia/ 
+2.  Social Innovation Hackathon info@socialcollider.co
