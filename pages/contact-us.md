@@ -16,5 +16,5 @@ contacts:
       - phone: +65 6459 8303
       - email: anderson_ss@moe.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
 ---
