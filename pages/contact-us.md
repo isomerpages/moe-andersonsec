@@ -8,21 +8,13 @@ locations:
       - "10 Ang Mo Kio Street 53 "
       - Singapore 569206
       - ""
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+    operating_hours: []
     maps_link: ""
     title: Where Are We?
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: +65 6459 8303
       - email: anderson_ss@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
