@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Teachers/Student Learning Space.md
       - For Teachers/.keep
       - For Parents/Parent's Gateway.md
       - For Parents/Singapore Examinations and Assessment Board.md
