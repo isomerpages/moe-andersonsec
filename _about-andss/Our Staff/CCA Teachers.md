@@ -34,3 +34,10 @@ third_nav_title: Our Staff
  |Table Tennis	 |Mr Leong Kwong Tine Ken (i/c)<br>Mrs Pamela Priya Raj<br>Mr Wong Teck Hock| leong_kwong_tine@moe.edu.sg<br>pamela_priya@moe.edu.sg<br>wong_teck_hock@moe.edu.sg| 339<br>306<br>305|
  |Volleyball	 |Mr Low Mingsheng Benedict (i/c)<br>Mrs Goh Li Jun Winnie<br>Mdm Lenny Tusya Bte Samsudin| low_mingsheng_benedict@moe.edu.sg<br>chang_li_jun_winnie@moe.edu.sg<br>lenny_tusya_samsudin@moe.edu.sg|355<br>348<br>349|
  |Wushu	 |Mr Neo Eng Hup Edward (i/c)<br>Mr Benedict Ng Min Zhong<br>Mdm Zhang Liya|neo_eng_hup@moe.edu.sg<br>benedict_ng_min_zhong@moe.edu.sg<br>zhang_liya@moe.edu.sg|406<br>371<br>353|
+ 
+ **Uniformed Groups**
+| CCA | Name | Email | Ext Number|
+| -------- | -------- | -------- |-------- |
+|Girl Guides|Ms Wong Li Yi Petrina (i/c)<br>Ms Filzatul Azreen Bte Gazali<br>Ms Jess Neo Jue Shi<br>Ms Syazwani Binte Md Roslan|wong_li_yi@moe.edu.sg<br>filzatul_azreen_gazali@moe.edu.sg<br>jess_neo_jue_shi@moe.edu.sg<br>syazwani_mohamad_roslan@moe.edu.sg|324<br>407<br>364<br>342|
+ |National Cadet Corps| 	 Mr Eu Lee Chung Don (i/c)<br>Mr Aaron Wong Whye Kit<br>Mr Lai Rher Wei<br>Mr Tay Jun Keat|eu_lee_chung@moe.edu.sg<br>aaron_wong_whye_kit@moe.edu.sg<br>lai_rher_wei@moe.edu.sg<br>tay_jun_keat@moe.edu.sg| 311<br>317<br>332<br>362|
+|National Police Cadet Corps  |	 Mdm Soh Wan Ting (i/c)<br>Mr Edmund Tan Yong Boon<br>Ms Lim Shan<br>Mr Tan Hong Yi Jacob|soh_wan_ting@moe.edu.sg<br> edmund_tan_yong_boon@moe.edu.sg<br>lim_shan@moe.edu.sg<br>hong_yi_jacob_tan@moe.edu.sg|307<br>369<br>326<br>340
