@@ -2,6 +2,10 @@ collections:
   about-andss:
     output: true
     order:
+      - Principal's Message.md
+      - Mission and Values.md
+      - Emblem.md
+      - Bamboo Perspective.md
       - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/School Management Committee.md
@@ -10,10 +14,6 @@ collections:
       - Our Staff/Form Teachers.md
       - Our Staff/CCA Teachers.md
       - Our Staff/Allied Educators.md
-      - Principal's Message.md
-      - Mission and Values.md
-      - Emblem.md
-      - Bamboo Perspective.md
       - Our Partners/.keep
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parents Support Group.md
