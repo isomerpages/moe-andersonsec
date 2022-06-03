@@ -83,11 +83,9 @@ In spite of the various restrictions due to the pandemic, five of our students h
 <img src="/images/Competitions-TL-Vishalini%20sharing%20about%20her%20essay%20by%20using%20puppets.jpeg" 
      style="width:50%">
 
-“I have a strong passion for and interest in story writing. I gained new insights about the art of writing through the sharings of our local writers’ real-life experiences. Taking part in the various workshops was extremely engaging and it was a breath of fresh air. I am very grateful for this wonderful opportunity and thankful that I was also interviewed by CPDD to share about the essay that I wrote! ” 
-- Selvaraj Vishalini (4/2)
+“I have a strong passion for and interest in story writing. I gained new insights about the art of writing through the sharings of our local writers’ real-life experiences. Taking part in the various workshops was extremely engaging and it was a breath of fresh air. I am very grateful for this wonderful opportunity and thankful that I was also interviewed by CPDD to share about the essay that I wrote! ” <br> - Selvaraj Vishalini (4/2)
 
-“I enjoyed the script writing workshop a lot. It was an amazing learning opportunity for me to learn from our local script writers. It was fun working together with my team to come up with a script and recite the lines. Thank you, Mrs Grace, for guiding us.” 
--Shafanah Nusrath d/o Jagabar (3/9)
+“I enjoyed the script writing workshop a lot. It was an amazing learning opportunity for me to learn from our local script writers. It was fun working together with my team to come up with a script and recite the lines. Thank you, Mrs Grace, for guiding us.”  <br>-Shafanah Nusrath d/o Jagabar (3/9)
 
 Some of our Secondary two students have taken part in a speech competition conducted virtually by the Tamil Information Technology Society. They were able to exhibit their public speaking skills and this boosted their confidence to speak boldy and clearly. This year, our students also took part in the ‘Kavimalai’ Poetry Competition and ‘Neengalthaan Nirubar’ competition organised by the Tamil Language Council and Thangameen.
 
