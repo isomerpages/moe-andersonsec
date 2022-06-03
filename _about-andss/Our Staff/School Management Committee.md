@@ -36,4 +36,8 @@ cheong_shi_ya_sheena@moe.edu.sg	|235
 |Ms Soh Si Ying|Subject Head, Geography|soh_si_ying@moe.edu.sg|233
 |Ms Tan Kiak Ping Anne|Subject Head, English Language|tan_kiak_ping_anne@moe.edu.sg|239
 |Dr Wang Zhi Wei|Subject Head, Chinese Language|wang_zhiwei@moe.edu.sg|237
-|Dr Liu Jingbo|	Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	302
+|Dr Liu Jingbo|	Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	302|
+|Managers|
+|Ms Patricia Liew|	Administrative Manager 1|patricia_liew@moe.edu.sg|207 
+|Ms Stephanie Yap    |     	Administrative Manager 2|stephanie_yap@moe.edu.sg | 	208
+|Mr Chong Weng Seng	|Operations Manager|chong_weng_seng@moe.edu.sg|206
