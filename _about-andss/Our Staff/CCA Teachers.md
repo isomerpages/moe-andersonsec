@@ -41,3 +41,9 @@ third_nav_title: Our Staff
 |Girl Guides|Ms Wong Li Yi Petrina (i/c)<br>Ms Filzatul Azreen Bte Gazali<br>Ms Jess Neo Jue Shi<br>Ms Syazwani Binte Md Roslan|wong_li_yi@moe.edu.sg<br>filzatul_azreen_gazali@moe.edu.sg<br>jess_neo_jue_shi@moe.edu.sg<br>syazwani_mohamad_roslan@moe.edu.sg|324<br>407<br>364<br>342|
  |National Cadet Corps| 	 Mr Eu Lee Chung Don (i/c)<br>Mr Aaron Wong Whye Kit<br>Mr Lai Rher Wei<br>Mr Tay Jun Keat|eu_lee_chung@moe.edu.sg<br>aaron_wong_whye_kit@moe.edu.sg<br>lai_rher_wei@moe.edu.sg<br>tay_jun_keat@moe.edu.sg| 311<br>317<br>332<br>362|
 |National Police Cadet Corps  |	 Mdm Soh Wan Ting (i/c)<br>Mr Edmund Tan Yong Boon<br>Ms Lim Shan<br>Mr Tan Hong Yi Jacob|soh_wan_ting@moe.edu.sg<br> edmund_tan_yong_boon@moe.edu.sg<br>lim_shan@moe.edu.sg<br>hong_yi_jacob_tan@moe.edu.sg|307<br>369<br>326<br>340
+
+
+ **Student Council**
+| CCA | Name | Email | Ext Number|
+| -------- | -------- | -------- |-------- |
+ |Student Council (2nd CCA)	|Ms Soh Si Ying (i/c)<br>Mrs Chan Hui Tang Elizabeth<br>Mdm Nur Fadilah Bte Yusran<br>Mr Chia Yi Kang Jason|soh_si_ying@moe.edu.sg<br>elizabeth_tio@moe.edu.sg<br>nur_fadilah_yusran@moe.edu.sg<br>chia_yi_kang_jason@moe.edu.sg|233<br>322<br>327<br>343|
