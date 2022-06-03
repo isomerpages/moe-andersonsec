@@ -6,3 +6,16 @@ links:
     collection: anderson-experience
   - title: Useful Links
     collection: useful-links
+  - title: Anderson Experience
+    url: /permalink
+    sublinks:
+      - title: Curriculum
+        url: /permalink
+      - title: CCA
+        url: /permalink
+      - title: Direct School Admission 2022
+        url: /permalink
+      - title: Special Programme
+        url: /permalink
+      - title: Key School Events
+        url: /permalink
