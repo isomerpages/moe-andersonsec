@@ -56,3 +56,20 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|liau_ming_ming@moe.edu.sg|313
 |Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts & Music	|cheng_hooi_yu@moe.edu.sg	|357
 |Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|tang_chee_wah@moe.edu.sg|	391
+|Mathematics|
+|Ms Lee Siew Lin	|Head of Department, Mathematics|lee_siew_lin@moe.edu.sg	|230	 
+|Mr Hng Choon Keong|	Head of Department (ICT), Mathematics	|hng_choon_keong@moe.edu.sg	|229
+|Ms Farn Hsing Chieh	|Assistant Year Head (Lower Secondary), Mathematics	|farn_hsing_chieh@moe.edu.sg|240
+|Mr Mohamed Alfin S/O Habib Rahman	|Assistant Year Head (Lower Secondary), Mathematics|mohamed_alfin_habib_rahman@moe.edu.sg|234
+|Mr Low Kok Ming	|Senior Teacher, Mathematics	|low_kok_ming@moe.edu.sg	| 352|
+|Mr Lian Boon Shen|Teacher, Mathematics|Lian_boon_shen@moe.edu.sg|	TBC
+|Ms Lim Chew Yen	|Teacher, Mathematics|lim_chew_yen@moe.edu.sg	| 405
+|Mrs Low Hui Ying	|Teacher, Mathematics	|oh_hui_ying@moe.edu.sg	| 356
+|Mdm Mirshasha Bte Mohamed Taib	|Teacher, Mathematics	|mirshasha_mohamed_taib@moe.edu.sg	 |334
+|Mr Suranteran S/O Loganathan	|Teacher, Mathematics & Mobile Robotics|suranteran_loganathan@moe.edu.sg	|350
+|Ms Teo Xiu Wen|	Teacher, Mathematics|teo_xiu_wen@moe.edu.sg|	 323
+|Mr Tay Jun Keat	|Teacher, Mathematics|tay_jun_keat@moe.edu.sg	| 362
+|Mr Colin Chen Shou Jie|	Teacher, Mathematics & Computer Applications	|chen_shoujie_colin@moe.edu.sg	 |366
+|Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|aaron_wong_whye_kit@moe.edu.sg	 |317
+|Mrs Magdalene Wan	|Teacher, Mathematics	|foo_seok_cheng_magdalene@moe.edu.sg	| 382
+|Mr Wong Teck Hock	|Teacher, Mathematics	|wong_teck_hock@moe.edu.sg	| 305
