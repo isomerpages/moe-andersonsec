@@ -48,7 +48,7 @@ In the Choral Speaking category, the team, made up of our Secondary 1 Express st
 
 <img src="/images/NSLF%20-%20Flash%20Fiction%20Entry%202021.png" 
      style="width:50%">
-Flash Fiction Entry 2021
+<center>Flash Fiction Entry 2021 </center>
 <img src="/images/NSLF%20-%20Enacting%20a%20scene%20from%20the%20play%20_Don_t%20Know%20Don_t%20Care_.png" 
      style="width:50%">
 <center> Enacting a scene from the play, Don't Know Don't Care </center>
