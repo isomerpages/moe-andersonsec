@@ -87,6 +87,7 @@ inspire and contribute meaningfully to the community</td>
 <br>I take pride in striving to do my very best in every endeavour, academic and non-academic
 <br>I set high expectations for myself and produce high quality work</td>
   </tr>
+</table></table>
 
 
 **Motto**
