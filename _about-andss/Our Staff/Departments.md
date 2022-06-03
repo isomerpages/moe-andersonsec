@@ -115,4 +115,28 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Mr Leong Kwong Tine Ken	|Teacher, Physical Education	|leong_kwong_tine@moe.edu.sg	 |339
 |Mr Low Mingsheng Benedict|	Teacher, Physical Education|low_mingsheng_benedict@moe.edu.sg	| 355
 |Mr Neo Eng Hup Edward	|Teacher, Physical Education	|neo_eng_hup@moe.edu.sg	| 406
-|Mr Tang Wei Chuen Gary	|Teacher, Physical Education & Mobile Robotics	|tang_wei_chuen_gary@moe.edu.sg	 |410
+|Mr Tang Wei Chuen Gary	|Teacher, Physical Education & Mobile Robotics	|tang_wei_chuen_gary@moe.edu.sg	 |410|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
+|Science|
+|Mdm Yu Sheau Jen |	Head of Department, Physics|yu_sheau_jen@moe.edu.sg|227
+|Mr Ang Chip Seng	|Head Of Department (I&E) , Physics|ang_chip_seng@moe.edu.sg	| 228
+|Mr Richmond Ang Dy 	|Subject Head (ICT) , Physics	|richmond_ang_dy@moe.edu.sg|	 238
+|Mr Lai Rher Wei|	Teacher, Physics & Mobile Robotic	|lai_rher_wei@moe.edu.sg	 |332
+|Mr Ng Weilun	|Teacher, Physics|	ng_weilun@moe.edu.sg	| 331
+|Mr Tan Kong Hui James|	Teacher, Physics	|tan_kong_hui_a@moe.edu.sg	 |329
+|Mdm Cheong Shi Ya Sheena	|Subject Head, Chemistry	|cheong_shi_ya_sheena@moe.edu.sg	| 235
+|Chan Wee Xian Eugene	|Subject Head (CCE) , Chemistry	|chan_wee_xian_eugene@moe.edu.sg	| 236
+|Mrs Goh Li Jun Winnie	|Teacher, Chemistry & English Language	|chang_li_jun_winnie@moe.edu.sg	 |348
+|Mrs Goh Li Eng	|Teacher, Chemistry	|koh_li_eng@moe.edu.sg	 |367
+|Mr Wong Foo Kit	|Teacher, Chemistry	|wong_foo_kit@moe.edu.sg	| 341
+|Mr Edmund Tan Yong Boon	|Teacher, Chemistry & Mathematics	|edmund_tan_yong_boon@moe.edu.sg|	 369
+|Mrs Lim Sok Hoon	|Teacher, Chemistry	|teh_sok_hoon@moe.edu.sg	| 330
+|Mr Ivin Chan	|School Staff Developer, Biology	|chan_ivin@moe.edu.sg	 |221
+|Mr Lim Kuan Yick Arthur	|Senior Teacher, Biology	|lim_kuan_yick_arthur@moe.edu.sg|318
+|Mr Lim Guo Xian Andrew|	Teacher, Biology	|lim_guo_xian_andrew@moe.edu.sg	 |359
+|Mdm Lum Yoke Wah|	Teacher, Biology	|lum_yoke_wah@moe.edu.sg|	 333
+|Mdm Teo Siew Lee|TSO, Science Laboratory	|teo_siew_lee@moe.edu.sg |-
+|Mdm Heng Ai Na|TSO, Science Laboratory	|candy_heng_ai_na@moe.edu.sg| -
+|Mdm Rasamal D/O Veerappan|OSO, Science Laboratory	|rasamal_veerappan@moe.edu.sg| -
