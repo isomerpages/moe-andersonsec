@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps.md
