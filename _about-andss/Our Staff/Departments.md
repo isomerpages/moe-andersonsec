@@ -19,7 +19,10 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Ms Sua Shuying Michelle|Teacher, Art|sua_shuying_michelle@moe.edu.sg|336
 |Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|shiming_gavin_goh@moe.edu.sg|325
 |Mr Mohd Nazarudon Masduki|Technical Support Officer|mohd_nazarudin_masduki@moe.edu.sg| -
-|Mr Mah Seng Choy|Technical Support Officer|mah_seng_choy@moe.edu.sg|-
+|Mr Mah Seng Choy|Technical Support Officer|mah_seng_choy@moe.edu.sg|-|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
 |English|
 |Ms Khoo Poh Leng|Head of Department, English Language & Literature	|khoo_poh_leng@moe.edu.sg|	 223
 |Mrs Sabariah Ashari	|Head of Department (Partnership) , English Language & Literature|sabariah_mohd_yusoff@moe.edu.sg| 226
@@ -37,7 +40,10 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Ms Petrina Wong	|Teacher, English Language|wong_li_yi@moe.edu.sg| 324
 |Mr Aminurashid Bin Jumaat	|Teacher, English Language|aminurashid_bin_jumaat@moe.edu.sg	 |361
 |Ms Goh Mei Hui	|Adjunct Teacher, English Language|goh_mei_hui@moe.edu.sg|397
-|Ms Kuan Suay San, Sophina	|Adjunct Teacher, English Language	 |kuan_suay_san@moe.edu.sg|	 399
+|Ms Kuan Suay San, Sophina	|Adjunct Teacher, English Language	 |kuan_suay_san@moe.edu.sg|	 399|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
 |Humanities|
 |Mr Hardi Zein|Head of Department, History|hardi_zein@moe.edu.sg	|220
 |Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|yong_eng_kiat@moe.edu.sg|	303
@@ -55,7 +61,10 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Ms Jess Neo Jue Shi	|Teacher, Geography|jess_neo_jue_shi@moe.edu.sg 	|364
 |Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|liau_ming_ming@moe.edu.sg|313
 |Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts & Music	|cheng_hooi_yu@moe.edu.sg	|357
-|Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|tang_chee_wah@moe.edu.sg|	391
+|Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|tang_chee_wah@moe.edu.sg|	391|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
 |Mathematics|
 |Ms Lee Siew Lin	|Head of Department, Mathematics|lee_siew_lin@moe.edu.sg	|230	 
 |Mr Hng Choon Keong|	Head of Department (ICT), Mathematics	|hng_choon_keong@moe.edu.sg	|229
@@ -72,7 +81,10 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Mr Colin Chen Shou Jie|	Teacher, Mathematics & Computer Applications	|chen_shoujie_colin@moe.edu.sg	 |366
 |Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|aaron_wong_whye_kit@moe.edu.sg	 |317
 |Mrs Magdalene Wan	|Teacher, Mathematics	|foo_seok_cheng_magdalene@moe.edu.sg	| 382
-|Mr Wong Teck Hock	|Teacher, Mathematics	|wong_teck_hock@moe.edu.sg	| 305
+|Mr Wong Teck Hock	|Teacher, Mathematics	|wong_teck_hock@moe.edu.sg	| 305|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
 |Mother Tongue|
 |Dr Wang Zhiwei|Subject Head, Chinese Language|wang_zhiwei@moe.edu.sg|237
 |Dr Liu Jingbo 	 |Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	 302
