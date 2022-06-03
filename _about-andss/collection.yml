@@ -2,14 +2,14 @@ collections:
   about-andss:
     output: true
     order:
-      - Our Staff/Allied Educators.md
-      - Our Staff/CCA Teachers.md
-      - Our Staff/Form Teachers.md
-      - Our Staff/Departments.md
-      - Our Staff/Senior Teachers.md
-      - Our Staff/School Management Committee.md
-      - Our Staff/Our Staff.md
       - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/School Management Committee.md
+      - Our Staff/Senior Teachers.md
+      - Our Staff/Departments.md
+      - Our Staff/Form Teachers.md
+      - Our Staff/CCA Teachers.md
+      - Our Staff/Allied Educators.md
       - Principal's Message.md
       - Mission and Values.md
       - Emblem.md
