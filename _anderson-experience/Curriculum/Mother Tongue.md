@@ -30,7 +30,7 @@ This year, we continued to use Making Thinking Visible (MTV) routines for teachi
 Our MTL teachers participated in a MOE project called “Script it Right”, using Chinese Radio drama scripts to design a teaching package. Our teachers also designed oral exams in SLS, allowing students to sharpen their oral skills through watching videos and listening to radio dramas.
 
 
-Learning beyond the Classroom
+**Learning beyond the Classroom**
 
 The department organizes various talks, workshops and activities to enrich students' learning. For example, during MTL fortnight, our teachers held various talks about Jade, Tea, Poetry, Translation, Historical Anecdotes and Zoombara. There were also Drama workshops, Public Speaking workshops and Xinyao Appreciation. Hands-on activities such as Wushu, Kite Making, Onde-onde Making and Pottery were conducted. Our students were also introduced to a variety of traditional games  (Tarik Upih, Keleret Roda, Baling Selipar, Boling Kelapa and Guni) and traditional Musical instruments (Crosstalk, Wayang Kulit, Zoombara etc). Through these interesting forms, students immersed themselves in the cultures of the various ethnic groups.
 
