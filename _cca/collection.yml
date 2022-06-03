@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Sports/.keep
       - CCA Training Timetable 2022.md
       - Students' Council.md
