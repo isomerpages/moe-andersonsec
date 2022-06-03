@@ -38,7 +38,7 @@ Learn to learn
 **Key programmes of Department**
 
 
-Code for Fun Programme
+**Code for Fun Programme**
 
 In May - July 2021, the Code for Fun programme was conducted for our whole cohort of Secondary 1 students. This programme aims to nurture students’ interest in computational thinking through the use of microcontrollers, robotics and coding. 
 
@@ -54,7 +54,7 @@ The students were tasked to use the skills and knowledge that they have picked u
 		 <img src="/images/Code%20for%20Fun_Pic%204.jpg" 
      style="width:50%">
 		 
-Teaching Mathematics with the Use of Comics 
+**Teaching Mathematics with the Use of Comics** 
 
 The “MAGICAL” project, which stands for “Mathematics is Great : I Can And Like”, is an initiative led by Associate Professor Toh Tin Lam from the Mathematics and Mathematics Education Academic Group (MME), National Institute of Education (NIE). It was started in 2014, with Anderson Secondary School on board since 2016.
 
@@ -65,7 +65,7 @@ Each year, Andersonians are given various opportunities to participate in Mathem
 
 ![](/images/Teaching%20Maths%20with%20the%20use%20of%20comics_Pic%201.jpg)
 
-Singapore Mathematics Project Festival (SMPF) 2021
+**Singapore Mathematics Project Festival (SMPF) 2021**
 
 In preparation for this prestigious competition, organized by the Singapore Mathematical Society, our students worked extremely hard over a period of six months on interesting projects that require them to make use of mathematical reasoning to solve real-world problems.
 
@@ -83,7 +83,7 @@ For the Senior Section, under the supervision of Mr Mohd Alfin, the team compris
 - Mr Tay Jun Keat, Supervisor of SMPF Junior Team
 
 
-All Singapore Secondary Mathematics NA/NT Competition 2021
+**All Singapore Secondary Mathematics NA/NT Competition 2021**
 
 Organised by Clementi Town Secondary School, this competition aims to stimulate greater interest in Mathematics and enrich students’ knowledge about Mathematics. It also provides an opportunity for Normal Course students to showcase their talent in mathematical knowledge and skills through solving competition questions. 
 
