@@ -38,4 +38,25 @@ third_nav_title: Our Staff
 |2/6|	Mr Tan Hongyi, Jacob|hong_yi_jacob_tan@moe.edu.sg|340
 |2/6	|Ms Filzatul Azreen Bte Gazali|filzatul_azreen_gazali@moe.edu.sg|404
 |2/7	|Mr Edmund Tan Yong Boon|edmund_tan_yong_boon@moe.edu.sg|369
-|2/7 	|Mrs Grace Priya Kharnan|grace_priya_joseph@moe.edu.sg|309
+|2/7 	|Mrs Grace Priya Kharnan|grace_priya_joseph@moe.edu.sg|309|
+
+ | Class | Name | Email | Ext Number|
+| -------- | -------- | -------- |-------- |
+|Secondary 3|
+|3/1|Mrs Goh Li Eng	|koh_li_eng@moe.edu.sg|367
+|3/2|Mrs Low Hui Ying	|oh_hui_ying@moe.edu.sg	|335
+|3/2|Mrs Chan Hui Tang Elizabeth|elizabeth_tio@moe.edu.sg	|322
+|3/3	|Ms Karen Kang Hong Lin|kang_hong_lin_karen@moe.edu.sg|328
+|3/3|	Mr Lai Rher Wei|lai_rher_wei@moe.edu.sg|332
+|3/4	|Mdm Lum Yoke Wah|lum_yoke_wah@moe.edu.sg|333
+|3/4	|Mdm Zhang Liya|zhang_liya@moe.edu.sg|353
+|3/5	|Ms Loo Huang Yi|loo_huang_yi@moe.edu.sg|363
+|3/5	|Mr Mohammed Shaiful Abu Bakar|mohammed_shaiful_abu_bakar@moe.edu.sg| |
+|3/6|	Mdm Liau Ming Ming, June|liau_ming_ming_june@moe.edu.sg|313
+|3/6	|Ms Lim Shan|lim_shan@moe.edu.sg|343
+|3/7	|Mr Yong Eng Kiat|yong_eng_kiat@moe.edu.sg|303
+|3/8	|Mdm Aw Sean Ling|aw_sean_ling@moe.edu.sg|301
+|3/8	|Mr Tan Kong Hui	|tan_kong_hui@moe.edu.sg| |
+|3/9	|Mdm Rafidah Bte Razak|rafidah_abd_razak@moe.edu.sg	|409
+|3/9	|Mr Aaron Wong Whye Kit|aaron_wong_whye_kit@moe.edu.sg|317
+|3/9	|Mr Ranganathan Jagan|ranganathan_jagan@moe.edu.sg|320
