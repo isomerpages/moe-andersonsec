@@ -73,3 +73,27 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|aaron_wong_whye_kit@moe.edu.sg	 |317
 |Mrs Magdalene Wan	|Teacher, Mathematics	|foo_seok_cheng_magdalene@moe.edu.sg	| 382
 |Mr Wong Teck Hock	|Teacher, Mathematics	|wong_teck_hock@moe.edu.sg	| 305
+|Mother Tongue|
+|Dr Wang Zhiwei|Subject Head, Chinese Language|wang_zhiwei@moe.edu.sg|237
+|Dr Liu Jingbo 	 |Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	 302
+|Mr Goh Yoon Keong	|Head of Department (CCE), Chinese Language|goh_yoon_keong@moe.edu.sg	 |242
+|Mdm Aw Sean Ling|Senior Teacher, Chinese Language|aw_sean_ling@moe.edu.sg|	 301
+|Ms Gao Wei Wei	Teacher, Chinese Language |gao_wei_wei@moe.edu.sg	 |347
+Ms Liu Yirui	Teacher, Chinese Language 	liu_yirui@moe.edu.sg	 354
+Ms Zhang Liya	Teacher, Chinese Language 	zhang_liya@moe.edu.sg	 353
+Mr Benedict Ng Min Zhong 	Teacher, Chinese Language 	benedict_ng_min_zhong@moe.edu.sg	 371
+Ms Chua Li Ting	Teacher, Chinese Language 	chua_li_ting@moe.edu.sg	 346
+Mr Gregory Boo	Adjunct Teacher, Chinese Language
+gregory_boo@moe.edu.sg	 398
+Mdm Noorlizasabariah Bte Ramli	Malay Language Teacher	noorlizasabariah_ramli@moe.edu.sg	 312
+Mdm Rafidah Binte Abd Razak	Malay Language Teacher	rafidah_abd_razak@moe.edu.sg	 409
+Ms Syazwani Binte Mohamad Roslan 	Malay Language Teacher
+syazwani_mohamad_roslan@moe.edu.sg 	 342
+Ms Filzatul Azreen Gazali	Malay Language Teacher
+filzatul_azreen_gazali@moe.edu.sg	 407
+Mr Mohammed Shaiful Abu Baker	Malay Language Teacher	mohammed_shaiful_abu_bakar@moe.edu.sg	 403
+Mdm Asnah Asrap	Adjunct Teacher, Malay Language	asnah_asrap@moe.edu.sg	 310
+Mrs Grace Priya Kharnan	Teacher, Tamil Language	grace_priya_joseph@moe.edu.sg	 309
+Mdm Pandimeenal Ramaiah	Teacher, Tamil Language	ramaiah_pandimeenal@moe.edu.sg	 337
+Mr Ilango Rama Appaswamy	Adjunct Teacher, Tamil Language	ilango_rama_appaswamy@moe.edu.sg	 308
+Mdm Senkuttuvan Mallika	Relief Teacher, Tamil Language	thuraimanickam_jayajothi@moe.edu.sg	 395
