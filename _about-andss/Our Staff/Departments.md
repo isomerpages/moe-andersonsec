@@ -105,4 +105,14 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	lee_chen_beng@m
 |Mrs Grace Priya Kharnan|	Teacher, Tamil Language	|grace_priya_joseph@moe.edu.sg	 |309
 |Mdm Pandimeenal Ramaiah	|Teacher, Tamil Language	|ramaiah_pandimeenal@moe.edu.sg	 |337
 |Mr Ilango Rama Appaswamy	|Adjunct Teacher, Tamil Language	|ilango_rama_appaswamy@moe.edu.sg	 |308
-|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|thuraimanickam_jayajothi@moe.edu.sg	| 395
+|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|thuraimanickam_jayajothi@moe.edu.sg	| 395|
+
+| Name| Designation| Email | Ext Number|
+| -------- | -------- | -------- | -------- |
+|Physical Education|
+|Mr Indrajit Singh	|Head of Department, Physical Education	|indrajit_singh@moe.edu.sg|225
+|Mr Sivanesan Vmakesan	|Senior Teacher, Physical Education	|sivanesan_vmakesan@moe.edu.sg|	 316
+|Mr Leong Kwong Tine Ken	|Teacher, Physical Education	|leong_kwong_tine@moe.edu.sg	 |339
+|Mr Low Mingsheng Benedict|	Teacher, Physical Education|low_mingsheng_benedict@moe.edu.sg	| 355
+|Mr Neo Eng Hup Edward	|Teacher, Physical Education	|neo_eng_hup@moe.edu.sg	| 406
+|Mr Tang Wei Chuen Gary	|Teacher, Physical Education & Mobile Robotics	|tang_wei_chuen_gary@moe.edu.sg	 |410
