@@ -5,7 +5,8 @@ description: ""
 third_nav_title: CCA
 ---
 ![](/images/IMG_0243_Student%20Councillor.jpg)
-![](/images/IMG_0232_SC%20President_Geeta.jpg)
+<img src="/images/IMG_0232_SC%20President_Geeta.jpg" 
+     style="width:70%">
 
 At the heart of what Anderson Student Council does is to serve the school and its community, and the focus in 2021 is on enlivening school experiences for all students and staff. Our councillors innovated creative ways to engage and create positive experiences for the student body, despite facing constraints and challenges over social interactions due to the pandemic. 
 
