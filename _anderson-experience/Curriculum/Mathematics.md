@@ -73,14 +73,11 @@ For the Junior Section, under the supervision of Mr Tay Jun Keat, the team compr
 
 For the Senior Section, under the supervision of Mr Mohd Alfin, the team comprising Gallardo Lee (4/1), Das Debansha (4/1) and Lyn Qinhang (4/1) worked on the project “Optimizing Angle of Reflection Of A Robotic Vacuum Cleaner”. The team investigated the optimal angle to launch the robotic vacuum cleaner such that it maximizes the area covered while keeping the distance travelled and time taken at a minimum. This project won the team an Honourable Mention.  
 
-“I enjoyed this project because I was able to understand how Math concepts are incorporated in the real world context. Mr Tay and my group mates made the process of the project much easier as they contributed greatly as well.” 
-- Wang Yuqi, 3/2
+“I enjoyed this project because I was able to understand how Math concepts are incorporated in the real world context. Mr Tay and my group mates made the process of the project much easier as they contributed greatly as well.” <br>- Wang Yuqi, 3/2
 
-“I feel that this project is really meaningful as it allows us to put what we have learnt in class into use. At the same time, we are also able to expose ourselves to more Math knowledge and explore different ways to solve a problem. I feel that this is a really good way for those interested in Math to build a deeper interest in it.” 
-- Ng Jerica, 3/3
+“I feel that this project is really meaningful as it allows us to put what we have learnt in class into use. At the same time, we are also able to expose ourselves to more Math knowledge and explore different ways to solve a problem. I feel that this is a really good way for those interested in Math to build a deeper interest in it.” <br>- Ng Jerica, 3/3
 
-“This project provides the students with the opportunity to solve their everyday problems using real mathematical concepts. The joy of seeing the students learning new things as they conduct their research has been the most fulfilling part of this journey.”  
-- Mr Tay Jun Keat, Supervisor of SMPF Junior Team
+“This project provides the students with the opportunity to solve their everyday problems using real mathematical concepts. The joy of seeing the students learning new things as they conduct their research has been the most fulfilling part of this journey.”  <br>- Mr Tay Jun Keat, Supervisor of SMPF Junior Team
 
 
 **All Singapore Secondary Mathematics NA/NT Competition 2021**
