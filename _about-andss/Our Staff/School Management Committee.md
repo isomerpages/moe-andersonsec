@@ -21,4 +21,19 @@ third_nav_title: Our Staff
 |Ms Lee Siew Lin|Head of Department, Mathematics|lee_siew_lin_a@moe.edu.sg|230
 |Mrs Sabariah Ash'ari|Head of Department, Partnership|sabariah_mohd_yusoff@moe.edu.sg|226
 |Mr Sim Lee Yong|Head of Department, Aesthetics and Technology|sim_lee_yong@moe.edu.sg|219
-|Mdm Yu Sheau Jen|Head of Department, Science|yu_sheau_jen@moe.edu.sg|227
+|Mdm Yu Sheau Jen|Head of Department, Science|yu_sheau_jen@moe.edu.sg|227|
+|Year Heads|
+|Mr Ng Ching Enn Stephen	|Year Head (Upper Secondary)|ng_ching_enn@moe.edu.sg|222
+|Mdm Lee Yan Mui Dolly	|Assistant Year Head (Upper Secondary)	|lee_yan_mui_dolly@moe.edu.sg|241
+|Mr Mohd Alfin s/o Habib Rahman|Assistant Year Head (Lower Secondary)|mohamed_alfin_habib_rahman@moe.edu.sg|234
+|Mdm Farn Hsing Chieh	|Assistant Year Head (Lower Secondary)|farn_hsing_chieh@moe.edu.sg|	240|
+|Subject Heads|
+|Mr Chan Wee Xian Eugene|Subject Head, Character and Citizenship Education|chan_wee_xian_eugene@moe.edu.sg|236
+|Mdm Cheong Shi Ya Sheena|Subject Head, Chemistry
+cheong_shi_ya_sheena@moe.edu.sg	|235 
+|Mr Goh Shiming, Gavin|Subject Head,  Student Management|shiming_gavin_goh@moe.edu.sg|325
+|Mr Richmond Ang Dy|Subject Head, Information & Communications Technology|richmond_ang_dy@moe.edu.sg|238
+|Ms Soh Si Ying|Subject Head, Geography|soh_si_ying@moe.edu.sg|233
+|Ms Tan Kiak Ping Anne|Subject Head, English Language|tan_kiak_ping_anne@moe.edu.sg|239
+|Dr Wang Zhi Wei|Subject Head, Chinese Language|wang_zhiwei@moe.edu.sg|237
+|Dr Liu Jingbo|	Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	302
