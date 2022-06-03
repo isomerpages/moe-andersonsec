@@ -82,3 +82,12 @@ third_nav_title: Our Staff
 |4/8	|Ms Ong Piak Yun, Trixie|ong_piak_yun@moe.edu.sg|304
 |4/9|	Mr Ng Weilun|ng_weilun@moe.edu.sg|331
 |4/9	|Mdm Noorlizasabariah Bte Ramli|noorlizasabariah_ramli@moe.edu.sg|403|
+
+
+
+
+ | Class | Name | Email | Ext Number|
+| -------- | -------- | -------- |-------- |
+|Secondary 5|
+|5/1	|Ms Lim Chew Yen|lim_chew_yen@moe.edu.sg|405
+|5/2	|Mr Leong Kwong Tine, Ken|leong_kwong_tine@moe.edu.sg|339
