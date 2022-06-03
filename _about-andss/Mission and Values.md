@@ -3,10 +3,6 @@ title: Mission and Values
 permalink: /about-andss/mission
 description: ""
 ---
-
-
-
-
 **Vision**
 
 Thinkers, Innovators and Leaders who make a difference for the greater good
@@ -91,7 +87,7 @@ inspire and contribute meaningfully to the community</td>
 <br>I take pride in striving to do my very best in every endeavour, academic and non-academic
 <br>I set high expectations for myself and produce high quality work</td>
   </tr>
-	</table>
+
 
 **Motto**
 
