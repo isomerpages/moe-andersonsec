@@ -59,4 +59,26 @@ third_nav_title: Our Staff
 |3/8	|Mr Tan Kong Hui	|tan_kong_hui@moe.edu.sg| |
 |3/9	|Mdm Rafidah Bte Razak|rafidah_abd_razak@moe.edu.sg	|409
 |3/9	|Mr Aaron Wong Whye Kit|aaron_wong_whye_kit@moe.edu.sg|317
-|3/9	|Mr Ranganathan Jagan|ranganathan_jagan@moe.edu.sg|320
+|3/9	|Mr Ranganathan Jagan|ranganathan_jagan@moe.edu.sg|320|
+
+ | Class | Name | Email | Ext Number|
+| -------- | -------- | -------- |-------- |
+|Secondary 4|
+|4/1|Mrs Ang Mei Lin, Amy|leong_mei_lin_amy@moe.edu.sg|319
+|4/1	|Ms Syazwani Bte Md Roslan|syazwani_mohamad_roslan@moe.edu.sg|342
+|4/2|Mrs Pamela Priya Raj	|pamela_priya@moe.edu.sg|306
+|4/2	|Mr Wong Foo Kit|wong_foo_kit@moe.edu.sg|341
+|4/3	|Mr Low Mingsheng, Benedict|low_mingsheng_benedict@moe.edu.sg|355
+|4/3	|Mdm Ramaiah Pandimeenal|ramaiah_pandimeenal@moe.edu.sg|337
+|4/4	|Mr Aminurashid Bin Juma'at|aminurashid_bin_jumaat@moe.edu.sg|361
+|4/4	|Mdm Mirshasha Bte Mohamed Taib|mirshasha_mohamed_taib@moe.edu.sg|334
+|4/5	|Mr Lim Kelvin|lim_kelvin@moe.edu.sg|315
+|4/5	|Ms Tan Wei Ern, Pearlin|tan_wei_ern_pearlin@moe.edu.sg|321
+|4/6	|Mr Suranteran s/o Loganathan|suranteran_loganathan@moe.edu.sg|350
+|4/6|	Ms Liu Yirui|liu_yirui@moe.edu.sg|354
+|4/7|	Mr Chen Shoujie, Colin|chen_shoujie_colin@moe.edu.sg|366
+|4/7 |	Mdm Cheng Hooi Yu, Jane|cheng_hooi_yu@moe.edu.sg|444
+|4/8	|Mr Neo Eng Hup, Edward|neo_eng_hup@moe.edu.sg|406
+|4/8	|Ms Ong Piak Yun, Trixie|ong_piak_yun@moe.edu.sg|304
+|4/9|	Mr Ng Weilun|ng_weilun@moe.edu.sg|331
+|4/9	|Mdm Noorlizasabariah Bte Ramli|noorlizasabariah_ramli@moe.edu.sg|403|
