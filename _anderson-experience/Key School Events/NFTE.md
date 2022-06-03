@@ -14,7 +14,7 @@ Network for Teaching Entrepreneurship  (NFTE, pronounced as ‘nifty’) is a fu
 
 The 60-hour NFTE programme culminates in NFTE Youth Entrepreneurship Challenge (NYEC) where the top 3 students from each NFTE school will be pitching their bausiness ideas to a panel of esteemed judges from various industries. NYEC consists of three main components: NYEC Level Up, NYEC Finals, and NYEC Grand Finale.
 
-**NYEC Level Up **
+**NYEC Level Up**
 
 NYEC Level Up is a 3-day intensive where the top 3 students of each NFTE school work with business mentors on their business plans, prototypes and pitches.
 
