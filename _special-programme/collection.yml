@@ -2,8 +2,8 @@ collections:
   special-programme:
     output: true
     order:
+      - Science Research Programme.md
+      - EMAS.md
+      - NDLP.md
       - CCE/.keep
       - Internationalisation.md
-      - NDLP.md
-      - EMAS.md
-      - Science Research Programme.md
