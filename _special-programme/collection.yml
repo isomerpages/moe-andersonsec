@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Internationalisation.md
-      - Character and Citizenship Education.md
       - NDLP.md
       - EMAS.md
       - Science Research Programme.md
