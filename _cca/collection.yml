@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club/Infocomm.md
       - Club/Anderson Science Academy.md
       - Club/.keep
       - CCA Training Timetable 2022.md
