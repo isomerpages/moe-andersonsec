@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Sexuality Education.md
       - Cyber Wellness.md
       - Positive Parenting.md
