@@ -2,6 +2,7 @@ collections:
   special-programme:
     output: true
     order:
+      - STEM.md
       - Science Research Programme.md
       - EMAS.md
       - NDLP.md
