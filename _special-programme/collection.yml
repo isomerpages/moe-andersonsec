@@ -2,6 +2,7 @@ collections:
   special-programme:
     output: true
     order:
+      - CCE/.keep
       - Internationalisation.md
       - NDLP.md
       - EMAS.md
