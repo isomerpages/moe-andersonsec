@@ -3,10 +3,6 @@ links:
   - title: About ANDSS
     collection: about-andss
   - title: Anderson Experience
-    collection: anderson-experience
-  - title: Useful Links
-    collection: useful-links
-  - title: Anderson Experience
     url: /permalink
     sublinks:
       - title: Academic
@@ -19,3 +15,5 @@ links:
         url: /anderson-experience/Special-Programme/science-research-programme
       - title: Key School Events
         url: /anderson-experience/Key-School-Events/elementz
+  - title: Useful Links
+    collection: useful-links
