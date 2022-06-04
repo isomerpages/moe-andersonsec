@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Cyber Wellness.md
       - Positive Parenting.md
