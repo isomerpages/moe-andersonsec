@@ -2,12 +2,12 @@ collections:
   special-programme:
     output: true
     order:
-      - STEM.md
       - Science Research Programme.md
       - EMAS.md
+      - STEM.md
       - NDLP.md
+      - CCE/.keep
       - CCE/Sexuality Education.md
       - CCE/Cyber Wellness.md
       - CCE/Positive Parenting.md
-      - CCE/.keep
       - Internationalisation.md
