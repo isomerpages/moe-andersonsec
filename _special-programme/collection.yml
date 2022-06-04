@@ -2,5 +2,6 @@ collections:
   special-programme:
     output: true
     order:
+      - NDLP.md
       - EMAS.md
       - Science Research Programme.md
