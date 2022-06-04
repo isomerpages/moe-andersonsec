@@ -2,12 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Club/Art Club.md
-      - Club/Robotics.md
-      - Club/Environmental Science Club (Formerly Green Club).md
-      - Club/Infocomm.md
-      - Club/Anderson Science Academy.md
-      - Club/.keep
       - CCA Training Timetable 2022.md
       - Sports/.keep
       - Sports/Basketball.md
@@ -26,4 +20,10 @@ collections:
       - Performing Arts/Art Theatre Club.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Malay Dance.md
+      - Club/.keep
+      - Club/Art Club.md
+      - Club/Robotics.md
+      - Club/Environmental Science Club (Formerly Green Club).md
+      - Club/Infocomm.md
+      - Club/Anderson Science Academy.md
       - Students' Council.md
