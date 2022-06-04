@@ -103,34 +103,9 @@ Unit: Respectful Relationships & Safety
 
 | Lessons / Duration | Lesson Objectives <br> At the end of the lesson, student will be able to: | Time Period <br> (e.g.Term 1 Week 2) |
 | -------- | -------- | -------- |
-|1A<br>(60 mins)
-
-·  Know that self-perception and identity 
-
-      have an impact on our self-esteem and 
-
-      how we interact with others and the 
-
-      choices we make, both online and offline.
-
-·  Understand that expectations of oneself 
-
-     and others may differ and can affect 
-
-      one’s emotions, thoughts and 
-
-      behaviours.
-
-·  Recognise what healthy 
-
-     dating relationships involve and know 
-
-     that readiness is important when 
-
-      entering into a dating relationship.
-
-
-Term 2 Week 5
+|1A<br>(60 mins)|Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.|Term 2 Week 5|
+|1B<br>(60 mins)|Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>Know that a decision to end a relationship will have consequences on oneself and others.<br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.|Term 3 Week 1|
+ |2<br>(60 mins)|Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs|Term 3 Week 4
 
 **eTeens Programme:**
 
@@ -159,4 +134,3 @@ INFORMATION FOR PARENTS
 13.   Parents can contact the school at  anderson_ss@moe.edu.sg  for discussion or to seek  clarification about the school’s sexuality education programme.
 
 14.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
