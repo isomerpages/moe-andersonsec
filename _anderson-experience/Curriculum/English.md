@@ -59,16 +59,16 @@ During the March school holidays, our Secondary 4 Pure and Elective Literature s
 debate challenge between our Pure and Elective Literature students where they put into practice what they had learnt from the workshop. Congratulations to the winning teams and our best speakers!
 
 <img src="/images/The%20Literature%20Debate%20Workshop%20with%20Coach%20Mr%20Edwin%20Tham.jpeg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/The%20Literature%20Debate%20Workshop%20-%20Closing%20Speech%20by%20Ms%20Khoo%20Poh%20Leng%20EL_%20LIT%20HOD.jpg" 
      style="width:50%">
 <center>The Literature Debate Workshop with Coach Mr Edwin Tham </center>
 
 <img src="/images/The%20Literature%20Debate%20Competition-%20Debaters%202.jpeg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/The%20Literature%20Debate%20Competition%20-%20Debaters.jpeg" 
      style="width:50%">
 <img src="/images/Winners%20of%20the%20%20xxx%20%20From%20left%20to%20right_%20Lee%20Wei%20Xian%204_3%20Jolie%20Lin%204_4%20Chua%20Jia%20Qian%204_4.jpeg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/Winner%20of%20Set%20Text%20Debate_%20Pure%20Lit.jpeg" 
      style="width:50%">
