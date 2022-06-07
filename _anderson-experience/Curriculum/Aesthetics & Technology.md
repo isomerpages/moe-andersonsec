@@ -4,7 +4,6 @@ permalink: /anderson-experience/Curriculum/aesthetics-and-technology
 description: ""
 third_nav_title: Curriculum
 ---
-
 **Subjects offered by Department**
 
 Art
@@ -20,9 +19,9 @@ The Aesthetics & Technology department aims to develop students’ in the differ
 The Art curriculum aims to nurture Andersonians to be passionate and appreciate visual art, promote the learning of various art forms/media and give them a platform to exhibit their leadership abilities through meaningful activities. The focus for lower secondary programmes are on themes, art forms/media and artworks/artists. Students are exposed to various techniques, experiment with different materials and incorporate the use of technology. 
 
 <img src="/images/girls4.jpg" 
-     style="width:50%"><img src="/images/2%20Sec%202%20Art%20Project%20-%20Eggciting%20Time.jpeg" 
+     style="width:50%;float:left"><img src="/images/2%20Sec%202%20Art%20Project%20-%20Eggciting%20Time.jpeg" 
      style="width:50%"><img src="/images/1%20%20Sec%201%20Art%20mini%20installation.jpeg" 
-     style="width:50%">
+     style="width:5=70%">
 		 
 The D&T curriculum aims to equip students with problem solving skills so that they have the ability to apply them across all disciplines. Students are also able to build a link between textbook knowledge and real-world application through a themed project that aims at value creation through D&T with innovative solutions to real world problems.
 
@@ -34,4 +33,4 @@ The Music curriculum aims to provide every student with the opportunity to exper
 
 ![](/images/4%20Music%20Jingle.jpeg)
 
-Mobile Robotics, which is for the Upper Secondary Normal Technical students, aims to provide students with the experience of developing their own mobile robots and equip them with basic knowledge and skills in electronics, intelligent control as well as electrical and mechanical designs. Their mostly concrete and hands-on learning is connected to real-life applications. 
+Mobile Robotics, which is for the Upper Secondary Normal Technical students, aims to provide students with the experience of developing their own mobile robots and equip them with basic knowledge and skills in electronics, intelligent control as well as electrical and mechanical designs. Their mostly concrete and hands-on learning is connected to real-life applications.
