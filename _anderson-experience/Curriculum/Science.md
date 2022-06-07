@@ -35,14 +35,14 @@ In Anderson, we have an integrated framework that provides a dynamic Science lea
 A series of Enrichment workshops and learning journeys have been organized outside curriculum time for Secondary 1 to 3 students, aimed at grooming students into thinkers and innovators. Some of the workshops were water purification technologies, laboratory skills in the area of microorganisms and renewable energy using Lego. Learning journeys to National University of Singapore Science Demonstration Labs were also organized to allow secondary 3 students to discover Science through hands-on activities and interactive learning.
 
 <img src="/images/Picture%207.png" 
-     style="width:50%">
+     style="width:50%;float:left">
 		<img src="/images/Picture%208.jpg" 
      style="width:50%">
 		<img src="/images/Picture%209.jpg" 
      style="width:50%">
 <center> Learning Journey to NUS Demonstration Lab (Chemistry) </center>
 <img src="/images/Picture%205.jpg" 
-     style="width:50%"> <img src="/images/Picture%206.jpg" 
+     style="width:50%;float:left"> <img src="/images/Picture%206.jpg" 
      style="width:50%">
 <center> Learning Journey to NUS Demonstration Lab (Physics) </center>
 <img src="/images/Picture%201.jpg" 
