@@ -10,8 +10,8 @@ Makers Workshop is a hands-on learning experience where the focus lies in develo
 
 <img src="/images/I_E_pic1.png" 
      style="width:50%">
-<img style="float:right;" src="/images/I_E_pic2.png" 
-     style="width:50%">
+<img src="/images/I_E_pic2.png" 
+     style="width:50%; float:right;">
 <img src="/images/I_E_pic3.png" 
      style="width:50%">
 <img src="/images/I_E_pic4.png" 
@@ -21,7 +21,7 @@ In September, students designed and assembled solar-powered Lego car in this Mak
 
 <img src="/images/I_E_pic5.png" 
      style="width:50%"><img src="/images/I_E_pic6.png" 
-     style="width:50%"><img src="/images/I_E_pic7.png" 
+     style="width:50%;float:right;"><img src="/images/I_E_pic7.png" 
      style="width:50%"><img src="/images/I_E_pic8.png" 
      style="width:50%"><img src="/images/I_E_pic9.png" 
      style="width:50%">
