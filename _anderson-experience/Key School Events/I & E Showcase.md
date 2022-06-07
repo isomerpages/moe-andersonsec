@@ -39,17 +39,17 @@ Secondary 1 students IPW slides:
 
 [IPW 1](/files/IPW%201.pdf)
 
-[IPW 2](/files/IPW%202.pdf)
+[IPW 2](/files/IPW%203.pdf)
 
-[IPW 3](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%203.pdf)
+[IPW 3](/files/IPW%202.pdf)
 
-[IPW 4](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%204.pdf)
+[IPW 4](/files/IPW%204.pdf)
 
-[IPW 5](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%205.pdf)
+[IPW 5](/files/IPW%205.pdf)
 
-[IPW 6](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%206.pdf)
+[IPW 6](/files/IPW%206.pdf)
 
-[IPW 7](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%207.pdf)
+[IPW 7](/files/IPW%207.pdf)
 
 Maker's Workshop (July 2020)
 
