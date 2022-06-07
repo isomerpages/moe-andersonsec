@@ -4,7 +4,6 @@ permalink: /anderson-experience/Curriculum/physical-education
 description: ""
 third_nav_title: Curriculum
 ---
-
 **Vision**
 
 Healthy Andersonians who engage in sports for life.
@@ -22,7 +21,7 @@ Physical Education
 Schools and educators have had to rethink and redesign pedagogical practices since Safe Management Measures (SMM) were put in place due to COVID-19. More than any other subject, the teaching of PE has been challenged by this pandemic. COVID-19 challenged our PE teachers in designing meaningful lessons and ensuring the goals of PE are still intact. With SMMs such as restrictions to groupings, safe-distancing and changes often announced at short notice, the department had to be nimble and flexible in making the necessary adjustments to lessons. 
 
 <img src="/images/PE%201.jpeg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/PE%202.jpg" 
      style="width:50%">
 
@@ -39,7 +38,7 @@ The Wellness Programme continued to focus on students with high Body Mass Index 
 The health leaders, led by Mr Ken Leong and Mr Edward Neo, continued to support the department in the various school sports events and healthy lifestyle programmes. To develop our health leaders, training was provided for them in the areas of health and fitness. They were also trained to carry out and run inter-class sports activities.
 
 <img src="/images/PE%205.jpg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/PE%206.jpg" 
      style="width:50%">
 		 
