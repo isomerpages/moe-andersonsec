@@ -23,7 +23,7 @@ In September, students designed and assembled solar-powered Lego car in this Mak
      style="width:50%"><img src="/images/I_E_pic6.png" 
      style="width:50%; float:left;"><img src="/images/I_E_pic7.png" 
      style="width:50%"><img src="/images/I_E_pic8.png" 
-     style="width:50%; float:left;"><img src="/images/I_E_pic9.png" 
+     style="width:50%; float:left;[](/files/IPW%201.pdf)"><img src="/images/I_E_pic9.png" 
      style="width:50%">
 		 
 **Secondary 1 - IPW Projects**
@@ -37,9 +37,9 @@ Secondary 1 students presenting their IPW projects online via Zoom
 
 Secondary 1 students IPW slides:
 
-[IPW 1](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%201.pdf)
+[IPW 1](/files/IPW%201.pdf)
 
-[IPW 2](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%202.pdf)
+[IPW 2](/files/IPW%202.pdf)
 
 [IPW 3](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/IPW%203.pdf)
 
