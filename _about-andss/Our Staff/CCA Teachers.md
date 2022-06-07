@@ -8,7 +8,7 @@ third_nav_title: Our Staff
 
 
 | CCA | Name | Email | Ext Number|
-| -------- | -------- | -------- |-------- |
+| -------- | -------- | -------- | -------- |
 | Art Club|Mr Hairol Bin Mohamed Hossain (i/c)<br>Mdm Foo Seok Cheng Magdalene|hairol_mohamed_hossain@moe.edu.sg<br>foo_seok_cheng_magdalene@moe.edu.sg|314<br>382|
 |Green Club|Mdm Ho Hui Zheng Shirley (i/c)<br>Ms Loo Huang Yi|ho_hui_zheng@moe.edu.sg<br>loo_huang_yi@moe.edu.sg|338<br>363|
 |Infocomm Club|Mr Tang Wei Chuen Gary (i/c)<br>Ms Tan Yin Wei<br>Mr Mohammed Shaiful Abu Bakar|tang_wei_chuen_gary@moe.edu.sg<br>tan_yin_wei@moe.edu.sg<br>mohammed_shaiful_abu_bakar@moe.edu.sg|410<br>351<br>403|
@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 **Performing Arts**
 
 | CCA | Name | Email | Ext Number|
-| -------- | -------- | -------- |-------- |
+| -------- | -------- | -------- | -------- |
 |Anderson Theatre Circle|Ms Ong Piak Yun Trixie (i/c)<br>Mr Aminurashid Bin Juma’at<br>Ms Wang Sichuan|ong_piak_yun@moe.edu.sg<br>aminurashid_bin_jumaat@moe.edu.sg<br>wang_sichuan@moe.edu.sg|304<br>361<br>365|
 |Band |	 Mdm Aw Sean Ling (i/c)<br>Mdm Ramaiah Pandimeenal<br>Ms Tan Wei Ern Pearlin<br>Mrs Wong Xiu Wen|aw_sean_ling@moe.edu.sg<br>ramaiah_pandimeenal@moe.edu.sg<br>tan_wei_ern_pearlin@moe.edu.sg<br>teo_xiu_wen@moe.edu.sg|301<br>337<br>321<br>323|
 |Chinese Dance	|Ms Gao Wei Wei (i/c)<br>Mrs Ang Mei Lin Amy<br>Ms Venotni d/o Retnam (Term 2)|gao_wei_wei@moe.edu.sg<br>leong_mei_lin_amy@moe.edu.sg<br>TBC	| 347<br>319<br>TBC|
