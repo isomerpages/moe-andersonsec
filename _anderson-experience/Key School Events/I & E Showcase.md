@@ -51,8 +51,8 @@ Secondary 1 students IPW slides:
 
 [IPW 7](/files/IPW%207.pdf)
 
-Maker's Workshop (July 2020)
 
+**Maker's Workshop (July 2020)**
 
 Students created their personal coffee cup using the coiling method in this pottery workshop organized by Mr Hairol, Gear-Up programme and I&E committee
 
@@ -63,14 +63,14 @@ Students created their personal coffee cup using the coiling method in this pott
 
 **Innovator's Project 2020**
 
-[Adjustable Walkers - Xin Jie and Le Qi](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Adjustable%20Walkers_xin%20jie%20and%20le%20qi-2-2.pdf)
+[Adjustable Walkers - Xin Jie and Le Qi](/files/Adjustable%20Walkers_xin%20jie%20and%20le%20qi-2-2.pdf)
 
-[Heat and Ultrasoni-sensing Wristband - Melissa and Ruo Yun ](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Heat%20and%20Ultrasoni-sensing%20Wristband_Marissa%20&%20RuoYun.pdf)
+[Heat and Ultrasoni-sensing Wristband - Melissa and Ruo Yun ](/files/Heat%20and%20Ultrasoni-sensing%20Wristband_Marissa%20&%20RuoYun.pdf)
 
-[Improved Walking Stick - Jerica and Cherry ](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Improved%20Walking%20Stick_Jerica%20and%20Cherry-2-2.pdf)
+[Improved Walking Stick - Jerica and Cherry ](/files/Improved%20Walking%20Stick_Jerica%20and%20Cherry-2-2.pdf)
 
-[Material Layering of Car Prog - Jayden and Sida](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Material%20Layering%20of%20Car-Prog-Jayden-and-Sida-2_1.pdf)
+[Material Layering of Car Prog - Jayden and Sida](/files/Material%20Layering%20of%20Car-Prog-Jayden-and-Sida-2_1.pdf)
 
-[Navigation Robot - Brandon and Kuan Ee](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Navigation%20Robot%20-%20Brandon%20&%20Kuan%20Ee.pdf)
+[Navigation Robot - Brandon and Kuan Ee](/files/Navigation%20Robot%20-%20Brandon%20&%20Kuan%20Ee.pdf)
 
-[Smart Watch - Seah Jin Juan and Chye Pin Ke](https://andersonsec.moe.edu.sg/qql/slot/u202/The%20Anderson%20Experience/I%20&%20E%20Showcase/Smart%20Watch%20-%20Seah%20Jin%20Juan%20and%20Chye%20Pin%20Ke.pdf)
+[Smart Watch - Seah Jin Juan and Chye Pin Ke](/files/Smart%20Watch%20-%20Seah%20Jin%20Juan%20and%20Chye%20Pin%20Ke.pdf)
