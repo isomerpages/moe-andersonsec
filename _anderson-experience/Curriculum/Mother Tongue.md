@@ -4,7 +4,6 @@ permalink: /anderson-experience/Curriculum/mother-tongue
 description: ""
 third_nav_title: Curriculum
 ---
-
 **Vision**
 
 Passionate, competent and lifelong learners of Mother Tongue Language and Culture
@@ -46,13 +45,15 @@ The Tamil Language Unit strives to ignite a spark in students that will inspire 
 The MTL Fortnight Programme was accompanied by the Tamil Reading Programme, a brand new initiative, which sought to promote a love for literature in a positive and nurturing learning environment, while encouraging critical thinking and deeper engagement with selected pieces of literature. This activity has been held for the lower secondary students, and done so in collaboration with the National Library Board. Texts have been carefully selected to suit students’ reading capabilities and each reading has been followed by a class discussion and individual reflection. This Reading Programme boosts students’ enthusiasm towards Tamil literature and instil in them the good discipline of reading, reflecting and critical thinking.
 
 <img src="/images/MTL%20fornight-CL-Kite%20making.jpg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/MTL%20fortnight-CL-Wushu.jpg" 
      style="width:50%">
 <img src="/images/MTL%20fortnight-CL-Xinyao.jpeg" 
-     style="width:50%">
+     style="width:50%;float:left">
 <img src="/images/MTL%20Fortnight-TL-The%20Puppetry%20Workshop.jpeg" 
      style="width:50%">
+
+<br>
 
 **Competitions**
 
