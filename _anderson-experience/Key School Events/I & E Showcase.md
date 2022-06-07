@@ -9,11 +9,11 @@ third_nav_title: Key School Events
 Makers Workshop is a hands-on learning experience where the focus lies in developing innovation and design skills though the creation of personal and meaningful objects. This year, the I&E committee, together with the Gear-up committee, conducted two Makers workshop for students. In May, students made their own ice cream without using a machine in an ice cream workshop organized together with Ms Goh Li Eng. The ice cream was delicious because students chose their favourite flavours without adding artificial ingredients, fake thickeners or stabilizers. Yummy!
 
 <img src="/images/I_E_pic1.png" 
-     style="width:50%">
+     style="width:50%; float:left;">
 <img src="/images/I_E_pic2.png" 
-     style="width:50%; float:right;">
-<img src="/images/I_E_pic3.png" 
      style="width:50%">
+<img src="/images/I_E_pic3.png" 
+     style="width:50%; float:left;">
 <img src="/images/I_E_pic4.png" 
      style="width:50%">
 
@@ -21,9 +21,9 @@ In September, students designed and assembled solar-powered Lego car in this Mak
 
 <img src="/images/I_E_pic5.png" 
      style="width:50%"><img src="/images/I_E_pic6.png" 
-     style="width:50%;float:right;"><img src="/images/I_E_pic7.png" 
+     style="width:50%; float:left;"><img src="/images/I_E_pic7.png" 
      style="width:50%"><img src="/images/I_E_pic8.png" 
-     style="width:50%"><img src="/images/I_E_pic9.png" 
+     style="width:50%; float:left;"><img src="/images/I_E_pic9.png" 
      style="width:50%">
 		 
 **Secondary 1 - IPW Projects**
