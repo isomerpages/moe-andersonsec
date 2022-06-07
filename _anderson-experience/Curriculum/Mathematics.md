@@ -4,7 +4,6 @@ permalink: /anderson-experience/Curriculum/mathematics
 description: ""
 third_nav_title: Curriculum
 ---
-
 **Vision**
 
 Excellence in the teaching and learning of Mathematics to nurture self-directed Mathematics learners and analytical problem solvers
@@ -50,7 +49,7 @@ The students were tasked to use the skills and knowledge that they have picked u
 <img src="/images/Code%20for%20Fun_Pic%201.jpg" 
      style="width:50%">
 		 <img src="/images/Code%20for%20Fun_Pic%203.jpg" 
-     style="width:50%"><img src="/images/Code%20for%20Fun_Pic%202.jpg" 
+     style="width:50%;float:left"><img src="/images/Code%20for%20Fun_Pic%202.jpg" 
      style="width:50%">
 		 <img src="/images/Code%20for%20Fun_Pic%204.jpg" 
      style="width:50%">
