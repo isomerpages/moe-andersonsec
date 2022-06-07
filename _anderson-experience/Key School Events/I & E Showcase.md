@@ -10,7 +10,7 @@ Makers Workshop is a hands-on learning experience where the focus lies in develo
 
 <img src="/images/I_E_pic1.png" 
      style="width:50%">
-<img src="/images/I_E_pic2.png" 
+<img style="float:left;" src="/images/I_E_pic2.png" 
      style="width:50%">
 <img src="/images/I_E_pic3.png" 
      style="width:50%">
