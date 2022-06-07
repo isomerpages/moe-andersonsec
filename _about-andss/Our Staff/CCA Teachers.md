@@ -27,7 +27,7 @@ third_nav_title: Our Staff
 
 **Sports**
 | CCA | Name | Email | Ext Number|
-| -------- | -------- | -------- |-------- |
+| -------- | -------- | -------- | -------- |
 |Basketball|Mr Chen Shoujie Colin (i/c)<br>Mr Lee Chen Beng<br>Ms Liu Yirui|chen_shoujie_colin@moe.edu.sg<br>lee_chen_beng@moe.edu.sg<br>liu_yirui@moe.edu.sg|366<br>360<br>354|
 |Football	|Mr Wong Foo Kit (i/c)<br>Mr Suranteran s/o Loganathan<br>Mr Lim Guo Xian Andrew|wong_foo_kit@moe.edu.sg<br>suranteran_loganathan@moe.edu.sg<br>lim_guo_xian_andrew@moe.edu.sg|341<br>350<br>359|
  |Netball	 |Mrs Goh Li Eng (i/c)<br>Mdm Mirshasha Bte Mohamed Taib<br>Mdm Noorlizasabariah Bte Ramli|koh_li_eng@moe.edu.sg<br>mirshasha_mohamed_taib@moe.edu.sg<br>noorlizasabariah_ramli@moe.edu.sg|367<br>334<br>312|
