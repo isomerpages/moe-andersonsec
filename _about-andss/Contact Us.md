@@ -16,4 +16,4 @@ Email:
 <a href="mailto:anderson_ss@moe.edu.sg">anderson_ss@moe.edu.sg</a>
 
 Facebook:
-http://www.facebook.com/andersonsecsch
+[http://www.facebook.com/andersonsecsch](http://www.facebook.com/andersonsecsch)
