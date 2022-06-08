@@ -1,7 +1,24 @@
 logo: /images/logo (2).png
 links:
   - title: About ANDSS
-    collection: about-andss
+    url: /about-andss/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-andss/principals-message
+      - title: Mission and Values
+        url: /about-andss/mission-and-values
+      - title: Emblem
+        url: /about-andss/emblem
+      - title: Bamboo Perspective
+        url: /about-andss/bamboo-perspective
+      - title: Our Staff
+        url: /about-andss/our-staff
+      - title: Our Partners
+        url: /our-partners
+      - title: Contact Us
+        url: /about-andss/contact-us
+      - title: PDPA Notice
+        url: /about-andss/pdpa-notice
   - title: Anderson Experience
     url: /anderson-experience/Curriculum/English
     sublinks:
@@ -17,22 +34,3 @@ links:
         url: /anderson-experience/Key-School-Events/elementz
   - title: Useful Links
     collection: useful-links
-  - title: About ANDSS
-    url: /permalink
-    sublinks:
-      - title: Principal's Message
-        url: /permalink
-      - title: Mission and Values
-        url: /permalink
-      - title: Emblem
-        url: /permalink
-      - title: Bamboo Perspective
-        url: /permalink
-      - title: Our Staff
-        url: /permalink
-      - title: Our Partners
-        url: /permalink
-      - title: Contact Us
-        url: /permalink
-      - title: PDPA Notice
-        url: /permalink
