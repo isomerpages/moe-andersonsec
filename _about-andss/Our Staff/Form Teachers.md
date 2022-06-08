@@ -25,20 +25,20 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 | Secondary 2|
-|2/1|Mr Sivanesan s/o V.Makesan|sivanesan_vmakesan@moe.edu.sg|316
-|2/1|Ms Tan Yin Wei|tan_yin_wei@moe.edu.sg|351
-|2/2|Mdm Soh Wan Ting	|soh_wan_ting@moe.edu.sg	|326|
-|2/2	|Mr Lee Chen Beng|lee_chen_beng@moe.edu.sg|360
-|2/3	|Mr Lim Guo Xian, Andrew|lim_guo_xian_andrew@moe.edu.sg|359
-|2/3	|Mrs Greak Kumar|greak_kumar@moe.edu.sg|345
-|2/4	|Ms Jess Neo Jue Shi|jess_neo_jue_shi@moe.edu.sg|364
-|2/4	|Ms Chua Li Ting|chua_li_ting@moe.edu.sg|401
-|2/5	|Ms Wang Sichuan|wang_sichuan@moe.edu.sg|365
-|2/5	|Ms Yeow Swee Li|yeow_swee_li@moe.edu.sg|408
-|2/6|	Mr Tan Hongyi, Jacob|hong_yi_jacob_tan@moe.edu.sg|340
-|2/6	|Ms Filzatul Azreen Bte Gazali|filzatul_azreen_gazali@moe.edu.sg|404
-|2/7	|Mr Edmund Tan Yong Boon|edmund_tan_yong_boon@moe.edu.sg|369
-|2/7 	|Mrs Grace Priya Kharnan|grace_priya_joseph@moe.edu.sg|309|
+|2/1|Mr Sivanesan s/o V.Makesan|<a href="mailto:sivanesan_vmakesan@moe.edu.sg">sivanesan_vmakesan@moe.edu.sg</a>|316
+|2/1|Ms Tan Yin Wei|<a href="mailto:tan_yin_wei@moe.edu.sg">tan_yin_wei@moe.edu.sg</a>|351
+|2/2|Mdm Soh Wan Ting	|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>	|326|
+|2/2	|Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
+|2/3	|Mr Lim Guo Xian, Andrew|<a href="mailto:lim_guo_xian_andrew@moe.edu.sg">lim_guo_xian_andrew@moe.edu.sg</a>|359
+|2/3	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">greak_kumar@moe.edu.sg</a>|345
+|2/4	|Ms Jess Neo Jue Shi|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg</a>|364
+|2/4	|Ms Chua Li Ting|<a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a>|401
+|2/5	|Ms Wang Sichuan|<a href="mailto:wang_sichuan@moe.edu.sg">wang_sichuan@moe.edu.sg</a>|365
+|2/5	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
+|2/6|	Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
+|2/6	|Ms Filzatul Azreen Bte Gazali|<a href="mailto:filzatul_azreen_gazali@moe.edu.sg">filzatul_azreen_gazali@moe.edu.sg</a>|404
+|2/7	|Mr Edmund Tan Yong Boon|<a href="mailto:edmund_tan_yong_boon@moe.edu.sg">edmund_tan_yong_boon@moe.edu.sg</a>|369
+|2/7 	|Mrs Grace Priya Kharnan|<a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>|309|
 
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
