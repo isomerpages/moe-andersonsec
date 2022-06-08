@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/For Students.md
+      - For Students/Links.md
       - For Students/SWN WiFi.md
       - For Students/Textbook List.md
       - For Teachers.md
