@@ -45,67 +45,67 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
 |Humanities|
-|Mr Hardi Zein|Head of Department, History|hardi_zein@moe.edu.sg	|220
-|Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|yong_eng_kiat@moe.edu.sg|	303
-|Mdm Shirley Ho Hui Zheng|Teacher, History & Social Studies|ho_hui_zheng@moe.edu.sg|338
-|Mr Eu Lee Chung Don|Teacher, History & Social Studies|eu_lee_chung@moe.edu.sg|	311
-|Mrs Elizabeth Chan Hui Tang| |elizabeth_tio@moe.edu.sg|322
-|Mrs Ang Mei Lin Amy	|Teacher, History & Social Studies|leong_mei_lin_amy@moe.edu.sg|319
-|Mr Tan Hong Yi Jacob|Teacher, History & Social Studies|hong_yi_jacob_tan@moe.edu.sg|340
-|Ms Wang Sichuan	|Teacher, History & Drama|wang_sichuan@moe.edu.sg	|365
-|Mr Jason Chia Yi Kang	|Teacher, Social Studies & English Language|chia_yi_kang_jason@moe.edu.sg	|343
-|Ms Soh Si Ying|Subject Head, Geography|soh_si_ying@moe.edu.sg|233
-|Ms Lenny Tusya Samsudin	|Teacher, Geography|lenny_tusya_samsudin@moe.edu.sg	|349
-|Ms Pearlin Tan Wei Ern	|Teacher, Geography|tan_wei_ern_pearlin@moe.edu.sg	|321
-|Mdm Loo Huang Yi	|Teacher, Geography|loo_huang_yi@moe.edu.sg	|363
-|Ms Jess Neo Jue Shi	|Teacher, Geography|jess_neo_jue_shi@moe.edu.sg 	|364
-|Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|liau_ming_ming@moe.edu.sg|313
-|Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts & Music	|cheng_hooi_yu@moe.edu.sg	|357
-|Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|tang_chee_wah@moe.edu.sg|	391|
+|Mr Hardi Zein|Head of Department, History|<a href="mailto:hardi_zein@moe.edu.sg">hardi_zein@moe.edu.sg</a>	|220
+|Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
+|Mdm Shirley Ho Hui Zheng|Teacher, History & Social Studies|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
+|Mr Eu Lee Chung Don|Teacher, History & Social Studies|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|	311
+|Mrs Elizabeth Chan Hui Tang| |<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>|322
+|Mrs Ang Mei Lin Amy	|Teacher, History & Social Studies|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
+|Mr Tan Hong Yi Jacob|Teacher, History & Social Studies|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
+|Ms Wang Sichuan	|Teacher, History & Drama|<a href="mailto:wang_sichuan@moe.edu.sg	">wang_sichuan@moe.edu.sg	</a>|365
+|Mr Jason Chia Yi Kang	|Teacher, Social Studies & English Language|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>	|343
+|Ms Soh Si Ying|Subject Head, Geography|<a href="mailto:soh_si_ying@moe.edu.sg">soh_si_ying@moe.edu.sg</a>|233
+|Ms Lenny Tusya Samsudin	|Teacher, Geography|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>	|349
+|Ms Pearlin Tan Wei Ern	|Teacher, Geography|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>	|321
+|Mdm Loo Huang Yi	|Teacher, Geography|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
+|Ms Jess Neo Jue Shi	|Teacher, Geography|<a href="mailto:jess_neo_jue_shi@moe.edu.sg ">jess_neo_jue_shi@moe.edu.sg </a>	|364
+|Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
+|Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts & Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
+|Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|<a href="mailto:tang_chee_wah@moe.edu.sg">tang_chee_wah@moe.edu.sg</a>|	391|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
 |Mathematics|
-|Ms Lee Siew Lin	|Head of Department, Mathematics|lee_siew_lin@moe.edu.sg	|230	 
-|Mr Hng Choon Keong|	Head of Department (ICT), Mathematics	|hng_choon_keong@moe.edu.sg	|229
-|Ms Farn Hsing Chieh	|Assistant Year Head (Lower Secondary), Mathematics	|farn_hsing_chieh@moe.edu.sg|240
-|Mr Mohamed Alfin S/O Habib Rahman	|Assistant Year Head (Lower Secondary), Mathematics|mohamed_alfin_habib_rahman@moe.edu.sg|234
-|Mr Low Kok Ming	|Senior Teacher, Mathematics	|low_kok_ming@moe.edu.sg	| 352|
-|Mr Lian Boon Shen|Teacher, Mathematics|Lian_boon_shen@moe.edu.sg|	TBC
-|Ms Lim Chew Yen	|Teacher, Mathematics|lim_chew_yen@moe.edu.sg	| 405
-|Mrs Low Hui Ying	|Teacher, Mathematics	|oh_hui_ying@moe.edu.sg	| 356
-|Mdm Mirshasha Bte Mohamed Taib	|Teacher, Mathematics	|mirshasha_mohamed_taib@moe.edu.sg	 |334
-|Mr Suranteran S/O Loganathan	|Teacher, Mathematics & Mobile Robotics|suranteran_loganathan@moe.edu.sg	|350
-|Ms Teo Xiu Wen|	Teacher, Mathematics|teo_xiu_wen@moe.edu.sg|	 323
-|Mr Tay Jun Keat	|Teacher, Mathematics|tay_jun_keat@moe.edu.sg	| 362
-|Mr Colin Chen Shou Jie|	Teacher, Mathematics & Computer Applications	|chen_shoujie_colin@moe.edu.sg	 |366
-|Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|aaron_wong_whye_kit@moe.edu.sg	 |317
-|Mrs Magdalene Wan	|Teacher, Mathematics	|foo_seok_cheng_magdalene@moe.edu.sg	| 382
-|Mr Wong Teck Hock	|Teacher, Mathematics	|wong_teck_hock@moe.edu.sg	| 305|
+|Ms Lee Siew Lin	|Head of Department, Mathematics|<a href="mailto:lee_siew_lin@moe.edu.sg	">lee_siew_lin@moe.edu.sg	</a>|230	 
+|Mr Hng Choon Keong|	Head of Department (ICT), Mathematics	|<a href="mailto:hng_choon_keong@moe.edu.sg">hng_choon_keong@moe.edu.sg</a>	|229
+|Ms Farn Hsing Chieh	|Assistant Year Head (Lower Secondary), Mathematics	|<a href="mailto:farn_hsing_chieh@moe.edu.sg">farn_hsing_chieh@moe.edu.sg</a>|240
+|Mr Mohamed Alfin S/O Habib Rahman	|Assistant Year Head (Lower Secondary), Mathematics|<a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg">mohamed_alfin_habib_rahman@moe.edu.sg</a>|234
+|Mr Low Kok Ming	|Senior Teacher, Mathematics	|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>	| 352|
+|Mr Lian Boon Shen|Teacher, Mathematics|<a href="mailto:Lian_boon_shen@moe.edu.sg">Lian_boon_shen@moe.edu.sg</a>|	TBC
+|Ms Lim Chew Yen	|Teacher, Mathematics|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>	| 405
+|Mrs Low Hui Ying	|Teacher, Mathematics	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>	| 356
+|Mdm Mirshasha Bte Mohamed Taib	|Teacher, Mathematics	|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>	 |334
+|Mr Suranteran S/O Loganathan	|Teacher, Mathematics & Mobile Robotics|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>	|350
+|Ms Teo Xiu Wen|	Teacher, Mathematics|<a href="mailto:teo_xiu_wen@moe.edu.sg">teo_xiu_wen@moe.edu.sg</a>|	 323
+|Mr Tay Jun Keat	|Teacher, Mathematics|<a href="mailto:tay_jun_keat@moe.edu.sg">tay_jun_keat@moe.edu.sg</a>	| 362
+|Mr Colin Chen Shou Jie|	Teacher, Mathematics & Computer Applications	|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>	 |366
+|Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>	 |317
+|Mrs Magdalene Wan	|Teacher, Mathematics	|<a href="mailto:foo_seok_cheng_magdalene@moe.edu.sg">foo_seok_cheng_magdalene@moe.edu.sg</a>	| 382
+|Mr Wong Teck Hock	|Teacher, Mathematics	|<a href="mailto:wong_teck_hock@moe.edu.sg	">wong_teck_hock@moe.edu.sg	</a>| 305|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
 |Mother Tongue|
-|Dr Wang Zhiwei|Subject Head, Chinese Language|wang_zhiwei@moe.edu.sg|237
-|Dr Liu Jingbo 	 |Subject Head, Chinese Language	|liu_jingbo@moe.edu.sg|	 302
-|Mr Goh Yoon Keong	|Head of Department (CCE), Chinese Language|goh_yoon_keong@moe.edu.sg	 |242
-|Mdm Aw Sean Ling|Senior Teacher, Chinese Language|aw_sean_ling@moe.edu.sg|	 301
-|Ms Gao Wei Wei	Teacher, Chinese Language |gao_wei_wei@moe.edu.sg	 |347
-|Ms Liu Yirui	|Teacher, Chinese Language|liu_yirui@moe.edu.sg	 |354
-|Ms Zhang Liya	|Teacher, Chinese Language |zhang_liya@moe.edu.sg	 |353
-|Mr Benedict Ng Min Zhong |	Teacher, Chinese Language|benedict_ng_min_zhong@moe.edu.sg	| 371
-|Ms Chua Li Ting	|Teacher, Chinese Language|chua_li_ting@moe.edu.sg|	 346
-|Mr Gregory Boo	|Adjunct Teacher, Chinese Language|gregory_boo@moe.edu.sg	 |398
-|Mdm Noorlizasabariah Bte Ramli	|Malay Language Teacher	|noorlizasabariah_ramli@moe.edu.sg	 |312
-|Mdm Rafidah Binte Abd Razak	|Malay Language Teacher	|rafidah_abd_razak@moe.edu.sg	 |409
-|Ms Syazwani Binte Mohamad Roslan |	Malay Language Teacher|syazwani_mohamad_roslan@moe.edu.sg |	 342
-|Ms Filzatul Azreen Gazali	|Malay Language Teacher|filzatul_azreen_gazali@moe.edu.sg	 |407
-|Mr Mohammed Shaiful Abu Baker	|Malay Language Teacher|	mohammed_shaiful_abu_bakar@moe.edu.sg	|403
-|Mdm Asnah Asrap	|Adjunct Teacher, Malay Language	|asnah_asrap@moe.edu.sg	 |310
-|Mrs Grace Priya Kharnan|	Teacher, Tamil Language	|grace_priya_joseph@moe.edu.sg	 |309
-|Mdm Pandimeenal Ramaiah	|Teacher, Tamil Language	|ramaiah_pandimeenal@moe.edu.sg	 |337
-|Mr Ilango Rama Appaswamy	|Adjunct Teacher, Tamil Language	|ilango_rama_appaswamy@moe.edu.sg	 |308
-|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|thuraimanickam_jayajothi@moe.edu.sg	| 395|
+|Dr Wang Zhiwei|Subject Head, Chinese Language|<a href="mailto:wang_zhiwei@moe.edu.sg">wang_zhiwei@moe.edu.sg</a>|237
+|Dr Liu Jingbo 	 |Subject Head, Chinese Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>liu_jingbo@moe.edu.sg|	 302
+|Mr Goh Yoon Keong	|Head of Department (CCE), Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>goh_yoon_keong@moe.edu.sg	 |242
+|Mdm Aw Sean Ling|Senior Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>aw_sean_ling@moe.edu.sg|	 301
+|Ms Gao Wei Wei	Teacher, Chinese Language |<a href="mailto:webmaster@example.com">Jon Doe</a>gao_wei_wei@moe.edu.sg	 |347
+|Ms Liu Yirui	|Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>liu_yirui@moe.edu.sg	 |354
+|Ms Zhang Liya	|Teacher, Chinese Language |<a href="mailto:webmaster@example.com">Jon Doe</a>zhang_liya@moe.edu.sg	 |353
+|Mr Benedict Ng Min Zhong |	Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>benedict_ng_min_zhong@moe.edu.sg	| 371
+|Ms Chua Li Ting	|Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>chua_li_ting@moe.edu.sg|	 346
+|Mr Gregory Boo	|Adjunct Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>gregory_boo@moe.edu.sg	 |398
+|Mdm Noorlizasabariah Bte Ramli	|Malay Language Teacher	|<a href="mailto:webmaster@example.com">Jon Doe</a>noorlizasabariah_ramli@moe.edu.sg	 |312
+|Mdm Rafidah Binte Abd Razak	|Malay Language Teacher	|<a href="mailto:webmaster@example.com">Jon Doe</a>rafidah_abd_razak@moe.edu.sg	 |409
+|Ms Syazwani Binte Mohamad Roslan |	Malay Language Teacher|<a href="mailto:webmaster@example.com">Jon Doe</a>syazwani_mohamad_roslan@moe.edu.sg |	 342
+|Ms Filzatul Azreen Gazali	|Malay Language Teacher|<a href="mailto:webmaster@example.com">Jon Doe</a>filzatul_azreen_gazali@moe.edu.sg	 |407
+|Mr Mohammed Shaiful Abu Baker	|Malay Language Teacher|	<a href="mailto:webmaster@example.com">Jon Doe</a>mohammed_shaiful_abu_bakar@moe.edu.sg	|403
+|Mdm Asnah Asrap	|Adjunct Teacher, Malay Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>asnah_asrap@moe.edu.sg	 |310
+|Mrs Grace Priya Kharnan|	Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>grace_priya_joseph@moe.edu.sg	 |309
+|Mdm Pandimeenal Ramaiah	|Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>ramaiah_pandimeenal@moe.edu.sg	 |337
+|Mr Ilango Rama Appaswamy	|Adjunct Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>ilango_rama_appaswamy@moe.edu.sg	 |308
+|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>thuraimanickam_jayajothi@moe.edu.sg	| 395|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
