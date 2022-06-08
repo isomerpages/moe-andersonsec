@@ -110,12 +110,12 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
 |Physical Education|
-|Mr Indrajit Singh	|Head of Department, Physical Education	|indrajit_singh@moe.edu.sg|225
-|Mr Sivanesan Vmakesan	|Senior Teacher, Physical Education	|sivanesan_vmakesan@moe.edu.sg|	 316
-|Mr Leong Kwong Tine Ken	|Teacher, Physical Education	|leong_kwong_tine@moe.edu.sg	 |339
-|Mr Low Mingsheng Benedict|	Teacher, Physical Education|low_mingsheng_benedict@moe.edu.sg	| 355
-|Mr Neo Eng Hup Edward	|Teacher, Physical Education	|neo_eng_hup@moe.edu.sg	| 406
-|Mr Tang Wei Chuen Gary	|Teacher, Physical Education & Mobile Robotics	|tang_wei_chuen_gary@moe.edu.sg	 |410|
+|Mr Indrajit Singh	|Head of Department, Physical Education	|<a href="mailto:indrajit_singh@moe.edu.sg">indrajit_singh@moe.edu.sg</a>|225
+|Mr Sivanesan Vmakesan	|Senior Teacher, Physical Education	|<a href="mailto:sivanesan_vmakesan@moe.edu.sg">sivanesan_vmakesan@moe.edu.sg</a>|	 316
+|Mr Leong Kwong Tine Ken	|Teacher, Physical Education	|<a href="mailto:leong_kwong_tine@moe.edu.sg	">leong_kwong_tine@moe.edu.sg	</a> |339
+|Mr Low Mingsheng Benedict|	Teacher, Physical Education|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>	| 355
+|Mr Neo Eng Hup Edward	|Teacher, Physical Education	|<a href="mailto:neo_eng_hup@moe.edu.sg">neo_eng_hup@moe.edu.sg</a>	| 406
+|Mr Tang Wei Chuen Gary	|Teacher, Physical Education & Mobile Robotics	|<a href="mailto:tang_wei_chuen_gary@moe.edu.sg	">tang_wei_chuen_gary@moe.edu.sg	</a> |410|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
