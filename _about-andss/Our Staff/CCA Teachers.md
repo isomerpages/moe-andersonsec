@@ -9,11 +9,11 @@ third_nav_title: Our Staff
 
 | CCA | Name | Email | Ext Number |
 | -------- | -------- | -------- | -------- |
-| Art Club|Mr Hairol Bin Mohamed Hossain (i/c)<br>Mdm Foo Seok Cheng Magdalene|hairol_mohamed_hossain@moe.edu.sg<br>foo_seok_cheng_magdalene@moe.edu.sg|314<br>382|
-|Green Club|Mdm Ho Hui Zheng Shirley (i/c)<br>Ms Loo Huang Yi|ho_hui_zheng@moe.edu.sg<br>loo_huang_yi@moe.edu.sg|338<br>363|
-|Infocomm Club|Mr Tang Wei Chuen Gary (i/c)<br>Ms Tan Yin Wei<br>Mr Mohammed Shaiful Abu Bakar|tang_wei_chuen_gary@moe.edu.sg<br>tan_yin_wei@moe.edu.sg<br>mohammed_shaiful_abu_bakar@moe.edu.sg|410<br>351<br>403|
- |Robotics Club	|Mr Ranganathan Jagan (i/c)<br>Mrs Greak Kumar<br>Ms Lim Chew Yen<br>Mr Tan Kong Hui James|ranganathan_jagan@moe.edu.sg<br>greak_kumar@moe.edu.sg<br>lim_chew_yen@moe.edu.sg<br>tan_kong_hui_a@moe.edu.sg|320<br>345<br>405<br>329|
-|Science Academy	|Mdm Cheong Shi Ya Sheena (i/c)<br>Mdm Lum Yoke Wah<br>Mr Ng Weilun|cheong_shi_ya_sheena@moe.edu.sg<br>lum_yoke_wah@moe.edu.sg<br>ng_weilun@moe.edu.sg|235<br>333<br>331|
+| Art Club|Mr Hairol Bin Mohamed Hossain (i/c)<br>Mdm Foo Seok Cheng Magdalene|<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a><br><a href="mailto:foo_seok_cheng_magdalene@moe.edu.sg">foo_seok_cheng_magdalene@moe.edu.sg</a>|314<br>382|
+|Green Club|Mdm Ho Hui Zheng Shirley (i/c)<br>Ms Loo Huang Yi|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a><br><a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|338<br>363|
+|Infocomm Club|Mr Tang Wei Chuen Gary (i/c)<br>Ms Tan Yin Wei<br>Mr Mohammed Shaiful Abu Bakar|<a href="mailto:tang_wei_chuen_gary@moe.edu.sg">tang_wei_chuen_gary@moe.edu.sg</a><br><a href="mailto:tan_yin_wei@moe.edu.sg">tan_yin_wei@moe.edu.sg</a><br><a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>|410<br>351<br>403|
+ |Robotics Club	|Mr Ranganathan Jagan (i/c)<br>Mrs Greak Kumar<br>Ms Lim Chew Yen<br>Mr Tan Kong Hui James|<a href="mailto:ranganathan_jagan@moe.edu.sg">ranganathan_jagan@moe.edu.sg</a><br><a href="mailto:greak_kumar@moe.edu.sg">greak_kumar@moe.edu.sg</a><br><a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a><br><a href="mailto:tan_kong_hui_a@moe.edu.sg">tan_kong_hui_a@moe.edu.sg</a>|320<br>345<br>405<br>329|
+|Science Academy	|Mdm Cheong Shi Ya Sheena (i/c)<br>Mdm Lum Yoke Wah<br>Mr Ng Weilun|<a href="mailto:cheong_shi_ya_sheena@moe.edu.sg">cheong_shi_ya_sheena@moe.edu.sg</a><br><a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a><br><a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|235<br>333<br>331|
 
 **Performing Arts**
 
