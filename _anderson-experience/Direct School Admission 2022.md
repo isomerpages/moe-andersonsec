@@ -58,6 +58,6 @@ Schedule for DSA
 
 | Process | Date | Means of Notification|
 | -------- | -------- | -------- |
-|Application Period via DSA-Sec Portal<br>Link: www.moe.gov.sg/dsa-sec| 5 May (11 am) to 01 Jun 2022 (3 pm)| -|
+|Application Period via DSA-Sec Portal<br>Link: [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)| 5 May (11 am) to 01 Jun 2022 (3 pm)| -|
 |Selection - Shortlisting, Trial & Interview Sessions|27 Jun to 12 Sep 2022|Email
 |Notification of Outcome|By 12 Sep 2022|Email
