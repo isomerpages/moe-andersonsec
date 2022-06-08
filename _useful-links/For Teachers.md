@@ -26,3 +26,5 @@ description: ""
 [SC Mobile](https://scmobile.moe.edu.sg/login)
 
 [SEAB](https://www.seab.gov.sg/)
+
+[Student Learning Space](https://vle.learning.moe.edu.sg/login)
