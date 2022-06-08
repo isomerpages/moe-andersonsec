@@ -36,7 +36,7 @@ Applicants should:
 
 Application for procedure and information
 
-●  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
+●  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)
 
  
 
