@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents.md
       - For Students/.keep
       - For Students/Links.md
       - For Students/SWN WiFi.md
       - For Students/Textbook List.md
       - For Teachers.md
+      - For Parents.md
