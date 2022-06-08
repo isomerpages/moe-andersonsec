@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Support Group/2020.md
       - Parents Support Group/2021.md
       - Parents Support Group/Parents Support Group.md
       - Parents Support Group/.keep
