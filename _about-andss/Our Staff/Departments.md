@@ -38,9 +38,9 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 |Mrs Trixie Goh	|Teacher, English Language|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a>	| 304
 |Mrs Pamela Raj	|Teacher, English Language|<a href="mailto:pamela_priya@moe.edu.sg	">pamela_priya@moe.edu.sg	</a>| 306
 |Ms Petrina Wong	|Teacher, English Language|<a href="mailto:wong_li_yi@moe.edu.sg">wong_li_yi@moe.edu.sg</a>| 324
-|Mr Aminurashid Bin Jumaat	|Teacher, English Language|<a href="mailto:webmaster@example.com">Jon Doe</a>aminurashid_bin_jumaat@moe.edu.sg	 |361
-|Ms Goh Mei Hui	|Adjunct Teacher, English Language|<a href="mailto:webmaster@example.com">Jon Doe</a>goh_mei_hui@moe.edu.sg|397
-|Ms Kuan Suay San, Sophina	|Adjunct Teacher, English Language	 |<a href="mailto:webmaster@example.com">Jon Doe</a>kuan_suay_san@moe.edu.sg|	 399|
+|Mr Aminurashid Bin Jumaat	|Teacher, English Language|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>	 |361
+|Ms Goh Mei Hui	|Adjunct Teacher, English Language|<a href="mailto:goh_mei_hui@moe.edu.sg">goh_mei_hui@moe.edu.sg</a>|397
+|Ms Kuan Suay San, Sophina	|Adjunct Teacher, English Language	 |<a href="mailto:kuan_suay_san@moe.edu.sg">kuan_suay_san@moe.edu.sg</a>|	 399|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
