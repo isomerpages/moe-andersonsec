@@ -64,24 +64,24 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 4|
-|4/1|Mrs Ang Mei Lin, Amy|leong_mei_lin_amy@moe.edu.sg|319
-|4/1	|Ms Syazwani Bte Md Roslan|syazwani_mohamad_roslan@moe.edu.sg|342
-|4/2|Mrs Pamela Priya Raj	|pamela_priya@moe.edu.sg|306
-|4/2	|Mr Wong Foo Kit|wong_foo_kit@moe.edu.sg|341
-|4/3	|Mr Low Mingsheng, Benedict|low_mingsheng_benedict@moe.edu.sg|355
-|4/3	|Mdm Ramaiah Pandimeenal|ramaiah_pandimeenal@moe.edu.sg|337
-|4/4	|Mr Aminurashid Bin Juma'at|aminurashid_bin_jumaat@moe.edu.sg|361
-|4/4	|Mdm Mirshasha Bte Mohamed Taib|mirshasha_mohamed_taib@moe.edu.sg|334
-|4/5	|Mr Lim Kelvin|lim_kelvin@moe.edu.sg|315
-|4/5	|Ms Tan Wei Ern, Pearlin|tan_wei_ern_pearlin@moe.edu.sg|321
-|4/6	|Mr Suranteran s/o Loganathan|suranteran_loganathan@moe.edu.sg|350
-|4/6|	Ms Liu Yirui|liu_yirui@moe.edu.sg|354
-|4/7|	Mr Chen Shoujie, Colin|chen_shoujie_colin@moe.edu.sg|366
-|4/7 |	Mdm Cheng Hooi Yu, Jane|cheng_hooi_yu@moe.edu.sg|444
-|4/8	|Mr Neo Eng Hup, Edward|neo_eng_hup@moe.edu.sg|406
-|4/8	|Ms Ong Piak Yun, Trixie|ong_piak_yun@moe.edu.sg|304
-|4/9|	Mr Ng Weilun|ng_weilun@moe.edu.sg|331
-|4/9	|Mdm Noorlizasabariah Bte Ramli|noorlizasabariah_ramli@moe.edu.sg|403|
+|4/1|Mrs Ang Mei Lin, Amy|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
+|4/1	|Ms Syazwani Bte Md Roslan|<a href="mailto:syazwani_mohamad_roslan@moe.edu.sg">syazwani_mohamad_roslan@moe.edu.sg</a>|342
+|4/2|Mrs Pamela Priya Raj	|<a href="mailto:pamela_priya@moe.edu.sg">pamela_priya@moe.edu.sg</a>|306
+|4/2	|Mr Wong Foo Kit|<a href="mailto:wong_foo_kit@moe.edu.sg">wong_foo_kit@moe.edu.sg</a>|341
+|4/3	|Mr Low Mingsheng, Benedict|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>|355
+|4/3	|Mdm Ramaiah Pandimeenal|<a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>|337
+|4/4	|Mr Aminurashid Bin Juma'at| <a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
+|4/4	|Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
+|4/5	|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
+|4/5	|Ms Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
+|4/6	|Mr Suranteran s/o Loganathan|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>|350
+|4/6|	Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
+|4/7|	Mr Chen Shoujie, Colin|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>|366
+|4/7 |	Mdm Cheng Hooi Yu, Jane|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>|444
+|4/8	|Mr Neo Eng Hup, Edward|<a href="mailto:neo_eng_hup@moe.edu.sg">neo_eng_hup@moe.edu.sg</a>|406
+|4/8	|Ms Ong Piak Yun, Trixie|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a>|304
+|4/9|	Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
+|4/9	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|403|
 
 
 
@@ -89,5 +89,5 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 5|
-|5/1	|Ms Lim Chew Yen|lim_chew_yen@moe.edu.sg|405
-|5/2	|Mr Leong Kwong Tine, Ken|leong_kwong_tine@moe.edu.sg|339
+|5/1	|Ms Lim Chew Yen|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>|405
+|5/2	|Mr Leong Kwong Tine, Ken|<a href="mailto:leong_kwong_tine@moe.edu.sg">leong_kwong_tine@moe.edu.sg</a>|339
