@@ -24,3 +24,5 @@ description: ""
 [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
 
 [SC Mobile](https://scmobile.moe.edu.sg/login)
+
+[SEAB](https://www.seab.gov.sg/)
