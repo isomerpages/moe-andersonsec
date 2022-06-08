@@ -87,25 +87,25 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 | -------- | -------- | -------- | -------- |
 |Mother Tongue|
 |Dr Wang Zhiwei|Subject Head, Chinese Language|<a href="mailto:wang_zhiwei@moe.edu.sg">wang_zhiwei@moe.edu.sg</a>|237
-|Dr Liu Jingbo 	 |Subject Head, Chinese Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>liu_jingbo@moe.edu.sg|	 302
-|Mr Goh Yoon Keong	|Head of Department (CCE), Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>goh_yoon_keong@moe.edu.sg	 |242
-|Mdm Aw Sean Ling|Senior Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>aw_sean_ling@moe.edu.sg|	 301
-|Ms Gao Wei Wei	Teacher, Chinese Language |<a href="mailto:webmaster@example.com">Jon Doe</a>gao_wei_wei@moe.edu.sg	 |347
-|Ms Liu Yirui	|Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>liu_yirui@moe.edu.sg	 |354
-|Ms Zhang Liya	|Teacher, Chinese Language |<a href="mailto:webmaster@example.com">Jon Doe</a>zhang_liya@moe.edu.sg	 |353
-|Mr Benedict Ng Min Zhong |	Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>benedict_ng_min_zhong@moe.edu.sg	| 371
-|Ms Chua Li Ting	|Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>chua_li_ting@moe.edu.sg|	 346
-|Mr Gregory Boo	|Adjunct Teacher, Chinese Language|<a href="mailto:webmaster@example.com">Jon Doe</a>gregory_boo@moe.edu.sg	 |398
-|Mdm Noorlizasabariah Bte Ramli	|Malay Language Teacher	|<a href="mailto:webmaster@example.com">Jon Doe</a>noorlizasabariah_ramli@moe.edu.sg	 |312
-|Mdm Rafidah Binte Abd Razak	|Malay Language Teacher	|<a href="mailto:webmaster@example.com">Jon Doe</a>rafidah_abd_razak@moe.edu.sg	 |409
-|Ms Syazwani Binte Mohamad Roslan |	Malay Language Teacher|<a href="mailto:webmaster@example.com">Jon Doe</a>syazwani_mohamad_roslan@moe.edu.sg |	 342
-|Ms Filzatul Azreen Gazali	|Malay Language Teacher|<a href="mailto:webmaster@example.com">Jon Doe</a>filzatul_azreen_gazali@moe.edu.sg	 |407
-|Mr Mohammed Shaiful Abu Baker	|Malay Language Teacher|	<a href="mailto:webmaster@example.com">Jon Doe</a>mohammed_shaiful_abu_bakar@moe.edu.sg	|403
-|Mdm Asnah Asrap	|Adjunct Teacher, Malay Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>asnah_asrap@moe.edu.sg	 |310
-|Mrs Grace Priya Kharnan|	Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>grace_priya_joseph@moe.edu.sg	 |309
-|Mdm Pandimeenal Ramaiah	|Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>ramaiah_pandimeenal@moe.edu.sg	 |337
-|Mr Ilango Rama Appaswamy	|Adjunct Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>ilango_rama_appaswamy@moe.edu.sg	 |308
-|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|<a href="mailto:webmaster@example.com">Jon Doe</a>thuraimanickam_jayajothi@moe.edu.sg	| 395|
+|Dr Liu Jingbo 	 |Subject Head, Chinese Language	|<a href="mailto:liu_jingbo@moe.edu.sg">liu_jingbo@moe.edu.sg</a>|	 302
+|Mr Goh Yoon Keong	|Head of Department (CCE), Chinese Language|<a href="mailto:goh_yoon_keong@moe.edu.sg">goh_yoon_keong@moe.edu.sg</a>	 |242
+|Mdm Aw Sean Ling|Senior Teacher, Chinese Language|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|	 301
+|Ms Gao Wei Wei	Teacher, Chinese Language |<a href="mailto:gao_wei_wei@moe.edu.sg	">gao_wei_wei@moe.edu.sg	</a> |347
+|Ms Liu Yirui	|Teacher, Chinese Language|<a href="mailto:liu_yirui@moe.edu.sg	 ">liu_yirui@moe.edu.sg	 </a>|354
+|Ms Zhang Liya	|Teacher, Chinese Language |<a href="mailto:zhang_liya@moe.edu.sg	">zhang_liya@moe.edu.sg	</a> |353
+|Mr Benedict Ng Min Zhong |	Teacher, Chinese Language|<a href="mailto:benedict_ng_min_zhong@moe.edu.sg	">benedict_ng_min_zhong@moe.edu.sg</a>| 371
+|Ms Chua Li Ting	|Teacher, Chinese Language|<a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a>|	 346
+|Mr Gregory Boo	|Adjunct Teacher, Chinese Language|<a href="mailto:gregory_boo@moe.edu.sg">gregory_boo@moe.edu.sg</a>	 |398
+|Mdm Noorlizasabariah Bte Ramli	|Malay Language Teacher	|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>	 |312
+|Mdm Rafidah Binte Abd Razak	|Malay Language Teacher	|<a href="mailto:rafidah_abd_razak@moe.edu.sg">rafidah_abd_razak@moe.edu.sg</a>	 |409
+|Ms Syazwani Binte Mohamad Roslan |	Malay Language Teacher|<a href="mailto:syazwani_mohamad_roslan@moe.edu.sg">syazwani_mohamad_roslan@moe.edu.sg</a> |	 342
+|Ms Filzatul Azreen Gazali	|Malay Language Teacher|<a href="mailto:filzatul_azreen_gazali@moe.edu.sg	">filzatul_azreen_gazali@moe.edu.sg	</a> |407
+|Mr Mohammed Shaiful Abu Baker	|Malay Language Teacher|	<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg	">mohammed_shaiful_abu_bakar@moe.edu.sg	</a>|403
+|Mdm Asnah Asrap	|Adjunct Teacher, Malay Language	|<a href="mailto:asnah_asrap@moe.edu.sg	">asnah_asrap@moe.edu.sg	</a> |310
+|Mrs Grace Priya Kharnan|	Teacher, Tamil Language	|<a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>	 |309
+|Mdm Pandimeenal Ramaiah	|Teacher, Tamil Language	|<a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>	 |337
+|Mr Ilango Rama Appaswamy	|Adjunct Teacher, Tamil Language	|<a href="mailto:ilango_rama_appaswamy@moe.edu.sg">ilango_rama_appaswamy@moe.edu.sg</a>	 |308
+|Mdm Senkuttuvan Mallika	|Relief Teacher, Tamil Language	|<a href="mailto:thuraimanickam_jayajothi@moe.edu.sg">thuraimanickam_jayajothi@moe.edu.sg</a>	| 395|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
