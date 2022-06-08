@@ -8,3 +8,5 @@ description: ""
 [Haze Website](https://www.haze.gov.sg/)
 
 [HRP Website](https://www.hrp.gov.sg/hrp/#/)
+
+[iCON](https://icon.moe.edu.sg/)
