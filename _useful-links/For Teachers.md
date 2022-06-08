@@ -14,3 +14,5 @@ description: ""
 [iEXAMS2](https://iexams.seab.gov.sg/sso/login)
 
 [RBS Website](https://rbs.avero-tech.com/)
+
+[MIMS](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
