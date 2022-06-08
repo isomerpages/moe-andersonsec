@@ -16,3 +16,5 @@ description: ""
 [RBS Website](https://rbs.avero-tech.com/)
 
 [MIMS](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+
+[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
