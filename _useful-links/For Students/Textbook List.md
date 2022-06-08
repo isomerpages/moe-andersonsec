@@ -20,7 +20,7 @@ third_nav_title: For Students
 
 | Secondary 4 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 4 Express 2022 Textbook List](https://andersonsec.moe.edu.sg/qql/slot/u481/S4%20EXP_22-10-2021.pdf)  | [Secondary 4 Normal Academic 2022 Textbook List](/files/S4%20NA_22-10-2021.pdf) | [Secondary 4 Normal Technical 2022 Textbook List](/files/S4%20NT_22-10-2021.pdf)  |
+|[Secondary 4 Express 2022 Textbook List](/files/S4%20EXP_22-10-2021.pdf)  | [Secondary 4 Normal Academic 2022 Textbook List](/files/S4%20NA_22-10-2021.pdf) | [Secondary 4 Normal Technical 2022 Textbook List](/files/S4%20NT_22-10-2021.pdf)  |
 
 
 [PE ATTIRE ORDER FORM](https://andersonsec.moe.edu.sg/qql/slot/u481/PE%20ATTIRE%20ORDER%20FORM%20003.pdf)
