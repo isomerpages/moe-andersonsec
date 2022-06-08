@@ -15,7 +15,7 @@ third_nav_title: For Students
 
 | Secondary 3 |  |  |
 | -------- | -------- | -------- |
-| [Secondary 3 Express 2022 Textbook List](https://andersonsec.moe.edu.sg/qql/slot/u481/S3%20EXP_22-10-2021.pdf)  | [Secondary 3 Normal Academic 2022 Textbook List](https://andersonsec.moe.edu.sg/qql/slot/u481/S3%20NA_22-10-2021.pdf)  | [Secondary 3 Normal Technical 2022 Textbook List](https://andersonsec.moe.edu.sg/qql/slot/u481/S3%20NT_22-10-2021.pdf)  |
+| [Secondary 3 Express 2022 Textbook List](/files/S3%20EXP_22-10-2021.pdf)  | [Secondary 3 Normal Academic 2022 Textbook List](/files/S3%20NA_22-10-2021.pdf)  | [Secondary 3 Normal Technical 2022 Textbook List](/files/S3%20NT_22-10-2021.pdf)  |
 
 
 | Secondary 4 |  |  |
