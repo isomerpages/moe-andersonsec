@@ -10,3 +10,5 @@ description: ""
 [HRP Website](https://www.hrp.gov.sg/hrp/#/)
 
 [iCON](https://icon.moe.edu.sg/)
+
+[iEXAMS2](https://iexams.seab.gov.sg/sso/login)
