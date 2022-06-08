@@ -3,7 +3,6 @@ title: Direct School Admission 2022
 permalink: /anderson-experience/direct-school-admission-2022
 description: ""
 ---
-
 **The Unique Anderson Experience**
 
 Are you keen to be part of this caring community and be immersed in a learning environment that is stimulating and engaging? Do you enjoy challenging opportunities that bring out the best in you?
@@ -37,11 +36,11 @@ Applicants should:
 
 Application for procedure and information
 
-●  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec 
+●  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
 
  
 
-●    Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. For details, please refer to MOE's website - https://go.gov.sg/nmsdsa-sec-application
+●    Applicants not studying in MOE mainstream primary schools need to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. For details, please refer to MOE's website - [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 
  
 
@@ -53,7 +52,7 @@ Application for procedure and information
 ● The school's decision on the offer is final. We regret that no appeal will be entertained. The school reserves the right not to disclose the reason for non-selection of an applicant or to release the results of the trials.
 
 
-●   For further enquiries, please email us at anderson_ss@moe.edu.sg
+●   For further enquiries, please email us at <a href="mailto:anderson_ss@moe.edu.sg">anderson_ss@moe.edu.sg</a>
 
 Schedule for DSA
 
