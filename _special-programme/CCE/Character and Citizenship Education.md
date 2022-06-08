@@ -14,3 +14,18 @@ To complement the ANDE lessons, our assembly programme, known as Education for L
 
 Through these, we hope to paint a more holistic picture of nurturing each Andersonian.
 
+![](/images/Sharing%20by%20987%20DJs.jpg)
+
+**VIA and Service Learning**
+
+In alignment to our school vision of nurturing “Thinkers, Innovators and Leaders who make a difference for the greater good”, we look at developing students who are active and concerned in giving back to the community.
+
+Service Learning and/or Values – in – Action (VIA) are platforms structured for Andersonians to put into practice the knowledge and competencies that they have acquired through various school wide programmes. Through these VIA platforms, Andersonians will be able to sharpen their leadership skills, and appreciate the difference they can make to the community of under-privileged in the school, and the nation.
+
+![](/images/VIA%201.jpg)
+![](/images/VIA%202.jpg)
+
+**Student Leadership**
+
+Just as every child has the ability to learn, we believe that every Andersonian has the potential to be a leader. Every Andersonian is given the chance to fulfil his leadership potential, be it through being a project leader, class leader, CCA leader or leaders of various student leader groups. Guided by Kouzes and Posner’s leadership framework: The Leadership Challenge (TLC), Andersonians capitalise on these various leadership opportunities to develop their leadership skills.
+
