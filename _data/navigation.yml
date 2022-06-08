@@ -17,3 +17,22 @@ links:
         url: /anderson-experience/Key-School-Events/elementz
   - title: Useful Links
     collection: useful-links
+  - title: About ANDSS
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
+      - title: Mission and Values
+        url: /permalink
+      - title: Emblem
+        url: /permalink
+      - title: Bamboo Perspective
+        url: /permalink
+      - title: Our Staff
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
+      - title: PDPA Notice
+        url: /permalink
