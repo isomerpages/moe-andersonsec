@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Support Group/.keep
       - School Advisory Committee/2019.md
       - School Advisory Committee/2020.md
       - School Advisory Committee/2021.md
