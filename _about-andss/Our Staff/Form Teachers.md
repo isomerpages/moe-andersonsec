@@ -43,23 +43,23 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 3|
-|3/1|Mrs Goh Li Eng	|koh_li_eng@moe.edu.sg|367
-|3/2|Mrs Low Hui Ying	|oh_hui_ying@moe.edu.sg	|335
-|3/2|Mrs Chan Hui Tang Elizabeth|elizabeth_tio@moe.edu.sg	|322
-|3/3	|Ms Karen Kang Hong Lin|kang_hong_lin_karen@moe.edu.sg|328
-|3/3|	Mr Lai Rher Wei|lai_rher_wei@moe.edu.sg|332
-|3/4	|Mdm Lum Yoke Wah|lum_yoke_wah@moe.edu.sg|333
-|3/4	|Mdm Zhang Liya|zhang_liya@moe.edu.sg|353
-|3/5	|Ms Loo Huang Yi|loo_huang_yi@moe.edu.sg|363
-|3/5	|Mr Mohammed Shaiful Abu Bakar|mohammed_shaiful_abu_bakar@moe.edu.sg| |
-|3/6|	Mdm Liau Ming Ming, June|liau_ming_ming_june@moe.edu.sg|313
-|3/6	|Ms Lim Shan|lim_shan@moe.edu.sg|343
-|3/7	|Mr Yong Eng Kiat|yong_eng_kiat@moe.edu.sg|303
-|3/8	|Mdm Aw Sean Ling|aw_sean_ling@moe.edu.sg|301
-|3/8	|Mr Tan Kong Hui	|tan_kong_hui@moe.edu.sg| |
-|3/9	|Mdm Rafidah Bte Razak|rafidah_abd_razak@moe.edu.sg	|409
-|3/9	|Mr Aaron Wong Whye Kit|aaron_wong_whye_kit@moe.edu.sg|317
-|3/9	|Mr Ranganathan Jagan|ranganathan_jagan@moe.edu.sg|320|
+|3/1|Mrs Goh Li Eng	|<a href="mailto:koh_li_eng@moe.edu.sg">koh_li_eng@moe.edu.sg</a>|367
+|3/2|Mrs Low Hui Ying	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>	|335
+|3/2|Mrs Chan Hui Tang Elizabeth|<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>	|322
+|3/3	|Ms Karen Kang Hong Lin|<a href="mailto:kang_hong_lin_karen@moe.edu.sg">kang_hong_lin_karen@moe.edu.sg</a>|328
+|3/3|	Mr Lai Rher Wei|<a href="mailto:lai_rher_wei@moe.edu.sg">lai_rher_wei@moe.edu.sg</a>|332
+|3/4	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
+|3/4	|Mdm Zhang Liya|<a href="mailto:zhang_liya@moe.edu.sg">zhang_liya@moe.edu.sg</a>|353
+|3/5	|Ms Loo Huang Yi|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|363
+|3/5	|Mr Mohammed Shaiful Abu Bakar|<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>| |
+|3/6|	Mdm Liau Ming Ming, June|<a href="mailto:liau_ming_ming_june@moe.edu.sg">liau_ming_ming_june@moe.edu.sg</a>|313
+|3/6	|Ms Lim Shan|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|343
+|3/7	|Mr Yong Eng Kiat|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|303
+|3/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
+|3/8	|Mr Tan Kong Hui	|<a href="mailto:tan_kong_hui@moe.edu.sg">tan_kong_hui@moe.edu.sg</a>| |
+|3/9	|Mdm Rafidah Bte Razak|<a href="mailto:rafidah_abd_razak@moe.edu.sg">rafidah_abd_razak@moe.edu.sg</a>	|409
+|3/9	|Mr Aaron Wong Whye Kit|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>|317
+|3/9	|Mr Ranganathan Jagan|<a href="mailto:ranganathan_jagan@moe.edu.sg">ranganathan_jagan@moe.edu.sg</a>|320|
 
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
