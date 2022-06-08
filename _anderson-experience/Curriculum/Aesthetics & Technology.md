@@ -31,6 +31,7 @@ The FCE curriculum aims to equip students at the Lower Secondary level with know
 
 The Music curriculum aims to provide every student with the opportunity to experience, appreciate and respond to all kinds of auditory art. The assessment for General Music Programme (GMP) is designed to ensure that there is engagement with sustained music-making activities. As students are the best appraisers of the teaching they receive, teachers behind the GMP thrive on the feedback from students.
 
-![](/images/4%20Music%20Jingle.jpeg)
+<img src="/images/4%20Music%20Jingle.jpeg" 
+     style="width:50%">
 
 Mobile Robotics, which is for the Upper Secondary Normal Technical students, aims to provide students with the experience of developing their own mobile robots and equip them with basic knowledge and skills in electronics, intelligent control as well as electrical and mechanical designs. Their mostly concrete and hands-on learning is connected to real-life applications.
