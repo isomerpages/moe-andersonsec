@@ -4,7 +4,7 @@ permalink: /about-andss/Our-Staff/cca-teachers-2023/
 description: ""
 third_nav_title: Our Staff
 ---
-**Clubs**
+#### Clubs
 
 
 | CCA | Name | Email | Ext Number |
@@ -15,12 +15,12 @@ third_nav_title: Our Staff
  |Robotics Club	|Ms Lim Chew Yen (i/c)<br>Mrs Greak Kumar<br>Mr Heng Liang Soon, Joshua<br>Mr Yong Eng Kiat|[lim_chew_yen@moe.edu.sg](mailto:lim_chew_yen@moe.edu.sg)<br>[greak_kumar@moe.edu.sg](mailto:greak_kumar@moe.edu.sg)<br>[heng_liang_soon@moe.edu.sg](mailto:heng_liang_soon@moe.edu.sg)<br>[yong_eng_kiat@moe.edu.sg](mailto:yong_eng_kiat@moe.edu.sg)|405<br>345<br>391<br>303|
 |Science Academy	|Ms Ong Xin Hui (i/c)<br>Mrs Ching Siow Eik, Sibyl<br>Mr Ng Weilun|[ong_xin_hui@moe.edu.sg](mailto:ong_xin_hui@moe.edu.sg)<br>[ching_siow_eik_sibyl@moe.edu.sg](mailto:ching_siow_eik_sibyl@moe.edu.sg)<br><a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|235<br>367<br>331|
 
-**Performing Arts**
+#### Performing Arts
 
 | CCA | Name | Email | Ext Number |
 | -------- | -------- | -------- | -------- |
-|Anderson Theatre Circle|Ms Ong Piak Yun Trixie (i/c)<br>Mr Aminurashid Bin Juma’at<br>Ms Wang Sichuan|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a><br><a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a><br><a href="mailto:wang_sichuan@moe.edu.sg">wang_sichuan@moe.edu.sg</a>|304<br>361<br>365|
-|Band |	 Mdm Aw Sean Ling (i/c)<br>Mdm Ramaiah Pandimeenal<br>Ms Tan Wei Ern Pearlin<br>Mrs Wong Xiu Wen|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a><br><a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a><br><a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a><br><a href="mailto:teo_xiu_wen@moe.edu.sg">teo_xiu_wen@moe.edu.sg</a>|301<br>337<br>321<br>323|
+|Anderson Theatre Circle|Ms Ong Piak Yun Trixie (i/c)<br>Mr Aminurashid Bin Juma’at<br>Ms Lim Shan|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a><br><a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a><br>[lim_shan@moe.edu.sg](mailto:lim_shan@moe.edu.sg)|304<br>361<br>343|
+|Band |	 Mdm Aw Sean Ling (i/c)<br>Mr Goh Shiming Gavin<br>Mdm Ramaiah Pandimeenal|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a><br>[shiming_gavin_goh@moe.edu.sg](mailto:shiming_gavin_goh@moe.edu.sg)<br><a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>|301<br>232<br>337|
 |Chinese Dance	|Ms Gao Wei Wei (i/c)<br>Mrs Ang Mei Lin Amy<br>Ms Venotni d/o Retnam (Term 2)|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a><br><a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a><br>TBC	| 347<br>319<br>TBC|
  |Choir	| Mrs Lim Sok Hoon (i/c)<br>Ms Chua Li Ting<br>Mrs Grace Priya Kharnan|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a><br><a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a><br><a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>| 330<br>346<br>309|
 |Malay Dance	 |Mdm Siti Na'lmmatual Raudah (i/c)<br>Ms Karen Kang Hong Lin<br>Mrs Low Hui Ying|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a><br><a href="mailto:kang_hong_lin_karen@moe.edu.sg">kang_hong_lin_karen@moe.edu.sg</a><br><a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>| 344<br>328<br>356|
