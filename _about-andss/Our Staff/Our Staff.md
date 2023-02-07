@@ -16,8 +16,6 @@ third_nav_title: Our Staff
 
 [Humanities Department](/images/humanities%20department%20f.jpeg)
 
- [Aesthetics & Technology Department](https://andersonsec.moe.edu.sg/qql/slot/u481/2022%20staff%20photo/aesthetics%20and%20technology%20department%202.jpg)
+[Aesthetics & Technology Department](/images/aesthetics%20and%20technology%20department%202.jpeg)
 
-  
-
-### [Physical Education & Co-Curricular Activities Department](https://andersonsec.moe.edu.sg/qql/slot/u481/2022%20staff%20photo/physical%20education%20department%20f.jpg)
+[Physical Education & Co-Curricular Activities Department](/images/physical%20education%20department%20f.jpeg)
