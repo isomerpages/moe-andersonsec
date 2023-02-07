@@ -21,9 +21,9 @@ third_nav_title: Our Staff
 | -------- | -------- | -------- | -------- |
 |Anderson Theatre Circle|Ms Ong Piak Yun Trixie (i/c)<br>Mr Aminurashid Bin Juma’at<br>Ms Lim Shan|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a><br><a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a><br>[lim_shan@moe.edu.sg](mailto:lim_shan@moe.edu.sg)|304<br>361<br>343|
 |Band |	 Mdm Aw Sean Ling (i/c)<br>Mr Goh Shiming Gavin<br>Mdm Ramaiah Pandimeenal|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a><br>[shiming_gavin_goh@moe.edu.sg](mailto:shiming_gavin_goh@moe.edu.sg)<br><a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>|301<br>232<br>337|
-|Chinese Dance	|Ms Gao Wei Wei (i/c)<br>Mrs Ang Mei Lin Amy<br>Ms Venotni d/o Retnam (Term 2)|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a><br><a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a><br>TBC	| 347<br>319<br>TBC|
+|Chinese Dance	|Ms Gao Wei Wei (i/c)<br>Mrs Ang Mei Lin Amy<br>Mdm Lum Yoke Wah|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a><br><a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a><br>[lum_yoke_wah@moe.edu.sg](mailto:lum_yoke_wah@moe.edu.sg)| 347<br>319<br>333|
  |Choir	| Mrs Lim Sok Hoon (i/c)<br>Ms Chua Li Ting<br>Mrs Grace Priya Kharnan|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a><br><a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a><br><a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>| 330<br>346<br>309|
-|Malay Dance	 |Mdm Siti Na'lmmatual Raudah (i/c)<br>Ms Karen Kang Hong Lin<br>Mrs Low Hui Ying|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a><br><a href="mailto:kang_hong_lin_karen@moe.edu.sg">kang_hong_lin_karen@moe.edu.sg</a><br><a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>| 344<br>328<br>356|
+|Malay Dance	 |Mdm Siti Na'lmmatual Raudah (i/c)<br>Mrs Low Hui Ying<br>Mdm Cheng Hooi Yu, Jane|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a><br><a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a><br>[cheng_hooi_yu@moe.edu.sg](mailto:cheng_hooi_yu@moe.edu.sg)| 344<br>356<br>444|
 
 
 **Sports**
