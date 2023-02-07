@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Anderson Secondary School
+title: Anderson Secondary
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/homepage_school logo.png
 permalink: /
 notification: ""
 sections:
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /events
 ---
+
