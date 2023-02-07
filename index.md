@@ -7,13 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif-gif-maker.gif
-      key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcements
-        - title: Events
-          description: ""
-          url: /events
+      background: /images/homepage.gif
+  - infobar:
+      title: NEWS AND HIGHLIGHTS
+      button: Click Here
+      url: /news-and-highlights
 ---
-
