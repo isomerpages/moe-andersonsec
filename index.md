@@ -17,5 +17,4 @@ sections:
       button: Follow Us
       url: /whats-happening
       image: /images/andersonig.png
-      alt: Image alt text
 ---
