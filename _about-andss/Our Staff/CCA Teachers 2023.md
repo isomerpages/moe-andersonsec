@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 |Green Club|Mdm Ho Hui Zheng Shirley (i/c)<br>Mdm Zhong Wanzhen|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a><br>[zhong_wanzhen@schools.gov.sg](mailto:zhong_wanzhen@schools.gov.sg)|338<br>329|
 |Infocomm Club|Mr Tang Wei Chuen Gary (i/c)<br>Mr Mohammed Shaiful Abu Bakar<br>Mr Low Kok Ming|<a href="mailto:tang_wei_chuen_gary@moe.edu.sg">tang_wei_chuen_gary@moe.edu.sg</a><br><a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a><br>[low_kok_ming@moe.edu.sg](mailto:low_kok_ming@moe.edu.sg)|410<br>403<br>352|
  |Robotics Club	|Ms Lim Chew Yen (i/c)<br>Mrs Greak Kumar<br>Mr Heng Liang Soon, Joshua<br>Mr Yong Eng Kiat|[lim_chew_yen@moe.edu.sg](mailto:lim_chew_yen@moe.edu.sg)<br>[greak_kumar@moe.edu.sg](mailto:greak_kumar@moe.edu.sg)<br>[heng_liang_soon@moe.edu.sg](mailto:heng_liang_soon@moe.edu.sg)<br>[yong_eng_kiat@moe.edu.sg](mailto:yong_eng_kiat@moe.edu.sg)|405<br>345<br>391<br>303|
-|Science Academy	|Mdm Cheong Shi Ya Sheena (i/c)<br>Mdm Lum Yoke Wah<br>Mr Ng Weilun|<a href="mailto:cheong_shi_ya_sheena@moe.edu.sg">cheong_shi_ya_sheena@moe.edu.sg</a><br><a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a><br><a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|235<br>333<br>331|
+|Science Academy	|Ms Ong Xin Hui (i/c)<br>Mrs Ching Siow Eik, Sibyl<br>Mr Ng Weilun|[ong_xin_hui@moe.edu.sg](mailto:ong_xin_hui@moe.edu.sg)<br>[ching_siow_eik_sibyl@moe.edu.sg](mailto:ching_siow_eik_sibyl@moe.edu.sg)<br><a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|235<br>367<br>331|
 
 **Performing Arts**
 
