@@ -12,4 +12,10 @@ sections:
       title: NEWS AND HIGHLIGHTS
       button: Click Here
       url: /news-and-highlights
+  - infopic:
+      title: WHAT'S HAPPENING
+      button: Follow Us
+      url: /whats-happening
+      image: /images/andersonig.png
+      alt: Image alt text
 ---
