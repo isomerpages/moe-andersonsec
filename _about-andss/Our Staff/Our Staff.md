@@ -1,43 +1,23 @@
 ---
 title: Our Staff
-permalink: /about-andss/our-staff
+permalink: /about-andss/our-staff/
 description: ""
 third_nav_title: Our Staff
 ---
+![](/images/Staff%202022%20Formal%20shot.jpeg)
 
+[English Department](/images/english%20language%20and%20literature%20department%20f.jpeg)
 
-![](/images/Staff%20Collage%202021%20Edited3.jpg)
+ [Mother Tongue Department](/images/mother%20tongue%20language%20department%20f.jpeg)
 
-English Department 
+[Mathematics Department](/images/mathematics%20department%20f.jpeg)
 
-<img src="/images/2_English%20_%20Literature%20Dept%20(1).jpg" 
-     style="width:70%">
+[Science Department](/images/science%20department%20f.jpeg)
 
-Mother Tongue Department
+[Humanities Department](/images/humanities%20department%20f.jpeg)
 
-<img src="/images/5_Mother%20Tongue%20Language%20Dept.jpg" 
-     style="width:70%">
+ [Aesthetics & Technology Department](https://andersonsec.moe.edu.sg/qql/slot/u481/2022%20staff%20photo/aesthetics%20and%20technology%20department%202.jpg)
 
-Mathematics Department
-<img src="/images/3_Mathematics%20Dept.jpg" 
-     style="width:70%">
+  
 
-Science Department
-
-<img src="/images/4_Science%20Dept.jpg" 
-     style="width:70%">
-
-Humanities Department
-
-<img src="/images/6_Humanities%20Dept.jpg" 
-     style="width:70%">
-
-Aesthetics & Technology Department
-
-<img src="/images/7_Aesthetics%20_%20Technology%20Dept.jpg" 
-     style="width:70%">
-
-Physical Education & Co-Curricular Activities Department
-
-<img src="/images/8_Physical%20Education%20Dept.jpg" 
-     style="width:70%">
+### [Physical Education & Co-Curricular Activities Department](https://andersonsec.moe.edu.sg/qql/slot/u481/2022%20staff%20photo/physical%20education%20department%20f.jpg)
