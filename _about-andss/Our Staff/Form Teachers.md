@@ -1,17 +1,18 @@
 ---
 title: Form Teachers
-permalink: /about-andss/Our-Staff/form-teachers
+permalink: /about-andss/Our-Staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
 | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 | Secondary 1|
-|1T|Mrs Wong Xiuwen	|<a href="mailto:teo_xiu_wen@moe.edu.sg">teo_xiu_wen@moe.edu.sg</a>|323
-|1T|Mr Tang Wei Chuen, Gary|<a href="mailto:tang_wei_chuen_gary@moe.edu.sg">tang_wei_chuen_gary@moe.edu.sg</a>|410
-|1H|Mr Lim Kuan Yick Arthur|<a href="mailto:lim_kuan_yick_arthur@moe.edu.sg">lim_kuan_yick_arthur@moe.edu.sg</a>|318
-|1H	|Mdm Lenny Tusya Bte Samsudin|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>|349
-|1I	|Mr Eu Lee Chung Don|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|311
+|1T|Mdm Zhong Wanzhen	|<a href="mailto:zhong_wanzhen@schools.gov.sg">zhong_wanzhen@schools.gov.sg</a>|329
+|1T|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
+|1T| Mr Benedict, Ng Min Zhong|[benedict_ng_min_zhong@moe.edu.sg](mailto:benedict_ng_min_zhong@moe.edu.sg)|371
+|1H|Ms Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
+|1H	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">	greak_kumar@moe.edu.sg</a>|345
+|1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
 |1I	|Mdm Siti Na'Immatul Raudah|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a>|344
 |1N	|Mr Chia Yi Kang, Jason|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>|370
 |1N	|Mrs Lim Sok Hoon|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a>|330
