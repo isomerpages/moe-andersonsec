@@ -13,15 +13,17 @@ third_nav_title: Our Staff
 |1H|Ms Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
 |1H	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">	greak_kumar@moe.edu.sg</a>|345
 |1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
-|1I	|Mdm Siti Na'Immatul Raudah|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a>|344
-|1N	|Mr Chia Yi Kang, Jason|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>|370
-|1N	|Mrs Lim Sok Hoon|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a>|330
-|1K	|Mr Low Kok Ming|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>|352
-|1K	|Mdm Ho Hui Zheng Shirley|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
+|1I	|Mdm Soh Wan Ting|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>|307
+|1I|Ms Filzatul Azreen Bte Gazali|[filzatul_azreen_gazali@moe.edu.sg](mailto:filzatul_azreen_gazali@moe.edu.sg)|407
+|1N	|	Ms Lim Chew Yen|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>|405
+|1N	|	Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
+|1K	|Mr Aminurashid Bin Juma'at|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
+|1K	|Ms Lee Yan Mui Dolly|<a href="mailto:lee_yan_mui_dolly@moe.edu.sg">lee_yan_mui_dolly@moe.edu.sg</a>|241
 |1E	|Ms Gao Weiwei|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a>|347
-|1E	|Mrs Goh Li Jun, Winnie|<a href="mailto:chang_li_jun_winnie@moe.edu.sg">chang_li_jun_winnie@moe.edu.sg</a>|348
-|1R	|Mr Hairol Bin Mohamed Hossain|<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
- |1R  	|Ms Wong Li Yi	|<a href="mailto:wong_li_yi@moe.edu.sg">wong_li_yi@moe.edu.sg</a>	|324
+|1E	|Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
+|1E|Mdm Ramaiah Pandimeenal|[ramaiah_pandimeenal@moe.edu.sg](mailto:ramaiah_pandimeenal@moe.edu.sg)|337
+|1R	|	Mr Low Mingsheng, Benedict|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>|355
+ |1R  	|	Ms Ong Piak Yun, Trixie|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a>	|304
  
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
