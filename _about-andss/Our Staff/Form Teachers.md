@@ -69,10 +69,11 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 4|
-|4/1|Mrs Ang Mei Lin, Amy|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
-|4/1	|Ms Syazwani Bte Md Roslan|<a href="mailto:syazwani_mohamad_roslan@moe.edu.sg">syazwani_mohamad_roslan@moe.edu.sg</a>|342
-|4/2|Mrs Pamela Priya Raj	|<a href="mailto:pamela_priya@moe.edu.sg">pamela_priya@moe.edu.sg</a>|306
-|4/2	|Mr Wong Foo Kit|<a href="mailto:wong_foo_kit@moe.edu.sg">wong_foo_kit@moe.edu.sg</a>|341
+|4/1|Mrs Pamela Priya Raj|<a href="mailto:pamela_priya@moe.edu.sg">pamela_priya@moe.edu.sg</a>|306
+|4/1	|Mr Suranteran s/o Loganathan|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>|350
+|4/1|Ms Syazwani Bte Md Roslan|[syazwani_mohamad_roslan@moe.edu.sg](mailto:syazwani_mohamad_roslan@moe.edu.sg)|342
+|4/2|Mrs Low Hui Ying	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>|335
+|4/2	|Mrs Chan Hui Tang Elizabeth|<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>|332
 |4/3	|Mr Low Mingsheng, Benedict|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>|355
 |4/3	|Mdm Ramaiah Pandimeenal|<a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>|337
 |4/4	|Mr Aminurashid Bin Juma'at| <a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
