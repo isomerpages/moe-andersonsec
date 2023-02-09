@@ -77,17 +77,14 @@ third_nav_title: Our Staff
 |4/3	|Mr Lai Rher Wei|<a href="mailto:lai_rher_wei@moe.edu.sg">lai_rher_wei@moe.edu.sg</a>|332
 |4/3	|Mdm Nur Fadilah Bte Yusran|<a href="mailto:nur_fadilah_yusran@moe.edu.sg">nur_fadilah_yusran@moe.edu.sg</a>|302
 |4/4	|Mdm Zhang Liya| <a href="mailto:zhang_liya@moe.edu.sg">zhang_liya@moe.edu.sg</a>|353
-|4/4	|Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
-|4/5	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
-|4/5	|Ms Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
-|4/6	|Mr Suranteran s/o Loganathan|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>|350
-|4/6|	Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
-|4/7|	Mr Chen Shoujie, Colin|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>|366
-|4/7 |	Mdm Cheng Hooi Yu, Jane|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>|444
-|4/8	|Mr Neo Eng Hup, Edward|<a href="mailto:neo_eng_hup@moe.edu.sg">neo_eng_hup@moe.edu.sg</a>|406
-|4/8	|Ms Ong Piak Yun, Trixie|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a>|304
-|4/9|	Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
-|4/9	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|403|
+|4/4	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
+|4/5	|Ms Loo Huang Yi|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|363
+|4/5	|Mr Mohammed Shaiful Abu Bakar|<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>|403
+|4/6	|Ms Lim Shan|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|343
+|4/7|	Mr Yong Eng Kiat|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|303
+|4/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
+|4/9	|Mr Aaron Wong Whye Kit|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>|317
+|4/9|	Mdm Rafidah Bte Razak|<a href="mailto:rafidah_abd_razak@moe.edu.sg">rafidah_abd_razak@moe.edu.sg</a>|409
 
 
 
