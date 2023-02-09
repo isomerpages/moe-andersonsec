@@ -73,12 +73,12 @@ third_nav_title: Our Staff
 |4/1	|Mr Suranteran s/o Loganathan|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>|350
 |4/1|Ms Syazwani Bte Md Roslan|[syazwani_mohamad_roslan@moe.edu.sg](mailto:syazwani_mohamad_roslan@moe.edu.sg)|342
 |4/2|Mrs Low Hui Ying	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>|335
-|4/2	|Mrs Chan Hui Tang Elizabeth|<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>|332
-|4/3	|Mr Low Mingsheng, Benedict|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>|355
-|4/3	|Mdm Ramaiah Pandimeenal|<a href="mailto:ramaiah_pandimeenal@moe.edu.sg">ramaiah_pandimeenal@moe.edu.sg</a>|337
-|4/4	|Mr Aminurashid Bin Juma'at| <a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
+|4/2	|Mrs Chan Hui Tang Elizabeth|<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>|322
+|4/3	|Mr Lai Rher Wei|<a href="mailto:lai_rher_wei@moe.edu.sg">lai_rher_wei@moe.edu.sg</a>|332
+|4/3	|Mdm Nur Fadilah Bte Yusran|<a href="mailto:nur_fadilah_yusran@moe.edu.sg">nur_fadilah_yusran@moe.edu.sg</a>|302
+|4/4	|Mdm Zhang Liya| <a href="mailto:zhang_liya@moe.edu.sg">zhang_liya@moe.edu.sg</a>|353
 |4/4	|Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
-|4/5	|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
+|4/5	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
 |4/5	|Ms Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
 |4/6	|Mr Suranteran s/o Loganathan|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>|350
 |4/6|	Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
