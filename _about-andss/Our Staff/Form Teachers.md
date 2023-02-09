@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 |2I	|Mdm Siti Na'Immatul Raudah|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a>|344
 |2N	|Mr Chia Yi Kang, Jason|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>|365
 |2N|Mrs Lim Sok Hoon|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a>|330
-|2/5	|Ms Wang Sichuan|<a href="mailto:wang_sichuan@moe.edu.sg">wang_sichuan@moe.edu.sg</a>|365
+|2K	|	Mr Low Kok Ming|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>|365
 |2/5	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
 |2/6|	Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
 |2/6	|Ms Filzatul Azreen Bte Gazali|<a href="mailto:filzatul_azreen_gazali@moe.edu.sg">filzatul_azreen_gazali@moe.edu.sg</a>|404
