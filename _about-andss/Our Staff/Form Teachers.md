@@ -59,7 +59,7 @@ third_nav_title: Our Staff
 |3/5	|Mdm Cheng Hooi Yu, Jane|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>|444
 |3/5	|Mr Richmond Ang Dy|<a href="mailto:richmond_ang_dy@moe.edu.sg">richmond_ang_dy@moe.edu.sg</a>| 238
 |3/6|	Mrs Ang Mei Lin, Amy|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
-|3/6	|Ms Lim Shan|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|343
+|3/6	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
 |3/7	|Mr Yong Eng Kiat|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|303
 |3/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
 |3/8	|Mr Tan Kong Hui	|<a href="mailto:tan_kong_hui@moe.edu.sg">tan_kong_hui@moe.edu.sg</a>| |
