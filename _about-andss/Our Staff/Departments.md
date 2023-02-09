@@ -69,11 +69,9 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 |Mrs Low Hui Ying	|Teacher, Mathematics	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>	| 356
 |Mdm Mirshasha Bte Mohamed Taib	|Teacher, Mathematics	|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>	 |334
 |Mr Suranteran S/O Loganathan	|Teacher, Mathematics & Mobile Robotics|<a href="mailto:suranteran_loganathan@moe.edu.sg">suranteran_loganathan@moe.edu.sg</a>	|350
-|Ms Teo Xiu Wen|	Teacher, Mathematics|<a href="mailto:teo_xiu_wen@moe.edu.sg">teo_xiu_wen@moe.edu.sg</a>|	 323
 |Mr Tay Jun Keat	|Teacher, Mathematics|<a href="mailto:tay_jun_keat@moe.edu.sg">tay_jun_keat@moe.edu.sg</a>	| 362
 |Mr Colin Chen Shou Jie|	Teacher, Mathematics & Computer Applications	|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>	 |366
 |Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>	 |317
-|Mrs Magdalene Wan	|Teacher, Mathematics	|<a href="mailto:foo_seok_cheng_magdalene@moe.edu.sg">foo_seok_cheng_magdalene@moe.edu.sg</a>	| 382
 |Mr Wong Teck Hock	|Teacher, Mathematics	|<a href="mailto:wong_teck_hock@moe.edu.sg	">wong_teck_hock@moe.edu.sg	</a>| 305|
 
 | Name| Designation| Email | Ext Number|
