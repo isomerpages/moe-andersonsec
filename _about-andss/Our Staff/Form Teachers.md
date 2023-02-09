@@ -53,9 +53,9 @@ third_nav_title: Our Staff
 |3/2|Mrs Farn Hsing Chieh|<a href="mailto:farn_hsing_chieh@moe.edu.sg">farn_hsing_chieh@moe.edu.sg</a>	|240
 |3/2|Ms Tan Kiak Ping Anne|[tan_kiak_ping_anne@moe.edu.sg](mailto:tan_kiak_ping_anne@moe.edu.sg)|239
 |3/3	|Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
-|3/3|	Mr Lai Rher Wei|<a href="mailto:lai_rher_wei@moe.edu.sg">lai_rher_wei@moe.edu.sg</a>|332
-|3/4	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
-|3/4	|Mdm Zhang Liya|<a href="mailto:zhang_liya@moe.edu.sg">zhang_liya@moe.edu.sg</a>|353
+|3/3|	Mrs Sibyl Yap|<a href="mailto:ching_siow_eik_sibyl@moe.edu.sg">ching_siow_eik_sibyl@moe.edu.sg</a>|367
+|3/4	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|403
+|3/4	|Mrs Goh Wenhui |<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a>|233
 |3/5	|Ms Loo Huang Yi|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|363
 |3/5	|Mr Mohammed Shaiful Abu Bakar|<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>| |
 |3/6|	Mdm Liau Ming Ming, June|<a href="mailto:liau_ming_ming_june@moe.edu.sg">liau_ming_ming_june@moe.edu.sg</a>|313
