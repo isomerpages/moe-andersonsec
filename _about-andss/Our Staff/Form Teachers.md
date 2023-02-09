@@ -92,5 +92,6 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 5|
-|5/1	|Ms Lim Chew Yen|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>|405
-|5/2	|Mr Leong Kwong Tine, Ken|<a href="mailto:leong_kwong_tine@moe.edu.sg">leong_kwong_tine@moe.edu.sg</a>|339
+|5/1	|Mr Chen Shoujie, Colin|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>|366
+|5/1|Mr Neo Eng Hup, Edward|[neo_eng_hup@moe.edu.sg](mailto:neo_eng_hup@moe.edu.sg)|406
+|5/2	|Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
