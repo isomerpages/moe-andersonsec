@@ -28,10 +28,10 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 | Secondary 2|
-|2/1|Mr Sivanesan s/o V.Makesan|<a href="mailto:sivanesan_vmakesan@moe.edu.sg">sivanesan_vmakesan@moe.edu.sg</a>|316
-|2/1|Ms Tan Yin Wei|<a href="mailto:tan_yin_wei@moe.edu.sg">tan_yin_wei@moe.edu.sg</a>|351
-|2/2|Mdm Soh Wan Ting	|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>	|326|
-|2/2	|Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
+|2T|Mr Tang Wei Chuen, Gary|<a href="mailto:tang_wei_chuen_gary@moe.edu.sg">tang_wei_chuen_gary@moe.edu.sg</a>|410
+|2T|Ms Venotni d/o Ratnam|<a href="mailto:venotni_retnam@moe.edu.sg">venotni_retnam@moe.edu.sg</a>|327
+|2H|Mr Lim Kuan Yick Arthur	|<a href="mailto:lim_kuan_yick_arthur@moe.edu.sg">lim_kuan_yick_arthur@moe.edu.sg</a>	|318
+|2H|	Mdm Lenny Tusya Bte Samsudin|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>|335
 |2/3	|Mr Lim Guo Xian, Andrew|<a href="mailto:lim_guo_xian_andrew@moe.edu.sg">lim_guo_xian_andrew@moe.edu.sg</a>|359
 |2/3	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">greak_kumar@moe.edu.sg</a>|345
 |2/4	|Ms Jess Neo Jue Shi|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg</a>|364
