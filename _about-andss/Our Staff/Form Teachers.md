@@ -32,10 +32,10 @@ third_nav_title: Our Staff
 |2T|Ms Venotni d/o Ratnam|<a href="mailto:venotni_retnam@moe.edu.sg">venotni_retnam@moe.edu.sg</a>|327
 |2H|Mr Lim Kuan Yick Arthur	|<a href="mailto:lim_kuan_yick_arthur@moe.edu.sg">lim_kuan_yick_arthur@moe.edu.sg</a>	|318
 |2H|	Mdm Lenny Tusya Bte Samsudin|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>|335
-|2/3	|Mr Lim Guo Xian, Andrew|<a href="mailto:lim_guo_xian_andrew@moe.edu.sg">lim_guo_xian_andrew@moe.edu.sg</a>|359
-|2/3	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">greak_kumar@moe.edu.sg</a>|345
-|2/4	|Ms Jess Neo Jue Shi|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg</a>|364
-|2/4	|Ms Chua Li Ting|<a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a>|401
+|2I|Mr Eu Lee Chung Don|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|311
+|2I	|Mdm Siti Na'Immatul Raudah|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a>|344
+|2N	|Mr Chia Yi Kang, Jason|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>|365
+|2N|Mrs Lim Sok Hoon|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a>|330
 |2/5	|Ms Wang Sichuan|<a href="mailto:wang_sichuan@moe.edu.sg">wang_sichuan@moe.edu.sg</a>|365
 |2/5	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
 |2/6|	Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
