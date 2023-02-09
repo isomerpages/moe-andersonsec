@@ -36,12 +36,13 @@ third_nav_title: Our Staff
 |2I	|Mdm Siti Na'Immatul Raudah|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg</a>|344
 |2N	|Mr Chia Yi Kang, Jason|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>|365
 |2N|Mrs Lim Sok Hoon|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg</a>|330
-|2K	|	Mr Low Kok Ming|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>|365
-|2/5	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
-|2/6|	Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
-|2/6	|Ms Filzatul Azreen Bte Gazali|<a href="mailto:filzatul_azreen_gazali@moe.edu.sg">filzatul_azreen_gazali@moe.edu.sg</a>|404
-|2/7	|Mr Edmund Tan Yong Boon|<a href="mailto:edmund_tan_yong_boon@moe.edu.sg">edmund_tan_yong_boon@moe.edu.sg</a>|369
-|2/7 	|Mrs Grace Priya Kharnan|<a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>|309|
+|2K	|	Mr Low Kok Ming|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>|352
+|2K	|Mdm Ho Hui Zheng Shirley|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
+|2E|	Ms Gao Weiwei|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a>|347
+|2E	|Mr Mohamed Alfin B. Rahman|<a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg">mohamed_alfin_habib_rahman@moe.edu.sg</a>|234
+|2E	|Mr Tay Jun Keat|<a href="mailto:tay_jun_keat@moe.edu.sg">tay_jun_keat@moe.edu.sg</a>|362
+|2R 	|Mr Hairol Bin Mohamed Hossain|<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
+|2R|Ms Wong Li Yi|[wong_li_yi@moe.edu.sg](mailto:wong_li_yi@moe.edu.sg)|324
 
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
