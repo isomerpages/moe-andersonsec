@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: WHAT'S HAPPENING
       button: Follow Us
-      url: /whats-happening
+      url: https://www.instagram.com/andersonsecsch/
       image: /images/andersonig.png
       alt: instagram page
 ---
