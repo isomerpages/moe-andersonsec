@@ -17,4 +17,5 @@ sections:
       button: Follow Us
       url: /whats-happening
       image: /images/andersonig.png
+      alt: instagram page
 ---
