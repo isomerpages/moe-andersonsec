@@ -48,16 +48,13 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 |Mrs Elizabeth Chan Hui Tang| |<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>|322
 |Mrs Ang Mei Lin Amy	|Teacher, History & Social Studies|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
 |Mr Tan Hong Yi Jacob|Teacher, History & Social Studies|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
-|Ms Wang Sichuan	|Teacher, History & Drama|<a href="mailto:wang_sichuan@moe.edu.sg	">wang_sichuan@moe.edu.sg	</a>|365
 |Mr Jason Chia Yi Kang	|Teacher, Social Studies & English Language|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>	|343
-|Ms Soh Si Ying|Subject Head, Geography|<a href="mailto:soh_si_ying@moe.edu.sg">soh_si_ying@moe.edu.sg</a>|233
 |Ms Lenny Tusya Samsudin	|Teacher, Geography|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>	|349
 |Ms Pearlin Tan Wei Ern	|Teacher, Geography|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>	|321
 |Mdm Loo Huang Yi	|Teacher, Geography|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Ms Jess Neo Jue Shi	|Teacher, Geography|<a href="mailto:jess_neo_jue_shi@moe.edu.sg ">jess_neo_jue_shi@moe.edu.sg </a>	|364
 |Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
 |Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts & Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
-|Mr Tang Chee Wah|	Flexi Adjunct Teacher, POA	|<a href="mailto:tang_chee_wah@moe.edu.sg">tang_chee_wah@moe.edu.sg</a>|	391|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
