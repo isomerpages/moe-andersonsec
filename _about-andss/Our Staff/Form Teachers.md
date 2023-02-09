@@ -61,11 +61,10 @@ third_nav_title: Our Staff
 |3/6|	Mrs Ang Mei Lin, Amy|<a href="mailto:leong_mei_lin_amy@moe.edu.sg">leong_mei_lin_amy@moe.edu.sg</a>|319
 |3/6	|Ms Yeow Swee Li|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
 |3/7	|Mr Leong Kwong Tine, Ken|<a href="mailto:leong_kwong_tine@moe.edu.sg">leong_kwong_tine@moe.edu.sg</a>|339
-|3/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
-|3/8	|Mr Tan Kong Hui	|<a href="mailto:tan_kong_hui@moe.edu.sg">tan_kong_hui@moe.edu.sg</a>| |
-|3/9	|Mdm Rafidah Bte Razak|<a href="mailto:rafidah_abd_razak@moe.edu.sg">rafidah_abd_razak@moe.edu.sg</a>	|409
-|3/9	|Mr Aaron Wong Whye Kit|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>|317
-|3/9	|Mr Ranganathan Jagan|<a href="mailto:ranganathan_jagan@moe.edu.sg">ranganathan_jagan@moe.edu.sg</a>|320|
+|3/7	|Mrs Grace Priya Kharnan|<a href="mailto:grace_priya_joseph@moe.edu.sg">grace_priya_joseph@moe.edu.sg</a>|309
+|3/7	|Mr Edmund Tan Yong Boon	|<a href="mailto:edmund_tan_yong_boon@moe.edu.sg">edmund_tan_yong_boon@moe.edu.sg</a>| 369
+
+
 
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
