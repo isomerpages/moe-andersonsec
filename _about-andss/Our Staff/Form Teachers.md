@@ -47,10 +47,12 @@ third_nav_title: Our Staff
  | Class | Name | Email | Ext Number|
 | -------- | -------- | -------- |-------- |
 |Secondary 3|
-|3/1|Mrs Goh Li Eng	|<a href="mailto:koh_li_eng@moe.edu.sg">koh_li_eng@moe.edu.sg</a>|367
-|3/2|Mrs Low Hui Ying	|<a href="mailto:oh_hui_ying@moe.edu.sg">oh_hui_ying@moe.edu.sg</a>	|335
-|3/2|Mrs Chan Hui Tang Elizabeth|<a href="mailto:elizabeth_tio@moe.edu.sg">elizabeth_tio@moe.edu.sg</a>	|322
-|3/3	|Ms Karen Kang Hong Lin|<a href="mailto:kang_hong_lin_karen@moe.edu.sg">kang_hong_lin_karen@moe.edu.sg</a>|328
+|3/1|Ms Chua Li Ting	|<a href="mailto:chua_li_ting@moe.edu.sg">chua_li_ting@moe.edu.sg</a>|401
+|3/1|Mr Sivanesan s/o V.Makesan|[sivanesan_vmakesan@moe.edu.sg](mailto:sivanesan_vmakesan@moe.edu.sg)|316
+|3/2|Ms Jess Neo Jue Shi	|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg</a>	|364
+|3/2|Mrs Farn Hsing Chieh|<a href="mailto:farn_hsing_chieh@moe.edu.sg">farn_hsing_chieh@moe.edu.sg</a>	|240
+|3/2|Ms Tan Kiak Ping Anne|[tan_kiak_ping_anne@moe.edu.sg](mailto:tan_kiak_ping_anne@moe.edu.sg)|239
+|3/3	|Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
 |3/3|	Mr Lai Rher Wei|<a href="mailto:lai_rher_wei@moe.edu.sg">lai_rher_wei@moe.edu.sg</a>|332
 |3/4	|Mdm Lum Yoke Wah|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|333
 |3/4	|Mdm Zhang Liya|<a href="mailto:zhang_liya@moe.edu.sg">zhang_liya@moe.edu.sg</a>|353
