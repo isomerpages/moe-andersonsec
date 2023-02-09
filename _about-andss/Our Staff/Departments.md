@@ -1,6 +1,6 @@
 ---
 title: Departments
-permalink: /about-andss/Our-Staff/departments
+permalink: /about-andss/Our-Staff/departments/
 description: ""
 third_nav_title: Our Staff
 ---
@@ -14,7 +14,6 @@ Mr Lee Chen Beng	|Teacher, Design & Technology, Mobile Robotics|	<a href="mailto
 |Mr Loke Khin	 |Adjunct Teacher, Design & Technology	|<a href="mailto:loke_khin@moe.edu.sg">loke_khin@moe.edu.sg</a>	| -
 |Mrs Greak Kumar	|Teacher, Food & Consumer Education	|<a href="mailto:greak_kumar@moe.edu.sg">greak_kumar@moe.edu.sg</a>	| 345
  |Ms Siti Na'Immatul Raudah|	Teacher, Food & Consumer Education	|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg	">siti_naimmatul_raudah@moe.edu.sg	</a>| 344
- |Mdm Loh Oi Thim	|Adjunct Teacher, Food & Consumer Education|<a href="mailto:loh_oi_thim@moe.edu.sg	">loh_oi_thim@moe.edu.sg	</a>	| 394
 |Mr Hairol Mohamed Hossain|Teacher, Art|	<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
 |Ms Sua Shuying Michelle|Teacher, Art|<a href="mailto:sua_shuying_michelle@moe.edu.sg">sua_shuying_michelle@moe.edu.sg</a>|336
 |Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
