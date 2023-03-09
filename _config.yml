@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-andersonsec-staging.netlify.app
-prod: https://moe-andersonsec-prod.netlify.app
+staging: https://staging.dxk0owe0pwncy.amplifyapp.com/
+prod: https://master.dxk0owe0pwncy.amplifyapp.com/
 shareicon: /images/homepage_school logo.png
 is_government: false
 facebook-pixel: ""
