@@ -1,6 +1,6 @@
 ---
 title: PDPA Notice
-permalink: /about-andss/pdpa-notice
+permalink: /about-andss/pdpa-notice/
 description: ""
 ---
 

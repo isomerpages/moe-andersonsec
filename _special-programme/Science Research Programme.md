@@ -1,6 +1,6 @@
 ---
 title: Science Research Programme
-permalink: /Special-Programme/science-research-programme
+permalink: /special-programme/science-research-programme/
 description: ""
 ---
 

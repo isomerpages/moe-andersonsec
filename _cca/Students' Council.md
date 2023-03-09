@@ -1,6 +1,6 @@
 ---
 title: Students' Council
-permalink: /CCA/SC
+permalink: /cca/sc/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /anderson-experience/Curriculum/science
+permalink: /anderson-experience/curriculum/science/
 description: ""
 third_nav_title: Curriculum
 ---

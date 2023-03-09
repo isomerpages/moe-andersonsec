@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /anderson-experience/Curriculum/humanities
+permalink: /anderson-experience/curriculum/humanities/
 description: ""
 third_nav_title: Curriculum
 ---

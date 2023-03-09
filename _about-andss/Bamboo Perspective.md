@@ -1,6 +1,6 @@
 ---
 title: Bamboo Perspective
-permalink: /about-andss/bamboo-perspectives
+permalink: /about-andss/bamboo-perspectives/
 description: ""
 ---
 

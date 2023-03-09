@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-andss/contact-us
+permalink: /about-andss/contact-us/
 description: ""
 ---
 Address:

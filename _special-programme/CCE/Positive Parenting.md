@@ -1,6 +1,6 @@
 ---
 title: Positive Parenting
-permalink: /Special-Programme/cce/positive-parenting
+permalink: /special-programme/cce/positive-parenting/
 description: ""
 third_nav_title: CCE
 ---

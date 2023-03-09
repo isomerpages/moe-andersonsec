@@ -1,6 +1,6 @@
 ---
 title: Textbook List
-permalink: /useful-links/textbook
+permalink: /useful-links/textbook/
 description: ""
 third_nav_title: For Students
 ---

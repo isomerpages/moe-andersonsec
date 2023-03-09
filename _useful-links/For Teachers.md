@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /useful-links/for-teachers
+permalink: /useful-links/for-teachers/
 description: ""
 ---
 [Fault Reporting ICT](https://docs.google.com/forms/d/e/1FAIpQLScNaMT6LRtVKxJl5eehz-inkcod9HFX6mBtsx34qT3oOQCKag/viewform)

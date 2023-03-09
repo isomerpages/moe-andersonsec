@@ -1,6 +1,6 @@
 ---
 title: News and Highlights
-permalink: /News-and-Highlights/
+permalink: /news-and-highlights/
 description: ""
 ---
 [**SEC 1 TERM 1 UPDATES FOR PARENTS**]

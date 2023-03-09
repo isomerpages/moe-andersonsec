@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /anderson-experience/Curriculum/mother-tongue
+permalink: /anderson-experience/curriculum/mother-tongue/
 description: ""
 third_nav_title: Curriculum
 ---

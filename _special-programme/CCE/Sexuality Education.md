@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /Special-Programme/cce/sexuality-education
+permalink: /special-programme/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---

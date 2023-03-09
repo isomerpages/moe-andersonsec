@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/Club/art
+permalink: /cca/club/art/
 description: ""
 third_nav_title: Club
 ---

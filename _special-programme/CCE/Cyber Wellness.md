@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /Special-Programme/cce/cyber-wellness
+permalink: /special-programme/cce/cyber-wellness/
 description: ""
 third_nav_title: CCE
 ---

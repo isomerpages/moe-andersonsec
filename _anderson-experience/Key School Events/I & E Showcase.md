@@ -1,6 +1,6 @@
 ---
 title: I & E Showcase
-permalink: /anderson-experience/Key-School-Events/ieshowcase
+permalink: /anderson-experience/key-school-events/ieshowcase/
 description: ""
 third_nav_title: Key School Events
 ---

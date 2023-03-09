@@ -1,6 +1,6 @@
 ---
 title: National Police Cadet Corps
-permalink: /cca/Uniformed-Groups/npcc
+permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---

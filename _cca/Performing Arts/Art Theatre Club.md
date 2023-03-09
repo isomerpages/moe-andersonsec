@@ -1,6 +1,6 @@
 ---
 title: Art Theatre Club
-permalink: /cca/Performing-Arts/atc
+permalink: /cca/performing-arts/atc/
 description: ""
 third_nav_title: Performing Arts
 ---

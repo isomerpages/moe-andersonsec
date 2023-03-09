@@ -1,6 +1,6 @@
 ---
 title: CCA Training Timetable 2022
-permalink: /CCA/timetable
+permalink: /cca/timetable/
 description: ""
 ---
 

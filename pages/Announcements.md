@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /announcements
+permalink: /announcements/
 description: ""
 ---
 Term 1 Updates<br>

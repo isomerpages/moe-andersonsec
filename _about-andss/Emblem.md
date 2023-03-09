@@ -1,6 +1,6 @@
 ---
 title: Emblem
-permalink: /about-andss/emblem
+permalink: /about-andss/emblem/
 description: ""
 ---
 

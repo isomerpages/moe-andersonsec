@@ -1,6 +1,6 @@
 ---
 title: Internationalisation
-permalink: /Special-Programme/international
+permalink: /special-programme/international/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /Our-Partners/school-advisory-committee/
+permalink: /our-partners/school-advisory-committee/
 description: ""
 ---
 The SAC members have been active in serving the school and contributing to teachers’ activities such as the Teachers’ Day lunch. The SAC members volunteer as guest speakers during the Career Fair for graduating students and also help to source for other professionals to be speakers during the Career Fair.

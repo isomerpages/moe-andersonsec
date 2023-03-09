@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /about-andss/Our-Staff/school-management-committee/
+permalink: /about-andss/our-staff/school-management-committee/
 description: ""
 third_nav_title: Our Staff
 ---

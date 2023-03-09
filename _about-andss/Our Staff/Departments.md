@@ -1,6 +1,6 @@
 ---
 title: Departments
-permalink: /about-andss/Our-Staff/departments/
+permalink: /about-andss/our-staff/departments/
 description: ""
 third_nav_title: Our Staff
 ---

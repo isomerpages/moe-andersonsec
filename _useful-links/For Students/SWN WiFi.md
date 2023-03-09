@@ -1,6 +1,6 @@
 ---
 title: SWN WiFi
-permalink: /useful-links/SWN
+permalink: /useful-links/swn/
 description: ""
 third_nav_title: For Students
 ---

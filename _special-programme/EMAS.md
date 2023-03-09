@@ -1,6 +1,6 @@
 ---
 title: EMAS
-permalink: /Special-Programme/emas
+permalink: /special-programme/emas/
 description: ""
 ---
 

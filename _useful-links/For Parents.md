@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /useful-links/For-Parents
+permalink: /useful-links/for-parents/
 description: ""
 ---
 

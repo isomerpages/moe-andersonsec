@@ -1,6 +1,6 @@
 ---
 title: Aesthetics & Technology
-permalink: /anderson-experience/Curriculum/aesthetics-and-technology
+permalink: /anderson-experience/curriculum/aesthetics-and-technology/
 description: ""
 third_nav_title: Curriculum
 ---

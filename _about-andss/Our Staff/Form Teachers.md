@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /about-andss/Our-Staff/form-teachers/
+permalink: /about-andss/our-staff/form-teachers/
 description: ""
 third_nav_title: Our Staff
 ---

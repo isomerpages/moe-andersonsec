@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /anderson-experience/Curriculum/mathematics
+permalink: /anderson-experience/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
 ---

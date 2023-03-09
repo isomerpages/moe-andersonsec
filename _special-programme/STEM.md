@@ -1,6 +1,6 @@
 ---
 title: STEM
-permalink: /Special-Programme/stem
+permalink: /special-programme/stem/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission 2022
-permalink: /anderson-experience/direct-school-admission-2022
+permalink: /anderson-experience/direct-school-admission-2022/
 description: ""
 ---
 **The Unique Anderson Experience**

@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /anderson-experience/Curriculum/English
+permalink: /anderson-experience/curriculum/english/
 description: ""
 third_nav_title: Curriculum
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mission and Values
-permalink: /about-andss/mission-and-values
+permalink: /about-andss/mission-and-values/
 description: ""
 ---
 

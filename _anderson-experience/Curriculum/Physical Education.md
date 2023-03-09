@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /anderson-experience/Curriculum/physical-education
+permalink: /anderson-experience/curriculum/physical-education/
 description: ""
 third_nav_title: Curriculum
 ---

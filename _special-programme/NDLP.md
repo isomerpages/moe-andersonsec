@@ -1,6 +1,6 @@
 ---
 title: NDLP
-permalink: /Special-Programme/ndlp
+permalink: /special-programme/ndlp/
 description: ""
 ---
 
