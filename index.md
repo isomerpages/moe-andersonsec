@@ -9,10 +9,10 @@ sections:
   - hero:
       key_highlights:
         - title: NEWS AND HIGHLIGHTS
-          description: Click here
+          description: ""
           url: /news-and-highlights
         - title: WHAT'S HAPPENING
-          description: Click here
+          description: ""
           url: https://www.instagram.com/andersonsecsch/
       background: /images/Website photo 2023/front-page-website-2023.gif
 ---
