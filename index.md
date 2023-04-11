@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: NEWS AND HIGHLIGHTS
       button: Click Here
