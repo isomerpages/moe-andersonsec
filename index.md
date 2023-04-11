@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: NEWS AND HIGHLIGHTS
+          description: Click here
+          url: /news-and-highlights
+        - title: WHAT'S HAPPENING
+          description: Click here
+          url: https://www.instagram.com/andersonsecsch/
       background: /images/Website photo 2023/front-page-website-2023.gif
   - infobar:
       title: NEWS AND HIGHLIGHTS
@@ -24,5 +24,5 @@ sections:
       button: Follow Us
       url: https://www.instagram.com/andersonsecsch/
       image: /images/andersonig.png
-      alt: instagram page
+      alt: Instagram page
 ---
