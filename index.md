@@ -14,7 +14,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      background: /images/front-page-website 2023.gif
+      background: /images/Website photo 2023/front-page-website-2023.gif
   - infobar:
       title: NEWS AND HIGHLIGHTS
       button: Click Here
