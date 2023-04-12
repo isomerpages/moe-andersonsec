@@ -25,4 +25,8 @@ sections:
       url: https://www.instagram.com/andersonsecsch/
       image: /images/Website photo 2023/instagram-logo.jpg
       alt: Follow us!
+  - resources:
+      title: qweqweqwe
+      subtitle: sdasdsds
+      button: zxczxczxc
 ---
