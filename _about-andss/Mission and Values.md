@@ -3,7 +3,6 @@ title: Mission and Values
 permalink: /about-andss/mission-and-values/
 description: ""
 ---
-
 **Vision**
 
 Thinkers, Innovators and Leaders who make a difference for the greater good
@@ -13,7 +12,7 @@ Thinkers, Innovators and Leaders who make a difference for the greater good
 Developing and inspiring in all Andersonians a sense of purpose and constancy to reach their potential for self and nation
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Thinker</th>
     <th>Innovator</th>
     <th>Leaders</th>
@@ -36,19 +35,19 @@ imbued with …
 <br>remains humble and patient, gentle and kind so as to
 inspire and contribute meaningfully to the community</td>
   </tr>
-</table>
+</tbody></table>
 
 **ANDE Values**
 
 <table>
-  <tr>
+  <tbody><tr>
     <th></th>
     <th>School Definition</th>
     <th>What it means to students</th>
   </tr>
   <tr>
-		<tr>
-    <td>cAring in Action</td>
+		</tr><tr>
+    <td>c<strong style="color:red">A</strong>ring in Action</td>
     <td>Desired Qualities
 			<br>Is generous and kind
 <br>Is able to empathise with others
@@ -58,8 +57,8 @@ inspire and contribute meaningfully to the community</td>
 <br>I am sensitive to the attitudes, feelings and circumstances of others</td>
   </tr>
 	  <tr>
-		<tr>
-    <td>Noble in Character</td>
+		</tr><tr>
+    <td><strong style="color:red">N</strong>oble in Character</td>
     <td>Desired Qualities
 <br>Has the courage to make difficult, but socially and morally sound decisions
 <br>Is steadfast in upholding the values of justice, integrity and honesty
@@ -69,7 +68,7 @@ inspire and contribute meaningfully to the community</td>
 <br>I do what is right even when others are not looking</td>
   </tr>
 			<tr>
-    <td>Daring in our Dreams</td>
+    <td><strong style="color:red">D</strong>aring in our Dreams</td>
     <td>Desired Qualities
 <br>Has a resilient and an adventurous spirit
 <br>Is a creative and enterprising problem solver
@@ -79,7 +78,7 @@ inspire and contribute meaningfully to the community</td>
 <br>I am resourceful and am able to come up with creative solutions when faced with a problem</td>
   </tr>
 				<tr>
-    <td>Excellent in all our Endeavours</td>
+    <td><strong style="color:red">E</strong>xcellent in all our Endeavours</td>
     <td>Desired Qualities
 <br>Is driven by a strong sense of commitment to giving of one’s best
 <br>Excels in all his undertakings
@@ -88,7 +87,7 @@ inspire and contribute meaningfully to the community</td>
 <br>I take pride in striving to do my very best in every endeavour, academic and non-academic
 <br>I set high expectations for myself and produce high quality work</td>
   </tr>
-</table></table>
+</tbody></table>
 
 
 **Motto**
