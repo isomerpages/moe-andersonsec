@@ -24,4 +24,5 @@ sections:
       button: CLICK HERE
       url: https://www.instagram.com/andersonsecsch/
       image: /images/Website photo 2023/instagram-logo.jpg
+      alt: Instagram
 ---
