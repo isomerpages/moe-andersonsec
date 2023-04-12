@@ -1,10 +1,10 @@
 logo: /images/homepage_school logo.png
 links:
   - title: About ANDSS
-    url: /about-andss/principals-message
+    url: /about-andss/school-leaders-message/
     sublinks:
       - title: Principal's Message
-        url: /about-andss/principals-message
+        url: /about-andss/school-leaders-message/
       - title: Mission and Values
         url: /about-andss/mission-and-values
       - title: Emblem
