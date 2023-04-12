@@ -8,3 +8,4 @@ third_nav_title: For Students
 
 [Student iCON](https://workspace.google.com./dashboard)
 
+[Textbook List]/useful-links/textbook/
