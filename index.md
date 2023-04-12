@@ -10,14 +10,14 @@ sections:
       background: /images/Website photo 2023/front-page-website-2023.gif
   - infobar:
       subtitle: NEWS AND HIGHLIGHT
-      button: CLICK HERE
+      button: Find out more
       url: /news-and-highlights
   - infobar:
       subtitle: Facebook
-      button: Click here
+      button: Find out more
       url: https://www.facebook.com/andersonsecsch/
   - infobar:
       subtitle: Instagram
-      button: CLICK HERE
+      button: Find out more
       url: https://www.instagram.com/andersonsecsch/
 ---
