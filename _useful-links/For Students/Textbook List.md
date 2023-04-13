@@ -10,7 +10,7 @@ third_nav_title: For Students
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
-| [Secondary 2 Express 2022 Textbook List](/files/Textbook/S2%EXP%Booklist%2023.pdf) | [Secondary 2 Normal Academic 2022 Textbook List   ]| [Secondary 2 Normal Technical 2022 Textbook List  ])  |
+| [Secondary 2 Express 2022 Textbook List](/files/Textbook/s2%exp%booklist%2023.pdf) | [Secondary 2 Normal Academic 2022 Textbook List   ]| [Secondary 2 Normal Technical 2022 Textbook List  ])  |
 
 
 | Secondary 3 |  |  |
