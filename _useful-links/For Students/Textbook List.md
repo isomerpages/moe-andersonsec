@@ -20,12 +20,16 @@ third_nav_title: For Students
 
 | Secondary 3 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 3 Express 2023 Textbook List](/files/S3%20EXP_22-10-2021.pdf)| [Secondary 3 Normal Academic 2023 Textbook List](/files/S3%20NA_22-10-2021.pdf)  | [Secondary 3 Normal Technical 2023 Textbook List](/files/S3%20NT_22-10-2021.pdf)  |
+|[Secondary 3 Express 2023 Textbook List](/files/Textbook/s3%20exp%20booklist%202023.pdf)| 
+[Secondary 3 Normal Academic 2023 Textbook List](/files/Textbook/s3%20na%20booklist%202023.pdf) | 
+[Secondary 3 Normal Technical 2023 Textbook List](/files/Textbook/s3%20nt%20booklist%202023.pdf)|
 
 
 | Secondary 4 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 4 Express 2022 Textbook List](/files/S4%20EXP_22-10-2021.pdf)  | [Secondary 4 Normal Academic 2022 Textbook List](/files/S4%20NA_22-10-2021.pdf) | [Secondary 4 Normal Technical 2022 Textbook List](/files/S4%20NT_22-10-2021.pdf)  |
+|[Secondary 4 Express 2023 Textbook List](/files/Textbook/s4%20exp%20booklist%202023.pdf)| 
+[Secondary 4 Normal Academic 2022 Textbook List](/files/Textbook/s4%20na%20booklist%202023.pdf) | 
+Secondary 4 Normal Technical 2022 Textbook List] |
 
 
 [PE ATTIRE ORDER](/files/Textbook/pe%20attire%20order%20form_25102022.pdf)
