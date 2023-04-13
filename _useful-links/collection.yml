@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For Students/Student Learning Space.md
       - For Students/.keep
       - For Students/Links.md
       - For Students/SWN WiFi.md
