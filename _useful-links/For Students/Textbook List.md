@@ -6,17 +6,21 @@ third_nav_title: For Students
 ---
 | Secondary 1 |  |  |
 | -------- | -------- | -------- |
-| Secondary 1 Express 2022 Textbook List    | Secondary 1 Normal Academic 2022 Textbook List     | Secondary 1 Normal Technical 2022 Textbook List    |
+| [Secondary 1 Express 2023 Textbook List](/files/Textbook/s1%20exp%202023.pdf)    | 
+[Secondary 1 Normal Academic 2023 Textbook List](/files/Textbook/s1%20na%202023.pdf)     | 
+[Secondary 1 Normal Technical 2023 Textbook List](/files/Textbook/s1%20nt%202023.pdf)    |
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
-| [Secondary 2 Express 2022 Textbook List](/files/Textbook/s2%20exp%20booklist%202023.pdf) | [Secondary 2 Normal Academic 2022 Textbook List   ]| [Secondary 2 Normal Technical 2022 Textbook List  ])  |
+| [Secondary 2 Express 2023 Textbook List](/files/Textbook/s2%20exp%20booklist%202023.pdf)| 
+[Secondary 2 Normal Academic 2023 Textbook List](/files/Textbook/s2%20na%20booklist%202023.pdf)|
+[Secondary 2 Normal Technical 2023 Textbook List](/files/Textbook/s2%20nt%20booklist%202023.pdf)  |
 
 
 
 | Secondary 3 |  |  |
 | -------- | -------- | -------- |
-| [Secondary 3 Express 2022 Textbook List](/files/S3%20EXP_22-10-2021.pdf)  | [Secondary 3 Normal Academic 2022 Textbook List](/files/S3%20NA_22-10-2021.pdf)  | [Secondary 3 Normal Technical 2022 Textbook List](/files/S3%20NT_22-10-2021.pdf)  |
+|[Secondary 3 Express 2023 Textbook List](/files/S3%20EXP_22-10-2021.pdf)| [Secondary 3 Normal Academic 2023 Textbook List](/files/S3%20NA_22-10-2021.pdf)  | [Secondary 3 Normal Technical 2023 Textbook List](/files/S3%20NT_22-10-2021.pdf)  |
 
 
 | Secondary 4 |  |  |
@@ -24,4 +28,6 @@ third_nav_title: For Students
 |[Secondary 4 Express 2022 Textbook List](/files/S4%20EXP_22-10-2021.pdf)  | [Secondary 4 Normal Academic 2022 Textbook List](/files/S4%20NA_22-10-2021.pdf) | [Secondary 4 Normal Technical 2022 Textbook List](/files/S4%20NT_22-10-2021.pdf)  |
 
 
-[PE ATTIRE ORDER FORM](/files/PE%20ATTIRE%20ORDER%20FORM%20003.pdf)
+[PE ATTIRE ORDER](/files/Textbook/pe%20attire%20order%20form_25102022.pdf)
+
+[Uniform Purchase Instructions](/files/Textbook/uniform%20purchase%20instructions.pdf)
