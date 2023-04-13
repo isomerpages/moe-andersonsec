@@ -29,7 +29,7 @@ third_nav_title: For Students
 | -------- | -------- | -------- |
 |[Secondary 4 Express 2023 Textbook List](/files/Textbook/s4%20exp%20booklist%202023.pdf)| 
 [Secondary 4 Normal Academic 2022 Textbook List](/files/Textbook/s4%20na%20booklist%202023.pdf) | 
-Secondary 4 Normal Technical 2022 Textbook List] |
+ [Secondary 4 Normal Technical 2022 Textbook List](/files/Textbook/s4%20nt%20booklist%202023.pdf)|
 
 
 [PE ATTIRE ORDER](/files/Textbook/pe%20attire%20order%20form_25102022.pdf)
