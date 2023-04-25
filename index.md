@@ -30,7 +30,4 @@ sections:
       button: Find out more
       url: https://www.instagram.com/andersonsecsch/
       title: Instagram
-  - resources:
-      subtitle: test
-      button: Resources Button Name
 ---
