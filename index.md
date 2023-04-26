@@ -18,16 +18,4 @@ sections:
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
-  - infobar:
-      button: Find out more
-      url: /news-and-highlights
-      title: NEWS AND HIGHLIGHT
-  - infobar:
-      button: Find out more
-      url: https://www.facebook.com/andersonsecsch/
-      title: Facebook
-  - infobar:
-      button: Find out more
-      url: https://www.instagram.com/andersonsecsch/
-      title: Instagram
 ---
