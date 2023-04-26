@@ -1,13 +1,36 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/homepage_school logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About ANDSS
+    url: /about-andss/school-leaders-message/
+    sublinks:
+      - title: School Leaders' Message
+        url: /about-andss/school-leaders-message/
+      - title: Mission and Values
+        url: /about-andss/mission-and-values
+      - title: Emblem
+        url: /about-andss/emblem
+      - title: Bamboo Perspective
+        url: /about-andss/bamboo-perspectives
+      - title: Our Staff
+        url: /about-andss/our-staff
+      - title: Our Partners
+        url: /our-partners/school-advisory-committee
+      - title: Contact Us
+        url: /about-andss/contact-us
+      - title: PDPA Notice
+        url: /about-andss/pdpa-notice
+  - title: Anderson Experience
+    url: /anderson-experience/curriculum/english
+    sublinks:
+      - title: Academic
+        url: /anderson-experience/curriculum/english
+      - title: CCAs
+        url: /cca/timetable
+      - title: Direct School Admission 2022
+        url: /anderson-experience/direct-school-admission-2022
+      - title: Special Programme
+        url: /special-programme/science-research-programme
+      - title: Key School Events
+        url: /anderson-experience/key-school-events/elementz
+  - title: Useful Links
+    collection: useful-links

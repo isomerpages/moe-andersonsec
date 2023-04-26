@@ -1,0 +1,18 @@
+collections:
+  about-andss:
+    output: true
+    order:
+      - School Leaders' Message.md
+      - Mission and Values.md
+      - Emblem.md
+      - Bamboo Perspective.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/School Management Committee.md
+      - Our Staff/Senior Teachers.md
+      - Our Staff/Departments.md
+      - Our Staff/Form Teachers 2023.md
+      - Our Staff/CCA Teachers 2023.md
+      - Our Staff/Allied Educators 2023.md
+      - Contact Us.md
+      - PDPA Notice.md

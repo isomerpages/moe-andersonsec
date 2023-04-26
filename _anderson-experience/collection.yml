@@ -1,0 +1,20 @@
+collections:
+  anderson-experience:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Aesthetics & Technology.md
+      - Curriculum/Humanities.md
+      - Curriculum/Physical Education.md
+      - Direct School Admission 2023.md
+      - Key School Events/.keep
+      - Key School Events/Elementz.md
+      - Key School Events/National Day Celebrations.md
+      - Key School Events/Art Competition.md
+      - Key School Events/I & E Showcase.md
+      - Key School Events/NFTE.md
+      - Key School Events/Welcome Back Breakfast.md
