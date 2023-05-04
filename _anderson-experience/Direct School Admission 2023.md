@@ -11,6 +11,18 @@ It is our mission to unleash the potential in every Andersonian. We know they pe
 
 
 If you have the talent, abilities and a strong passion for one of the areas below, we want you!
+ | Talent Area | Criteria | Selection Process |
+| -------- | -------- | -------- |
+|Basketball (Girls and Boys)| Participation in relevant competitions and obtained achievements in zonal, national and/or international competitions|Selection trials and interview for shortlisted applicants (July-August)
+
+Netball (Girls)|Is medically / physically fit
+
+Table Tennis (Girls)
+
+Volleyball (Girls)
+
+Wushu (Girls and Boys)
+
 
 | Talent Area| |
 | -------- | -------- | 
