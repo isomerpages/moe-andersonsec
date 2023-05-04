@@ -31,3 +31,51 @@ Wushu (Girls and Boys)
 |Others| Language - Malay (Girls and Boys) |
 
 More details will be available on our website after the DSA-Sec public announcement by MOE in May 2023.
+
+
+
+<title>Untitled Document</title>
+
+
+
+<table border="1" width="700">
+  <tbody>
+    <tr>
+      <td width="33%"><strong><center>Talent Areas</center></strong></td>
+      <td><strong><center>Criteria</center></strong></td>
+      <td width="33%"><strong><center>Selection Process</center></strong></td>
+    </tr>
+    <tr>
+      <td><p><strong>&nbsp;Sports &amp; Games</strong>&nbsp;</p>
+        <p>● Basketball (Girls and Boys)&nbsp;</p>
+        <p>● Netball (Girls)&nbsp;</p>
+        <p>● Table Tennis (Girls)&nbsp;</p>
+        <p>● Volleyball (Girls)&nbsp;</p>
+        <p>● Wushu (Girls and Boys) </p>
+<p>&nbsp;</p></td>
+      <td><p>&nbsp;• Participation in relevant competitions and obtained achievements in&nbsp; zonal, national and/or international competitions&nbsp;</p>
+        <p>• Is medically / physically fit&nbsp;</p>
+      <p>• Has very good conduct and school attendance </p></td>
+      <td>Selection trials and interview for shortlisted applicants (July-August)</td>
+    </tr>
+    <tr>
+      <td><p>&nbsp;<strong>Performing Art&nbsp; &nbsp;</strong></p>
+      <p>● Concert Band (Girls and Boys)</p>
+      <p>● Chinese Dance (Girls)</p></td>
+      <td><p>&nbsp;• Participation in relevant competitions and obtained achievements in national and/or international competitions&nbsp;</p>
+        <p>• Relevant qualification in music theory, and/or music/dance/ballet performance&nbsp;</p>
+      <p>• Has very good conduct and school attendance </p></td>
+      <td>Auditions and interview for shortlisted applicants (July-August)</td>
+    </tr>
+    <tr>
+      <td><p>&nbsp;<strong>Others&nbsp;</strong></p>
+      <p>● Language – Malay (Girls and Boys) </p></td>
+      <td><p>&nbsp;● Participation in relevant competitions and obtained achievements in national and/or international competitions&nbsp;</p>
+        <p>● Excellent academic performance in Malay Language&nbsp;</p>
+      <p>● Has very good conduct and school attendance </p></td>
+      <td>Assessment and interview for shortlisted applicants (July-August)</td>
+    </tr>
+  </tbody>
+</table>
+
+
