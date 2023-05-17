@@ -19,7 +19,6 @@ third_nav_title: Our Staff
 |1N	|	Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
 |1K	|Mr Aminurashid Bin Juma'at|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
 |1K	|Ms&nbsp;Lee Yan Mui Dolly|<a href="mailto:lee_yan_mui_dolly@moe.edu.sg">lee_yan_mui_dolly@moe.edu.sg</a>|241
-|1E	|Ms Gao Weiwei|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a>|347
 |1E	|Mr Tan Hongyi, Jacob|<a href="mailto:hong_yi_jacob_tan@moe.edu.sg">hong_yi_jacob_tan@moe.edu.sg</a>|340
 |1E|Mdm Ramaiah Pandimeenal|[ramaiah_pandimeenal@moe.edu.sg](mailto:ramaiah_pandimeenal@moe.edu.sg)|337
 |1R	|	Mr Low Mingsheng, Benedict|<a href="mailto:low_mingsheng_benedict@moe.edu.sg">low_mingsheng_benedict@moe.edu.sg</a>|355
@@ -94,4 +93,4 @@ third_nav_title: Our Staff
 |Secondary 5|
 |5/1	|Mr Chen Shoujie, Colin|<a href="mailto:chen_shoujie_colin@moe.edu.sg">chen_shoujie_colin@moe.edu.sg</a>|366
 |5/1|Mr Neo Eng Hup, Edward|[neo_eng_hup@moe.edu.sg](mailto:neo_eng_hup@moe.edu.sg)|406
-|5/2	|Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
+|5/1	|Ms Liu Yirui|<a href="mailto:liu_yirui@moe.edu.sg">liu_yirui@moe.edu.sg</a>|354
