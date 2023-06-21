@@ -3,8 +3,6 @@ title: CCA Training Timetable 2023
 permalink: /cca/timetable/
 description: ""
 ---
-        
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="680" style="margin-left:-.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
