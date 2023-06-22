@@ -3,14 +3,12 @@ title: Canteen
 permalink: /useful-links/canteen/
 description: ""
 ---
-#### School Canteen Advertisement
+School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-| Western Food Stall | 15 Jul 2023 | NIL|
-| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.| 
+| ----| --- | --- |
+| --- | --- | --- |
 
 **Application Procedure**
 
@@ -32,7 +30,7 @@ description: ""
 **How to get there?**
 * Nearest MRT: Ang Mo Kio MRT (NS16)
 * Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance
-* Walk: 10 to 15 mins 
+* Walk: From AMK MRT to School 10 to 15 mins 
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
