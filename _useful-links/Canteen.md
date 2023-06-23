@@ -47,12 +47,15 @@ We are a single session school with an estimated enrolment of 1100 students and 
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
-
+* Must be in personal attendance at the stall udring operation hours of 7am to 4pm on school- days.
 
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
+*incomplete or late application will not be considered 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+
+* Only One representative is allowed to enter school with food for food tasting, no helper is allowed. Registration and temperature taking to be done at guard house, food handler must wear a mask. 
