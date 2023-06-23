@@ -7,7 +7,6 @@ School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| ----| --- | --- |
 | --- | --- | --- |
 
 **Location:**
