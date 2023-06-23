@@ -10,6 +10,8 @@ School Canteen Advertisement
 | ----| --- | --- |
 | --- | --- | --- |
 
+We are a single session school with an estimated enrolment of 1100 students and 130 staff. Our canteen operates from Monday to Fridays 7.00am to 4.00pm during school term. The stall may be required to operate during School Holidays, where necessary, at the request of the school.
+
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
