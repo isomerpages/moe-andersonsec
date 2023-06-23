@@ -51,11 +51,11 @@ We are a single session school with an estimated enrolment of 1100 students and 
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 
-*** Please submit the completed Scanned Copy of the application form together with the supporting documents (ONE recent passport-sized coloured photograph, Photocopy of NRIC (front and back), Proposed Mena and Price List, Photocopy of Basic Food Hygiene Course Certificate to the email address at andersonss@moe.edu.sg.**
+**Please submit the completed Scanned Copy of the application form together with the supporting documents (ONE recent passport-sized coloured photograph, Photocopy of NRIC (front and back), Proposed Mena and Price List, Photocopy of Basic Food Hygiene Course Certificate to the email address at andersonss@moe.edu.sg.**
 
 * incomplete or late application will not be considered 
 
-* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. Food tasting will be conducted between ___ to ___ . Timing to be confirmed.
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. **Food tasting will be conducted between _ to _ . Timing to be confirmed.**
 
 * Only One representative is allowed to enter school with food for food tasting, no helper is allowed. Registration and temperature taking to be done at guard house, food handler must wear a mask.*
  
