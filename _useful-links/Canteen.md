@@ -12,26 +12,37 @@ School Canteen Advertisement
 
 **Location:**
 
-* Address: 10 Ang Mo Kio Street 53 (569206)
-* Contact No: 6459 8303
-* Email: anderson_ss@moe.edu.sg
-* Contact Person: Joseph Low
+ Address: 10 Ang Mo Kio Street 53 (569206)
+ Contact No: 6459 8303
+ Email: andersonss@moe.edu.sg
+ Contact Person: Joseph Low
 
 **How to get there?**
-* Nearest MRT: Ang Mo Kio MRT (NS16)
-* Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance
-* Walk: From AMK MRT to School 10 to 15 mins 
+ 
+ Nearest MRT: Ang Mo Kio MRT (NS16)
+ Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance
+ Walk: AMK MRT to Anderson Secondary school takes around 10 to 15 mins 
 
 **School Canteen Operating Hours:**
 
 We are a single session school with an estimated enrolment of 1100 students and 130 staff. Our canteen operates from Monday to Fridays 7.00am to 4.00pm during school term. The stall may be required to operate during School Holidays, where necessary, at the request of the school.
 
+**General Requirements:**
+
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. Must be age 21 old or above.
+ Able to provide good service and quality food at reasonable prices(in consultation with the school), that meet the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)). (please access via Google Chrome) for more information.
+* Participate in Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement.
+* Able to observe high standard of food safety and personal hygiene that meet NEA / SFA requirements.
+* Able to commence operations from ___  or an agreed upon date after comfirmation.
+* Must be in personal attendance at the stall during operating hours of 7am to 4pm on school days.
+* Completed the WSQ Basic Food Hygiene Course conducted by SkillsFurture Singapore's accredited training providers, applicable to both stall holder and assistant(s).
+
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [[Application Form](/files/andss%20canteen%20stall%20application%20form.pdf)] 
+1. Download and complete the application form. You may also request for a hardcopy from the School's Security Guard Post, Monday to Friday from 9am to 4pm.
+ [[Application Form](/files/andss%20canteen%20stall%20application%20form.pdf)] 
 
-2. Please submit all the documents to anderson_ss@moe.edu.sg
+**Documents to Submit:**
 
 * Completed application form
 * One recent passport-sized coloured photograph
@@ -39,23 +50,13 @@ We are a single session school with an estimated enrolment of 1100 students and 
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-**Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. Must be age 21 old or above.
-* Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to maintain high standard of food safety and personal hygiene.
-* Healthy and fit to operate the stall.
-* Must be in personal attendance at the stall udring operation hours of 7am to 4pm on school- days.
+*** Please submit the completed Scanned Copy of the application form together with the supporting documents (ONE recent passport-sized coloured photograph, Photocopy of NRIC (front and back), Proposed Mena and Price List, Photocopy of Basic Food Hygiene Course Certificate to the email address at andersonss@moe.edu.sg.**
 
-**Applicants should preferably fulfil the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
+* incomplete or late application will not be considered 
 
-*incomplete or late application will not be considered 
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. Food tasting will be conducted between ___ to ___ . Timing to be confirmed.
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-* Only One representative is allowed to enter school with food for food tasting, no helper is allowed. Registration and temperature taking to be done at guard house, food handler must wear a mask. 
+* Only One representative is allowed to enter school with food for food tasting, no helper is allowed. Registration and temperature taking to be done at guard house, food handler must wear a mask.*
+ 
+ * Successful candidates must have or need to apply for a hawker license from Singapore Food Agency (SFA) (formerly known as National Enviroment Agency (NEA).
