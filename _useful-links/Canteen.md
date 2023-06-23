@@ -10,19 +10,7 @@ School Canteen Advertisement
 | ----| --- | --- |
 | --- | --- | --- |
 
-We are a single session school with an estimated enrolment of 1100 students and 130 staff. Our canteen operates from Monday to Fridays 7.00am to 4.00pm during school term. The stall may be required to operate during School Holidays, where necessary, at the request of the school.
-
-**Application Procedure**
-
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [[Application Form](/files/andss%20canteen%20stall%20application%20form.pdf)] 
-
-2. Attached the following documents together with the application form:
-* Photocopy of the NRIC (front and back)
-* List of proposed menu and pricing for all items
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-
-3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+**Location:**
 
 * Address: 10 Ang Mo Kio Street 53 (569206)
 * Contact No: 6459 8303
@@ -34,8 +22,27 @@ We are a single session school with an estimated enrolment of 1100 students and 
 * Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance
 * Walk: From AMK MRT to School 10 to 15 mins 
 
+**School Canteen Operating Hours:**
+
+We are a single session school with an estimated enrolment of 1100 students and 130 staff. Our canteen operates from Monday to Fridays 7.00am to 4.00pm during school term. The stall may be required to operate during School Holidays, where necessary, at the request of the school.
+
+**Application Procedure**
+
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+* [[Application Form](/files/andss%20canteen%20stall%20application%20form.pdf)] 
+
+2. Please submit all the documents to anderson_ss@moe.edu.sg
+
+* Completed application form
+* One recent passport-sized coloured photograph
+* Photocopy of the NRIC (front and back)
+* List of proposed menu and pricing for all items
+* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+
 **Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant. Must be age 21 old or above.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
