@@ -37,21 +37,21 @@ School Canteen Advertisement
 
 **Location:**
 
-Address: 10 Ang Mo Kio Street 53 (569206)
+Address: 10 Ang Mo Kio Street 53 (569206)<br>
 
-Contact No: 6459 8303
+Contact No: 6459 8303<br>
 
-Email: andersonss@moe.edu.sg
+Email: andersonss@moe.edu.sg<br>
 
 Contact Person: Joseph Low
 
 **How to get there?**
  
- Nearest MRT: Ang Mo Kio MRT (NS16)
+ Nearest MRT: Ang Mo Kio MRT (NS16)<br>
  
- Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance
+ Bus number: AMK Bus interchange 265 (Green) - 1 minutes walking distance<br>
  
- Walk: AMK MRT to Anderson Secondary school takes around 10 to 15 mins 
+ Walk: AMK MRT to Anderson Secondary school takes around 10 to 15 mins <br>
 
 **School Canteen Operating Hours:**
 
