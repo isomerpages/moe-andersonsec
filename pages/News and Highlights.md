@@ -5,4 +5,4 @@ description: ""
 ---
 **TERMLY UPDATES FOR PARENTS TERM 3 2023**
 
-For more information, click [here](/files/News%20and%20highlights/termly%20updates%20for%20parents%20term%202%202023.pdf).
+For more information, click [here](/files/editMediaSettings/2023%20termly_updates_for_parents_(t3)%20fv.pdf).
