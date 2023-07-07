@@ -3,6 +3,8 @@ title: CCA Training Timetable 2023
 permalink: /cca/timetable/
 description: ""
 ---
+
+
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="680" style="margin-left:-.25pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
@@ -24,7 +26,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:23.9pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Anderson Science Academy</span></p></td><td width="232" style="width:174.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:23.9pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 4.00pm - 6.00pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
+  padding:0in 5.4pt 0in 5.4pt;height:23.9pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3.15pm - 5.30pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:23.9pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">All</span></p></td><td width="196" style="width:147.0pt;border-top:none;border-left:none;
@@ -35,7 +37,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:12.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Art</span></p></td><td width="232" style="width:174.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:12.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 4.00pm - 6.00pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
+  padding:0in 5.4pt 0in 5.4pt;height:12.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3.30pm - 5.30pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:12.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">All</span></p></td><td width="196" style="width:147.0pt;border-top:none;border-left:none;
@@ -57,7 +59,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:16.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Band</span></p></td><td width="232" style="width:174.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:16.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3pm - 6pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Wed, 3pm - 6pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 2.30pm - 430 (Jul)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri , 3pm to 6pm (Aug)</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
+  padding:0in 5.4pt 0in 5.4pt;height:16.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3.15pm – 6.00pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Wed, 3.15pm – 6.00pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 2.30pm – 4.30pm (Jul)</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 3.00pm – 6.00pm (Aug)</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:16.4pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">All</span></p></td><td width="196" style="width:147.0pt;border-top:none;border-left:none;
@@ -167,7 +169,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:24.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Netball</span></p></td><td width="232" style="width:174.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:24.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Wed, 3.30pm - 6.15pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 2pm - 5.30pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
+  padding:0in 5.4pt 0in 5.4pt;height:24.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Wed, 3.30pm - 6.15pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 2.30pm - 6.00pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:24.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">All</span></p></td><td width="196" style="width:147.0pt;border-top:none;border-left:none;
@@ -211,7 +213,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:19.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Volleyball</span></p></td><td width="232" style="width:174.0pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3.30pm - 6.00pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 1.30pm - 4.30pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
+  padding:0in 5.4pt 0in 5.4pt;height:19.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Mon, 3.30pm - 6.00pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">Fri, 2.30pm - 5.30pm</span></p></td><td width="130" style="width:97.5pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:19.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span lang="EN-SG" style="font-size:10.0pt">All</span></p></td><td width="196" style="width:147.0pt;border-top:none;border-left:none;
