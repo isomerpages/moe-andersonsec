@@ -111,6 +111,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 | -------- | -------- | -------- | -------- |
 |Science|
 |Mdm Yu Sheau Jen |	Head of Department, Physics|<a href="mailto:yu_sheau_jen@moe.edu.sg">yu_sheau_jen@moe.edu.sg</a>|227
+|Mr Chan Ivin|School Staff Developer, Biology|<a href="mailto:chan_ivin@moe.edu.sg">chan_ivin@moe.edu.sg</a>|221
 |Mr Ang Chip Seng	|Head Of Department (I&amp;E) , Physics|<a href="mailto:ang_chip_seng@moe.edu.sg">ang_chip_seng@moe.edu.sg</a>	| 228
 |Mr Richmond Ang Dy 	|Subject Head (ICT), Physics	|<a href="mailto:richmond_ang_dy@moe.edu.sg">richmond_ang_dy@moe.edu.sg</a>|	 238
 |Chan Wee Xian Eugene	|Year Head (Lower Secondary), Chemistry	|<a href="mailto:chan_wee_xian_eugene@moe.edu.sg">chan_wee_xian_eugene@moe.edu.sg</a>	| 236
