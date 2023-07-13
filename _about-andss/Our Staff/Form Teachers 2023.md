@@ -9,7 +9,7 @@ third_nav_title: Our Staff
 | Secondary 1|
 |1T|Mdm Zhong Wanzhen	|<a href="mailto:zhong_wanzhen@schools.gov.sg">zhong_wanzhen@schools.gov.sg</a>|329
 |1T|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
-|1T| Mr Benedict, Ng Min Zhong|[benedict_ng_min_zhong@moe.edu.sg](mailto:benedict_ng_min_zhong@moe.edu.sg)|371
+|1T| Mdm Zhong wanzhen|[zhong_wanzhen@moe.edu.sg](mailto:zhong_wanzhen@moe.edu.sg)|329
 |1H|Ms&nbsp;Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
 |1H	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">	greak_kumar@moe.edu.sg</a>|345
 |1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
