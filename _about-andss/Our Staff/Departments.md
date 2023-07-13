@@ -18,6 +18,8 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
 |Mr Mohd Nazarudon Masduki|Technical Support Officer|<a href="mailto:mohd_nazarudin_masduki@moe.edu.sg">mohd_nazarudin_masduki@moe.edu.sg</a>| -
 |Mr Mah Seng Choy|Technical Support Officer|<a href="mailto:mah_seng_choy@moe.edu.sg">mah_seng_choy@moe.edu.sg</a>|-|
+|Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
+|Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts &amp; Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
@@ -41,6 +43,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 | -------- | -------- | -------- | -------- |
 |Humanities|
 |Mr Hardi Zein|Head of Department, History|<a href="mailto:hardi_zein@moe.edu.sg">hardi_zein@moe.edu.sg</a>	|220
+|Mrs Goh Wenhui|Subject Head, Geography|<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenjui@moe.edu.sg</a>	|233
 |Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
 |Mdm Shirley Ho Hui Zheng|Teacher, History &amp; Social Studies|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
 |Mr Eu Lee Chung Don|Teacher, History &amp; Social Studies|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|	311
@@ -52,8 +55,6 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Ms Pearlin Tan Wei Ern	|Teacher, Geography|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>	|321
 |Mdm Loo Huang Yi	|Teacher, Geography|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Ms Jess Neo Jue Shi	|Teacher, Geography|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg </a>	|364
-|Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
-|Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts &amp; Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
