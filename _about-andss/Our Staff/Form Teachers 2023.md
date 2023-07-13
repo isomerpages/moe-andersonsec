@@ -15,6 +15,7 @@ third_nav_title: Our Staff
 |1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
 |1I	|Mdm Soh Wan Ting|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>|307
 |1I|Ms Filzatul Azreen Bte Gazali|[filzatul_azreen_gazali@moe.edu.sg](mailto:filzatul_azreen_gazali@moe.edu.sg)|407
+|1I|Mr Muhd Azmi Bin Salleh|[muhd_azmi@moe.edu.sg](mailto:muhd_azmii@moe.edu.sg)|
 |1N	|	Ms Lim Chew Yen|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>|405
 |1N	|	Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
 |1K	|Mr Aminurashid Bin Juma'at|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
