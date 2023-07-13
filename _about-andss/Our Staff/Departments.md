@@ -24,7 +24,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |English|
 |Ms Khoo Poh Leng|Head of Department, English Language &amp; Literature	|<a href="mailto:khoo_poh_leng@moe.edu.sg">khoo_poh_leng@moe.edu.sg</a>|	 223
 |Mrs Sabariah Ashari	|Head of Department (Partnership) , English Language &amp; Literature|<a href="mailto:sabariah_mohd_yusoff@moe.edu.sg">sabariah_mohd_yusoff@moe.edu.sg</a>| 226
-| |Subject Head (English Language), English Language &amp; Literature|
+|Mr Ng Ching Enn Stephen|Year Head (Upper Secondary)|<a href="mailto:ng_chiong_enn@moe.edu.sg">ng_ching_enn@moe.edu.sg</a>|222
 |Ms Lim Shan|Teacher, English Language &amp; Literature|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|326
 |Mdm Soh Wan Ting	|Teacher, English Language &amp; Literature	|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>|307
 |Ms Yeow Swee Li|Teacher, English Language &amp; Literature|<a href="mailto:yeow_swee_li@moe.edu.sg">yeow_swee_li@moe.edu.sg</a>|408
