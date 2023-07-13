@@ -81,6 +81,7 @@ third_nav_title: Our Staff
 |4/5	|Ms Loo Huang Yi|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|363
 |4/5	|Mr Mohammed Shaiful Abu Bakar|<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>|403
 |4/6	|Ms Lim Shan|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|343
+|4/6	|Mr Tay Jun Keat|<a href="mailto:tay_jun_keatmoe.edu.sg">tay_jun_keat@moe.edu.sg</a>|362
 |4/7|	Mr Yong Eng Kiat|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|303
 |4/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
 |4/9	|Mr Aaron Wong Whye Kit|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>|317
