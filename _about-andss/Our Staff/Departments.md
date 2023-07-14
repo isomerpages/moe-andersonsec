@@ -74,7 +74,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Mr Aaron Wong Whye Kit|	Teacher, Mathematics	|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>	 |317
 |Mr Wong Teck Hock	|Teacher, Mathematics	|<a href="mailto:wong_teck_hock@moe.edu.sg">wong_teck_hock@moe.edu.sg	</a>| 305|
 |Mr Heng Liang Soon	|Teacher, Mathematics	|<a href="mailto:heng_liang_soon@moe.edu.sg">heng_liang_soon@moe.edu.sg	</a>| 391|
-|Mr Muhd Azmi Bin Salleh|Teacher, Mathematics	|<a href="mailto:muhd_azmi@moe.edu.sg">muhd_azmi@moe.edu.sg	</a>| |
+|Mr Muhd Azmi Bin Salleh|Teacher, Mathematics	|<a href="mailto:muhd_azmi@moe.edu.sg">muhd_azmi@moe.edu.sg	</a>|349|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
