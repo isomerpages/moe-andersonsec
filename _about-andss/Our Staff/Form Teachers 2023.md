@@ -9,12 +9,13 @@ third_nav_title: Our Staff
 | Secondary 1|
 |1T|Mdm Zhong Wanzhen	|<a href="mailto:zhong_wanzhen@schools.gov.sg">zhong_wanzhen@schools.gov.sg</a>|329
 |1T|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
-|1T| Mr Benedict, Ng Min Zhong|[benedict_ng_min_zhong@moe.edu.sg](mailto:benedict_ng_min_zhong@moe.edu.sg)|371
+|1T| Mdm Zhong wanzhen|[zhong_wanzhen@moe.edu.sg](mailto:zhong_wanzhen@moe.edu.sg)|329
 |1H|Ms&nbsp;Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
 |1H	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">	greak_kumar@moe.edu.sg</a>|345
 |1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
 |1I	|Mdm Soh Wan Ting|<a href="mailto:soh_wan_ting@moe.edu.sg">soh_wan_ting@moe.edu.sg</a>|307
 |1I|Ms Filzatul Azreen Bte Gazali|[filzatul_azreen_gazali@moe.edu.sg](mailto:filzatul_azreen_gazali@moe.edu.sg)|407
+|1I|Mr Muhd Azmi Bin Salleh|[muhd_azmi@moe.edu.sg](mailto:muhd_azmii@moe.edu.sg)|349
 |1N	|	Ms Lim Chew Yen|<a href="mailto:lim_chew_yen@moe.edu.sg">lim_chew_yen@moe.edu.sg</a>|405
 |1N	|	Mr Lee Chen Beng|<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>|360
 |1K	|Mr Aminurashid Bin Juma'at|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>|361
@@ -80,6 +81,7 @@ third_nav_title: Our Staff
 |4/5	|Ms Loo Huang Yi|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|363
 |4/5	|Mr Mohammed Shaiful Abu Bakar|<a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg">mohammed_shaiful_abu_bakar@moe.edu.sg</a>|403
 |4/6	|Ms Lim Shan|<a href="mailto:lim_shan@moe.edu.sg">lim_shan@moe.edu.sg</a>|343
+|4/6	|Mr Tay Jun Keat|<a href="mailto:tay_jun_keatmoe.edu.sg">tay_jun_keat@moe.edu.sg</a>|362
 |4/7|	Mr Yong Eng Kiat|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|303
 |4/8	|Mdm Aw Sean Ling|<a href="mailto:aw_sean_ling@moe.edu.sg">aw_sean_ling@moe.edu.sg</a>|301
 |4/9	|Mr Aaron Wong Whye Kit|<a href="mailto:aaron_wong_whye_kit@moe.edu.sg">aaron_wong_whye_kit@moe.edu.sg</a>|317
