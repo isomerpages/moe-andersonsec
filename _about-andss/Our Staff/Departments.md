@@ -43,7 +43,8 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 | -------- | -------- | -------- | -------- |
 |Humanities|
 |Mr Hardi Zein|Head of Department, History|<a href="mailto:hardi_zein@moe.edu.sg">hardi_zein@moe.edu.sg</a>	|220
-|Mrs Goh Wenhui|Subject Head, Geography|<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenjui@moe.edu.sg</a>	|233
+|Mrs Goh Wenhui|Subject Head, Geography|<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a>	|233
+|Mdm Loo Huang Yi	|Subject Head, Character and Citizenship|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
 |Mdm Shirley Ho Hui Zheng|Teacher, History &amp; Social Studies|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
 |Mr Eu Lee Chung Don|Teacher, History &amp; Social Studies|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|	311
@@ -53,7 +54,6 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Mr Jason Chia Yi Kang	|Teacher, Social Studies &amp; English Language|<a href="mailto:chia_yi_kang_jason@moe.edu.sg">chia_yi_kang_jason@moe.edu.sg</a>	|343
 |Ms Lenny Tusya Samsudin	|Teacher, Geography|<a href="mailto:lenny_tusya_samsudin@moe.edu.sg">lenny_tusya_samsudin@moe.edu.sg</a>	|349
 |Ms Pearlin Tan Wei Ern	|Teacher, Geography|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>	|321
-|Mdm Loo Huang Yi	|Teacher, Geography|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Ms Jess Neo Jue Shi	|Teacher, Geography|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg </a>	|364
 
 | Name| Designation| Email | Ext Number|
