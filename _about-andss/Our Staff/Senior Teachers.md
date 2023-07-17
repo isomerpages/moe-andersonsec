@@ -12,3 +12,4 @@ third_nav_title: Our Staff
 |Mr Sivanesan s/o V. Makesan 	 |Physical Education|<a href="mailto:sivanesan_vmakesan@moe.edu.sg">sivanesan_vmakesan@moe.edu.sg</a>	|316
 |Mr Low Kok Ming|	 Mathematics|<a href="mailto:low_kok_ming@moe.edu.sg">low_kok_ming@moe.edu.sg</a>	|352
 |Mr Yong Eng Kiat	 |History/Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
+|Mdm Noorlizasabariah Bte Ramli|Malay Language|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|	312
