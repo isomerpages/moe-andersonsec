@@ -35,8 +35,7 @@ third_nav_title: Our Staff
 |Mr&nbsp;Goh Shiming, Gavin|Student Management|[shiming_gavin_goh@moe.edu.sg](mailto:shiming_gavin_goh@moe.edu.sg)|325
 |Mr Richmond Ang Dy|Subject Head, Information &amp; Communications Technology|<a href="mailto:richmond_ang_dy@moe.edu.sg">richmond_ang_dy@moe.edu.sg</a>|238
 |Ms Loo Huang Yi|Subject Head, Character and Citizenship Education|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>|238
-| |Subject Head, English Language|<a href="mailto:tan_kiak_ping_anne@moe.edu.sg">
-|Dr Wang Zhi Wei|Subject Head, Chinese Language|</a><a href="mailto:wang_zhiwei@moe.edu.sg">wang_zhiwei@moe.edu.sg</a>|237
+|Dr Wang Zhi Wei|Subject Head, Chinese Language|<a href="mailto:wang_zhiwei@moe.edu.sg">wang_zhiwei@moe.edu.sg</a>|237
 |Managers|
 |Ms Patricia Liew|	Administrative Manager 1|<a href="mailto:patricia_liew@moe.edu.sg">patricia_liew@moe.edu.sg</a>|207 
 |Ms Stephanie Yap    |     	Administrative Manager 2|<a href="mailto:stephanie_yap@moe.edu.sg">stephanie_yap@moe.edu.sg</a> | 	208
