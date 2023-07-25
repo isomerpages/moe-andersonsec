@@ -8,6 +8,7 @@ third_nav_title: Our Staff
 | -------- | -------- | -------- | -------- |
 | Aesthetic &amp; Technology|
 |Mr Sim Lee Yong|	Head of Department, Design &amp; Technology|<a href="mailto:sim_lee_yong@moe.edu.sg">sim_lee_yong@moe.edu.sg</a>|219
+|Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
 |Ms Lee Yan Mui Dolly|Assistant Year Head (Upper Secondary)|<a href="mailto:lee_yan_mui_dolly@moe.edu.sg">lee_yan_mui_dolly@moe.edu.sg</a>| 241
 Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>	 |360
 |Mr Loke Khin	 |Adjunct Teacher, Design &amp; Technology	|<a href="mailto:loke_khin@moe.edu.sg">loke_khin@moe.edu.sg</a>	| -
@@ -15,11 +16,10 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
  |Ms Siti Na'Immatul Raudah|	Teacher, Food &amp; Consumer Education	|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg	</a>| 344
 |Mr Hairol Mohamed Hossain|Teacher, Art|	<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
 |Ms Sua Shuying Michelle|Teacher, Art|<a href="mailto:sua_shuying_michelle@moe.edu.sg">sua_shuying_michelle@moe.edu.sg</a>|336
-|Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
-|Mr Mohd Nazarudon Masduki|Technical Support Officer|<a href="mailto:mohd_nazarudin_masduki@moe.edu.sg">mohd_nazarudin_masduki@moe.edu.sg</a>| -
-|Mr Mah Seng Choy|Technical Support Officer|<a href="mailto:mah_seng_choy@moe.edu.sg">mah_seng_choy@moe.edu.sg</a>|-|
 |Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
 |Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts &amp; Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
+|Mr Mohd Nazarudin Masduki|Technical Support Officer|<a href="mailto:mohd_nazarudin_masduki@moe.edu.sg">mohd_nazarudin_masduki@moe.edu.sg</a>| -
+|Mr Mah Seng Choy|Technical Support Officer|<a href="mailto:mah_seng_choy@moe.edu.sg">mah_seng_choy@moe.edu.sg</a>|-|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
