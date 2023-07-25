@@ -40,7 +40,6 @@ third_nav_title: Our Staff
 |2K	|Mdm Ho Hui Zheng Shirley|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
 |2E|	Ms Gao Weiwei|<a href="mailto:gao_wei_wei@moe.edu.sg">gao_wei_wei@moe.edu.sg</a>|347
 |2E	|Mr Mohamed Alfin B. Rahman|<a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg">mohamed_alfin_habib_rahman@moe.edu.sg</a>|234
-|2E	|Mr Tay Jun Keat|<a href="mailto:tay_jun_keat@moe.edu.sg">tay_jun_keat@moe.edu.sg</a>|362
 |2R 	|Mr Hairol Bin Mohamed Hossain|<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
 |2R|Ms Wong Li Yi|[wong_li_yi@moe.edu.sg](mailto:wong_li_yi@moe.edu.sg)|324
 
