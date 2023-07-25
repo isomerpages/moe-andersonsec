@@ -44,7 +44,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Humanities|
 |Mr Hardi Zein|Head of Department, History|<a href="mailto:hardi_zein@moe.edu.sg">hardi_zein@moe.edu.sg</a>	|220
 |Mrs Goh Wenhui|Subject Head, Geography|<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a>	|233
-|Mdm Loo Huang Yi	|Subject Head, Character and Citizenship|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
+|Ms Loo Huang Yi	|Subject Head, Character and Citizenship|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
 |Mdm Shirley Ho Hui Zheng|Teacher, History &amp; Social Studies|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
 |Mr Eu Lee Chung Don|Teacher, History &amp; Social Studies|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|	311
