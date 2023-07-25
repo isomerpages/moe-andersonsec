@@ -8,6 +8,7 @@ third_nav_title: Our Staff
 | -------- | -------- | -------- | -------- |
 | Aesthetic &amp; Technology|
 |Mr Sim Lee Yong|	Head of Department, Design &amp; Technology|<a href="mailto:sim_lee_yong@moe.edu.sg">sim_lee_yong@moe.edu.sg</a>|219
+|Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
 |Ms Lee Yan Mui Dolly|Assistant Year Head (Upper Secondary)|<a href="mailto:lee_yan_mui_dolly@moe.edu.sg">lee_yan_mui_dolly@moe.edu.sg</a>| 241
 Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="mailto:lee_chen_beng@moe.edu.sg">lee_chen_beng@moe.edu.sg</a>	 |360
 |Mr Loke Khin	 |Adjunct Teacher, Design &amp; Technology	|<a href="mailto:loke_khin@moe.edu.sg">loke_khin@moe.edu.sg</a>	| -
@@ -15,11 +16,10 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
  |Ms Siti Na'Immatul Raudah|	Teacher, Food &amp; Consumer Education	|<a href="mailto:siti_naimmatul_raudah@moe.edu.sg">siti_naimmatul_raudah@moe.edu.sg	</a>| 344
 |Mr Hairol Mohamed Hossain|Teacher, Art|	<a href="mailto:hairol_mohamed_hossain@moe.edu.sg">hairol_mohamed_hossain@moe.edu.sg</a>|314
 |Ms Sua Shuying Michelle|Teacher, Art|<a href="mailto:sua_shuying_michelle@moe.edu.sg">sua_shuying_michelle@moe.edu.sg</a>|336
-|Mr Goh Shimin Gavin|Subject Head (Student Management), Music	|<a href="mailto:shiming_gavin_goh@moe.edu.sg">shiming_gavin_goh@moe.edu.sg</a>|325
-|Mr Mohd Nazarudon Masduki|Technical Support Officer|<a href="mailto:mohd_nazarudin_masduki@moe.edu.sg">mohd_nazarudin_masduki@moe.edu.sg</a>| -
-|Mr Mah Seng Choy|Technical Support Officer|<a href="mailto:mah_seng_choy@moe.edu.sg">mah_seng_choy@moe.edu.sg</a>|-|
 |Mdm June Liau Ming Ming|Teacher, Principles of Accounts	|<a href="mailto:liau_ming_ming@moe.edu.sg">liau_ming_ming@moe.edu.sg</a>|313
 |Mdm Jane Cheng Hooi Yu	|Teacher, Principles of Accounts &amp; Music	|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>	|357
+|Mr Mohd Nazarudin Masduki|Technical Support Officer|<a href="mailto:mohd_nazarudin_masduki@moe.edu.sg">mohd_nazarudin_masduki@moe.edu.sg</a>| -
+|Mr Mah Seng Choy|Technical Support Officer|<a href="mailto:mah_seng_choy@moe.edu.sg">mah_seng_choy@moe.edu.sg</a>|-|
 
 | Name| Designation| Email | Ext Number|
 | -------- | -------- | -------- | -------- |
@@ -44,7 +44,7 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Humanities|
 |Mr Hardi Zein|Head of Department, History|<a href="mailto:hardi_zein@moe.edu.sg">hardi_zein@moe.edu.sg</a>	|220
 |Mrs Goh Wenhui|Subject Head, Geography|<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a>	|233
-|Mdm Loo Huang Yi	|Subject Head, Character and Citizenship|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
+|Ms Loo Huang Yi	|Subject Head, Character and Citizenship|<a href="mailto:loo_huang_yi@moe.edu.sg">loo_huang_yi@moe.edu.sg</a>	|363
 |Mr Yong Eng Kiat	|Senior Teacher, History and Social Studies|<a href="mailto:yong_eng_kiat@moe.edu.sg">yong_eng_kiat@moe.edu.sg</a>|	303
 |Mdm Shirley Ho Hui Zheng|Teacher, History &amp; Social Studies|<a href="mailto:ho_hui_zheng@moe.edu.sg">ho_hui_zheng@moe.edu.sg</a>|338
 |Mr Eu Lee Chung Don|Teacher, History &amp; Social Studies|<a href="mailto:eu_lee_chung@moe.edu.sg">eu_lee_chung@moe.edu.sg</a>|	311
@@ -123,6 +123,6 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Mrs Lim Sok Hoon	|Teacher, Chemistry	|<a href="mailto:teh_sok_hoon@moe.edu.sg">teh_sok_hoon@moe.edu.sg	</a>| 330
 |Mr Lim Kuan Yick Arthur	|Senior Teacher, Biology	|<a href="mailto:lim_kuan_yick_arthur@moe.edu.sg">lim_kuan_yick_arthur@moe.edu.sg</a>|318
 |Mdm Lum Yoke Wah|	Teacher, Biology	|<a href="mailto:lum_yoke_wah@moe.edu.sg">lum_yoke_wah@moe.edu.sg</a>|	 333
-|Mdm Zhong wanzhen|	Teacher, CHemistry	|<a href="mailto:zhong_wanzhen@moe.edu.sg">zhong_wanzhen@moe.edu.sg</a>|	 329
-|Mrs Sibyl Yap|	Teacher, CHemistry	|<a href="mailto:ching_siow_eik@moe.edu.sg">ching_siow_eik@moe.edu.sg</a>|	 367
+|Mdm Zhong wanzhen|	Teacher, Chemistry	|<a href="mailto:zhong_wanzhen@moe.edu.sg">zhong_wanzhen@moe.edu.sg</a>|	 329
+|Mrs Sibyl Yap|	Teacher, Chemistry	|<a href="mailto:ching_siow_eik@moe.edu.sg">ching_siow_eik@moe.edu.sg</a>|	 367
 |Mdm Rasamal D/O Veerappan|OSO, Science Laboratory	|<a href="mailto:rasamal_veerappan@moe.edu.sg">rasamal_veerappan@moe.edu.sg</a>| -
