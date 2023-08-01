@@ -47,7 +47,84 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 **At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
-<img width="50%" src="images/moe%20logo.jpg">
+<img style="width:30%;" src="images/moe%20logo.jpg">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
+<p style="text-align: center;"><strong>Secondary 1</strong></p>
 
-<center>2023 Sexuality Education Lessons in CCE 2021</center>
-<center>Secondary 1</center>				
+<div>
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">Unit</span></strong></td>
+<td><strong><span style="color: black;">Lesson Title / Duration</span></strong></td>
+<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
+<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td>Steady or NotLesson 1(60 mins)</td>
+<td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise that there are different forms of love (e.g. familial, platonic, romantic love) [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance and understand what builds healthy and supportive relationships, both online and offline [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+<td>Term 3 Week 1</td>
+</tr>
+<tr>
+<td>Being Aware, Being SafeLesson 2(60 mins)</td>
+<td><span style="color: black;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+<td>Term 3 Week 3</td>
+</tr>
+<tr>
+<td>More than Meets the EyeLesson 3 (60 mins)</td>
+<td><span style="color: black;">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. </span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+<td>Term X Week 8</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+
+<img style="width:30%;" src="images/moe%20logo.jpg">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
+<p style="text-align: center;"><strong>Secondary 2</strong></p>
+
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">Unit</span></strong></td>
+<td><strong><span style="color: black;">Lesson Title/ Duration</span></strong></td>
+<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
+<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td>A Role for Everyone Lesson 1 [if !supportLists](60&nbsp; [endif]mins)</td>
+<td><span style="color: black;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. </span><span style="color: black;">Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</span> <span style="color: black;">Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. </span> <span style="color: black;">Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that one’s understanding of gender roles should not be limited by gender stereotypes [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]develop an appreciation of one’s own unique qualities and characteristics as a male or female [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand what sexual orientation entails</td>
+<td>Term 3 Week 9</td>
+</tr>
+<tr>
+<td>Online Safety Challenge Lesson 2A(60 mins)</td>
+<td><span style="color: black;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. </span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+<td>Term 3 Week 10</td>
+</tr>
+<tr>
+<td>Do I or Don’t I Lesson 2B(60 mins)</td>
+<td><span style="color: black;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.&nbsp; </span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance of self-respect and respect for others in relating to members of the opposite gender [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+<td>Term 4 Week 1</td>
+</tr>
+</tbody>
+</table>
+<br>
+<img style="width:30%;" src="images/moe%20logo.jpg">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
+<p style="text-align: center;"><strong>Secondary 3</strong></p>
+
