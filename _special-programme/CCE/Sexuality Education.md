@@ -47,6 +47,9 @@ b.     Character and Citizenship Education (CCE)
 
 **At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
+
+
 **2023 Sexuality Education Lessons in CCE 2021**
 
-**Secondary 1**
+														**Secondary 1**
+
