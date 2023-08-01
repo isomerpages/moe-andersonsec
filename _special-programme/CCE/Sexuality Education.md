@@ -128,3 +128,146 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 3</strong></p>
 
+<div>
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">Unit</span></strong></td>
+<td><strong><span style="color: black;">Lesson Title/ Duration</span></strong></td>
+<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
+<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td>Love Yourself, Love Others Lesson 1A(60 mins)</td>
+<td><span style="color: black;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.&nbsp; </span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</td>
+<td>Term 2 Week 4</td>
+</tr>
+<tr>
+<td>Mending aBroken HeartLesson 1B(60 mins)</td>
+<td><span style="color: black;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. </span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that a decision to end a relationship will have consequences on oneself and others [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</td>
+<td>Term 2 Week 5</td>
+</tr>
+<tr>
+<td>When Respect Takes Centre Stage Lesson 2(60 mins)</td>
+<td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td>Term 2 Week 9</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<img style="width:30%;" src="images/moe%20logo.jpg">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
+<p style="text-align: center;"><strong>Secondary 4</strong></p>
+<br>
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">Unit</span></strong></td>
+<td><strong><span style="color: black;">Lesson Title</span></strong></td>
+<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
+<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td>Levelling the GroundLesson 1(60 mins)</td>
+<td><span style="color: black;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided</td>
+<td>Term 2 Week 2</td>
+</tr>
+<tr>
+<td>When Love Hurts Lesson 2(60 mins)</td>
+<td><span style="color: black;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</td>
+<td>Term 2 Week 4</td>
+</tr>
+<tr>
+<td>For Better or For Worse Lesson 3(60 mins)</td>
+<td><span style="color: black;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</td>
+<td>Term 2 Week 6</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>There’s Always More to a StoryLesson 4(60 mins)</td>
+<td><span style="color: black;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td>Term 2 Week 10</td>
+</tr>
+</tbody>
+</table>
+<br>
+<img style="width:30%;" src="images/moe%20logo.jpg">
+<p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
+<p style="text-align: center;"><strong>Secondary 5</strong></p>
+<br>
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">UNIT</span></strong></td>
+<td><strong><span style="color: black;">Lesson Title</span></strong></td>
+<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
+<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Respectful Relationships &amp; Safety</td>
+<td>This is Where I Draw the Line(60 mins)</td>
+<td><span style="color: black;">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. </span></td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+<td>Term 2 Week 2</td>
+</tr>
+</tbody>
+</table>
+
+<p style="text-align: justify;"><strong><em><u><span style="color: black;">eTeens</span></u></em></strong><strong><u><span style="color: black;"> Programme</span></u></strong><span style="color: black;">: </span></p>
+<p style="text-align: justify;">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+<p style="text-align: justify;">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. <span style="color: black;">The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</span></p>
+<p style="text-align: justify;"><strong>At Anderson Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2023:</strong></p>
+
+<div>
+<table>
+<thead>
+<tr>
+<td><strong><span style="color: black;">Topics/Lessons</span></strong></td>
+<td><strong><span style="color: black;">Programme Learning Objectives</span></strong></td>
+<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g. Term 3 Week 9)</span></strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mass Talk by HPB appointed vendor</td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]Awareness of the different STIs and HIV/AIDS [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]Modes of transmission [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]Modes of protection, specifically on how the condom is used [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]Consequences and impact of STIs/HIV</td>
+<td>Term 3 Week 1</td>
+</tr>
+<tr>
+<td>Classroom-based Lesson</td>
+<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+<td>Term 3 Week 1</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p style="text-align: justify;"><strong>Information for Parents</strong></p>
+<p style="text-align: justify;">10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p style="text-align: justify;">11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <span style="color: blue;">here</span>. The completed form is to be submitted by 24/02/2023.</p>
+<p style="text-align: justify;">12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the <strong><em>eTeens</em></strong><strong> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable. The completed form is to be submitted by 24/02/2023.</p>
+<p style="text-align: justify;">13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <span style="color: black;">6459 8303 or </span><a rel="noopener" target="_blank" href="mailto:anderson_ss@moe.edu.sg">anderson_ss@moe.edu.sg</a><span style="color: black;"> </span>for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
