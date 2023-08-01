@@ -106,15 +106,15 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 <tbody>
 <tr>
 <td>Respectful Relationships &amp; Safety</td>
-<td>A Role for Everyone Lesson 1 [if !supportLists](60&nbsp; [endif]mins)</td>
+<td>A Role for Everyone Lesson 1 (60&nbsp;mins)</td>
 <td><span style="color: black;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. </span><span style="color: black;">Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</span> <span style="color: black;">Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. </span> <span style="color: black;">Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that one’s understanding of gender roles should not be limited by gender stereotypes [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]develop an appreciation of one’s own unique qualities and characteristics as a male or female [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand what sexual orientation entails</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that one’s understanding of gender roles should not be limited by gender stereotypes develop an appreciation of one’s own unique qualities and characteristics as a male or female understand what sexual orientation entails</td>
 <td>Term 3 Week 9</td>
 </tr>
 <tr>
 <td>Online Safety Challenge Lesson 2A(60 mins)</td>
 <td><span style="color: black;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. </span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+<td>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
 <td>Term 3 Week 10</td>
 </tr>
 <tr>
