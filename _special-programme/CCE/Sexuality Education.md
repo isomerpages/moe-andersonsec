@@ -47,6 +47,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 
+
 **At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
 <img style="width:30%;" src="images/moe%20logo.jpg">
