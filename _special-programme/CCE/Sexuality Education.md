@@ -27,12 +27,12 @@ third_nav_title: CCE
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click <a href="https://www.w3schools.com">here</a>
-
-[here](https://go.gov.sg/moe-sexuality-education) ([https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)) for more information on MOE Sexuality Education.
+for more information on MOE Sexuality Education.
 
 **Overview of DEF Secondary** **School’s** **Sexuality Education Programme for 2023**
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) ( [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope)[](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)) for more information on the scope of Sexuality Education in the school curriculum.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a>
+ for more information on the scope of Sexuality Education in the school curriculum.
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:
 
