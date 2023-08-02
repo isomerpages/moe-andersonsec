@@ -50,190 +50,1541 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 **At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
-<img style="width:30%;" src="images/moe%20logo.jpg">
+<br>
+<img src="images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 1</strong></p>
-
-<div>
-<table>
-<thead>
-<tr>
-<td><strong><span style="color: black;">Unit</span></strong></td>
-<td><strong><span style="color: black;">Lesson Title / Duration</span></strong></td>
-<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
-<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
-<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td>Steady or NotLesson 1(60 mins)</td>
-<td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
-<td>•recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles •recognise that there are different forms of love (e.g. familial, platonic, romantic love) •recognise the importance and understand what builds healthy and supportive relationships, both online and offline •understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
-<td>Term 3 Week 1</td>
-</tr>
-<tr>
-<td>Being Aware, Being SafeLesson 2(60 mins)</td>
-<td><span style="color: black;">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
-<td>Term 3 Week 3</td>
-</tr>
-<tr>
-<td>More than Meets the EyeLesson 3 (60 mins)</td>
-<td><span style="color: black;">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. </span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-<td>Term X Week 8</td>
-</tr>
-</tbody>
-</table>
-</div>
 <br>
 
-<img style="width:30%;" src="images/moe%20logo.jpg">
+<div align="center">
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="1030" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td width="141" valign="top" style="width:106.1pt;border:solid black 1.0pt;
+   mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Unit</span></b></p>
+   </td>
+   <td width="170" valign="top" style="width:127.55pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Title / Duration<s></s></span></b></p>
+   </td>
+   <td width="269" valign="top" style="width:201.5pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Overview<span style="text-transform:uppercase"></span></span></b></p>
+   </td>
+   <td width="299" valign="top" style="width:224.0pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Lesson
+   Objectives<span style="text-transform:uppercase"></span></span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">At the
+   end of the lesson, students will be able to:</span></p>
+   </td>
+   <td width="151" valign="top" style="width:113.15pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;text-indent:-5.65pt"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">Time Period</span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:-5.45pt;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">(e.g.Term 1 Week 2)</span></b><b><span lang="EN-GB" style="font-size:11.0pt;color:black"></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1;height:192.05pt">
+  <td width="141" rowspan="3" style="width:106.1pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:192.05pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:192.05pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Steady or Not</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson 1</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">(60 mins)</span><span lang="EN-GB" style="font-size:11.0pt;font-family:
+  &quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+  <td width="269" valign="top" style="width:201.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:192.05pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">This
+  lesson helps students understand more about relationship building and the
+  different types of love (e.g. familial, platonic, romantic). They will have
+  the opportunity to better understand the considerations involved in making
+  responsible decisions towards dating and romantic relationships and </span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
+  &quot;Arial&quot;,sans-serif">understand how to build healthy and supportive
+  relationships, both online and offline.</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:12.0pt"></span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:
+  EN-US">&nbsp;</span></p>
+  <p class="MsoNormal" style="margin-top:2.0pt;mso-add-space:auto"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:12.0pt">&nbsp;</span></p>
+  </td>
+  <td width="299" valign="top" style="width:224.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:192.05pt">
+  <p class="MsoListParagraph" style="margin-top:2.0pt;margin-right:0in;
+  margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-.25in;mso-list:l3 level1 lfo2"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">recognise the importance of monitoring and
+  managing our emotional reactions, in helpful ways that are reflective of our
+  values and principles </span></p>
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l1 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">recognise that
+  there are different forms of love (e.g. familial, platonic, romantic love) </span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">recognise the importance and understand what
+  builds healthy and supportive relationships, both online and offline </span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">understand what dating is, and recognise that the
+  readiness and interest in dating vary among individuals</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"> </span><span lang="EN-GB" style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p>
+  </td>
+  <td width="151" valign="top" style="width:113.15pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:192.05pt">
+  <p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:2.0pt;margin-left:1.65pt;mso-add-space:auto;text-align:center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 3
+  Week 1</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  12.0pt"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:41.45pt">
+  <td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Being Aware, Being Safe</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson 2</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">(60 mins)</span></p>
+  </td>
+  <td width="269" valign="top" style="width:201.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">This lesson focuses on helping students
+  to be safe from the dangers of sexual grooming and on respecting one’s right
+  to safety. Students will also learn about the legal provisions against sexual
+  abuse, and the impact of sexual abuse on victims, including the psychological
+  impact on the sense of self.&nbsp;</span><span lang="EN-GB" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">This lesson is conducted separately for
+  boys and girls in different classrooms, so that the students will feel more
+  comfortable during the discussions.</span><span lang="EN-SG" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US"></span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="299" valign="top" style="width:224.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-justify:
+  inter-ideograph;text-indent:-.25in;mso-list:l2 level1 lfo3"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">understand that
+  physical and psychological abuse from others, especially those we know and
+  trust, can have strong negative effects on a person’s self-concept</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+  <td width="151" valign="top" style="width:113.15pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center;text-indent:1.65pt"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 3
+  Week 3</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:245.25pt">
+  <td width="170" valign="top" style="width:127.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:245.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">More than Meets the Eye</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson 3 </span><span lang="EN-GB"></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">(60 mins)</span></p>
+  </td>
+  <td width="269" valign="top" style="width:201.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:245.25pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">This lesson touches on two areas relevant
+  to an adolescent’s curiosity on matters related to sexuality – masturbation
+  and pornography. Students will gain awareness of the health, legal and moral
+  issues related to viewing, downloading and/or distributing pornography. While
+  students may perceive watching pornography as a private issue without
+  consequences to bear, they will learn that it could lead to addiction and/or
+  other risky sexual behaviours. </span><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">This lesson is conducted separately for
+  boys and girls in different classrooms, so that the students will feel more
+  comfortable during the discussions.</span><span lang="EN-GB" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+  <td width="299" valign="top" style="width:224.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:245.25pt">
+  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-justify:
+  inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">understand and accept that as we work towards
+  becoming our best self, there will be times when we make mistakes, and
+  recognise the importance of exercising moral courage in facing up to
+  consequences </span></p>
+  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-justify:
+  inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo4"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">recognise that there are moral and legal
+  consequences of risky sexual behaviours, pornography access and acting
+  irresponsibly or maliciously when online (e.g. spreading of online
+  falsehoods, flouting copyright laws, etc.)</span></p>
+  </td>
+  <td width="151" valign="top" style="width:113.15pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:black;mso-border-left-alt:windowtext;mso-border-bottom-alt:
+  black;mso-border-right-alt:windowtext;mso-border-style-alt:solid;mso-border-width-alt:
+  .5pt;padding:0in 5.4pt 0in 5.4pt;height:245.25pt">
+  <p class="MsoNormal" style="margin-left:.25in;text-align:justify;text-justify:
+  inter-ideograph"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:
+  EN-GB">Term X Week 8</span><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<br>
+<img src="images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 2</strong></p>
-
-<table>
-<thead>
-<tr>
-<td><strong><span style="color: black;">Unit</span></strong></td>
-<td><strong><span style="color: black;">Lesson Title/ Duration</span></strong></td>
-<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
-<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
-<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td>A Role for Everyone Lesson 1 (60&nbsp;mins)</td>
-<td><span style="color: black;">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. </span><span style="color: black;">Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</span> <span style="color: black;">Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. </span> <span style="color: black;">Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</span></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that one’s understanding of gender roles should not be limited by gender stereotypes develop an appreciation of one’s own unique qualities and characteristics as a male or female understand what sexual orientation entails</td>
-<td>Term 3 Week 9</td>
-</tr>
-<tr>
-<td>Online Safety Challenge Lesson 2A(60 mins)</td>
-<td><span style="color: black;">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. </span> <span style="color: black;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></td>
-<td>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
-<td>Term 3 Week 10</td>
-</tr>
-<tr>
-<td>Do I or Don’t I Lesson 2B(60 mins)</td>
-<td><span style="color: black;">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.&nbsp; </span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance of self-respect and respect for others in relating to members of the opposite gender [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
-<td>Term 4 Week 1</td>
-</tr>
-</tbody>
-</table>
 <br>
-<img style="width:30%;" src="images/moe%20logo.jpg">
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="1021" style="border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-table-overlap:never;
+ mso-yfti-tbllook:480;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+ page;mso-table-left:35.85pt;mso-table-top:5.35pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td width="142" valign="top" style="width:106.3pt;border:solid black 1.0pt;
+   mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+   mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Unit</span></b></p>
+   </td>
+   <td width="174" valign="top" style="width:130.5pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+   mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Title/ Duration</span></b></p>
+   </td>
+   <td width="270" valign="top" style="width:202.4pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:-15.6pt;text-align:center;text-indent:15.6pt;
+   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+   mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black;mso-color-alt:windowtext">Lesson Overview</span></b><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p>
+   </td>
+   <td width="274" valign="top" style="width:205.75pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+   mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Lesson
+   Objectives<span style="text-transform:uppercase"></span></span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+   mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">At the
+   end of the lesson, students will be able to:<i></i></span></p>
+   </td>
+   <td width="161" valign="top" style="width:120.5pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;text-indent:-5.65pt;
+   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+   mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">Time Period</span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:-5.25pt;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+   mso-element-top:5.35pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">(e.g.Term
+   1 Week 2)</span></b><b><span lang="EN-GB" style="font-size:11.0pt;color:black"></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1;height:14.9pt">
+  <td width="142" rowspan="3" style="width:106.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></p>
+  </td>
+  <td width="174" valign="top" style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">A Role for Everyone </span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">
+  1</span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:19.7pt;text-align:
+  center;text-indent:-.25in;mso-list:l2 level1 lfo1;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(60<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">mins)</span></p>
+  </td>
+  <td width="270" valign="top" style="width:202.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">This lesson focus on how the family, culture and
+  society can influence one’s perception of their gender roles. Students will
+  learn what gender stereotypes are (e.g. males traditionally as breadwinners
+  and females traditionally as doing household chores) and how gender
+  stereotypes are formed. </span><span lang="EN-GB" style="color:black;
+  mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span></span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Students will discuss how one’s understanding of
+  gender roles should not be limited by gender stereotypes, for example women
+  can be pilots, while men can be nurses.</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Students learn to focus on their personal strengths
+  to pursue their interests and build their self- confidence. </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Students will also learn about the definitions of
+  biological sex, gender identity, gender expression and sexual orientation.
+  They will learn to treat everyone with respect and empathy.</span><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:EN-US"></span></p>
+  <p class="MsoNormal" style="margin-left:16.5pt;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:page;mso-element-left:35.9pt;mso-element-top:
+  5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="274" valign="top" style="width:205.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoListParagraph" style="margin-top:0in;margin-right:0in;margin-bottom:
+  2.0pt;margin-left:21.05pt;mso-add-space:auto;text-align:justify;text-justify:
+  inter-ideograph;text-indent:-.25in;mso-list:l1 level1 lfo2;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">know that one’s understanding of gender roles
+  should not be limited by gender stereotypes</span></p>
+  <p class="MsoListParagraph" style="margin-left:21.05pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo2;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">develop an appreciation of one’s own unique
+  qualities and characteristics as a male or female</span></p>
+  <p class="MsoListParagraph" style="margin-left:21.05pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-.25in;mso-list:l1 level1 lfo2;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt">understand</span><span lang="EN-GB" style="font-size:11.0pt"> what sexual orientation entails</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:2.0pt;
+  margin-left:.25in;mso-add-space:auto;text-align:justify;text-justify:inter-ideograph;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 3
+  Week 9</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  12.0pt"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:41.45pt">
+  <td width="174" valign="top" style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Online Safety Challenge </span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">
+  2A</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  </td>
+  <td width="270" valign="top" style="width:202.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">This lesson focuses on the issue of online grooming
+  and cyber-flashing. It emphasises the need for help-seeking, peer support and
+  positive peer influence. The lesson encourages the safe and responsible use
+  of social media, and aims to deepen students’ conviction, and extend a call
+  to action to students to taking appropriate decisions to safeguard their
+  well-being and safety. </span><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="background:white;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:page;mso-element-left:35.9pt;mso-element-top:
+  5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">This lesson is conducted separately for boys and
+  girls in different classrooms, so that the students will feel more
+  comfortable during the discussions.</span><span lang="EN-GB" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="background:white;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:page;mso-element-left:35.9pt;mso-element-top:
+  5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="274" valign="top" style="width:205.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoListParagraph" style="margin-left:20.0pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-14.15pt;mso-list:l0 level1 lfo3;
+  layout-grid-mode:char;mso-layout-grid-align:none;text-autospace:none;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">recognise one’s vulnerability to risky
+  situations and the importance of exercising discretion to reduce risks and
+  avoid negative consequences, both online and offline</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center;layout-grid-mode:
+  char;mso-layout-grid-align:none;text-autospace:none;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 3 Week 10</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:58.2pt">
+  <td width="174" valign="top" style="width:130.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">Do I or Don’t I
+  </span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt"> 2B</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:page;mso-element-left:35.9pt;
+  mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  </td>
+  <td width="270" valign="top" style="width:202.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">This lesson focuses on respect for personal
+  boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy
+  and abortion. Students will learn the importance of respecting one another’s
+  boundaries in relationships. This lesson emphasises the importance of
+  responsible decision-making, the value of sexual abstinence, the need for
+  help seeking. Students will be aware of Singapore laws protecting minors,
+  such as the legal consequences of having sex with a minor, abortion and the
+  abandonment of babies.<span style="mso-spacerun:yes">&nbsp; </span></span><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:EN-US"></span></p>
+  <p class="MsoListParagraph" style="margin-left:16.5pt;text-align:justify;
+  text-justify:inter-ideograph;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  page;mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="274" valign="top" style="width:205.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoListParagraph" style="margin-left:20.25pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-14.15pt;mso-list:l0 level1 lfo3;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">recognise the importance of self-respect
+  and respect for others in relating to members of the opposite gender </span></p>
+  <p class="MsoListParagraph" style="margin-left:20.25pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-14.15pt;mso-list:l0 level1 lfo3;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">recognise one’s vulnerability to risky
+  situations and the importance of exercising discretion to reduce risks and
+  avoid negative consequences, both offline and online</span><span lang="EN-GB"></span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoNormal" align="center" style="margin-left:1.85pt;text-align:center;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:page;
+  mso-element-left:35.9pt;mso-element-top:5.35pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 4
+  Week 1</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<br>
+<img src="images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 3</strong></p>
-
-<div>
-<table>
-<thead>
-<tr>
-<td><strong><span style="color: black;">Unit</span></strong></td>
-<td><strong><span style="color: black;">Lesson Title/ Duration</span></strong></td>
-<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
-<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
-<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td>Love Yourself, Love Others Lesson 1A(60 mins)</td>
-<td><span style="color: black;">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.&nbsp; </span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</td>
-<td>Term 2 Week 4</td>
-</tr>
-<tr>
-<td>Mending aBroken HeartLesson 1B(60 mins)</td>
-<td><span style="color: black;">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. </span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that a decision to end a relationship will have consequences on oneself and others [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</td>
-<td>Term 2 Week 5</td>
-</tr>
-<tr>
-<td>When Respect Takes Centre Stage Lesson 2(60 mins)</td>
-<td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-<td>Term 2 Week 9</td>
-</tr>
-</tbody>
-</table>
-</div>
 <br>
-<img style="width:30%;" src="images/moe%20logo.jpg">
+
+<div align="center">
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="1001" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td width="151" valign="top" style="width:113.45pt;border:solid black 1.0pt;
+   mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt"><b><span lang="EN-GB" style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   mso-fareast-font-family:SimSun;font-variant:small-caps;color:black;
+   mso-color-alt:windowtext;mso-ansi-language:EN-GB;mso-fareast-language:ZH-CN;
+   mso-bidi-language:AR-SA"><br clear="all" style="page-break-before:always">
+   </span></b>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Unit</span></b></p>
+   </td>
+   <td width="170" valign="top" style="width:127.3pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Title/ Duration</span></b></p>
+   </td>
+   <td width="255" valign="top" style="width:191.35pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Overview</span></b><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p>
+   </td>
+   <td width="265" valign="top" style="width:198.45pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Lesson
+   Objectives<span style="text-transform:uppercase"></span></span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">At the
+   end of the lesson, students will be able to:</span></p>
+   </td>
+   <td width="161" valign="top" style="width:120.45pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;text-indent:-5.65pt"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">Time Period</span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">(e.g.Term
+   1 Week 2)</span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1;height:14.9pt">
+  <td width="151" rowspan="3" style="width:113.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></p>
+  </td>
+  <td width="170" valign="top" style="width:127.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Love Yourself, Love Others </span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">
+  1A</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">(60 mins)</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+  <td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">This lesson focuses on dating
+  respectfully in healthy relationships. Students will learn about self-esteem,
+  their sources of influence (e.g. friends’ perception) on self-esteem, the
+  impact of one’s self-esteem on our mental well-being as well as relationships
+  with others. Students will also learn how emotional reactions can affect
+  relationships positively or negatively. Students will also learn that maturity
+  and readiness are important when entering into a dating relationship.<span style="mso-spacerun:yes">&nbsp; </span></span><span lang="EN-SG" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US"></span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p>
+  </td>
+  <td width="265" valign="top" style="width:198.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.25pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know that
+  self-perception and identity have an impact on our self-esteem and how we
+  interact with others and the choices we make, both online and offline </span></p>
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.25pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">understand that
+  expectations of oneself and others may differ and can affect one’s emotions,
+  thoughts and behaviours</span></p>
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.25pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">recognise what
+  healthy dating relationships involve and know that readiness is important
+  when entering into a dating relationship</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  <p class="MsoNormal" style="margin-left:24.35pt"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="margin-left:3.1pt;mso-add-space:auto;
+  text-align:center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:
+  EN-GB">Term 2 Week 4</span><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:41.45pt">
+  <td width="170" valign="top" style="width:127.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Mending a</span><span lang="EN-GB" style="mso-fareast-font-family:DengXian">
+  </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-bidi-font-weight:bold">Broken Heart</span><span lang="EN-GB" style="mso-fareast-font-family:DengXian"> </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">
+  1B</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  </td>
+  <td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Students will learn how to manage their
+  emotions if they were to face a breakup and know that relationship building
+  involves person emotions and vulnerabilities, and changes and challenges.
+  Students will also learn that a decision to end a relationship will have
+  consequences on oneself and others, and that grief and loss due to rejections
+  and broken relationships is normal and that one can recover from the
+  experience. They will learn that there are healthy ways of coping with
+  breakdowns in relationships and that family and friends are important pillars
+  of support. </span><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:
+  EN-US"></span></p>
+  <p class="MsoNormal"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p>
+  </td>
+  <td width="265" valign="top" style="width:198.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.3pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know that
+  relationship-building involves personal emotions and vulnerabilities, and
+  changes and challenges </span></p>
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.3pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know that a
+  decision to end a relationship will have consequences on oneself and others</span></p>
+  <p class="MsoListParagraph" style="margin-left:24.35pt;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-21.3pt;
+  mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know that grief
+  and loss due to rejections and broken relationships is normal and one can
+  recover from the experience </span></p>
+  <p class="MsoListParagraph" style="margin-left:24.35pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-21.3pt;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know there are
+  healthy ways of coping with broken relationships, and family and friends are
+  important pillars of support </span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="margin-left:3.05pt;mso-add-space:auto;
+  text-align:center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:
+  10.0pt;font-family:&quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;mso-fareast-language:
+  EN-GB">Term 2 Week 5</span><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:79.4pt">
+  <td width="170" valign="top" style="width:127.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:79.4pt">
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">When
+  Respect Takes Centre Stage </span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt"> 2</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  </td>
+  <td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:79.4pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">This
+  lesson aims to help students think critically and make informed decisions in
+  the contexts of sexting and voyeurism, and encourages students to exert a
+  positive influence as a respectful online user. It will also deepen students’
+  convictions about making moral decisions by taking into consideration the
+  impact of their decisions and actions on their well-being and safety, their
+  loved ones, and the community. Students learn that they have a right and responsibility
+  to be safe and protect their personal space and body. They also learn that
+  sexting, voyeurism and other related sexual offences are never justifiable
+  and they can seek help in times of need.</span><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG;mso-bidi-font-style:italic"></span></p>
+  </td>
+  <td width="265" valign="top" style="width:198.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:79.4pt">
+  <p class="MsoNormal" style="margin-left:24.35pt;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-24.35pt;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;mso-bidi-font-style:
+  italic">recognise the importance of being informed of social and moral issues
+  of the day and the need to reflect on these issues, and weigh them against
+  our own moral standpoints as we form our perspectives about them </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="margin-left:24.35pt;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-24.35pt;mso-list:l0 level1 lfo1"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-SG" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;mso-bidi-font-style:
+  italic">understand that we strengthen our character when we commit to sound
+  values-based viewpoints (e.g. respect for life) and decisions, and speak and
+  act in alignment with our beliefs </span><span lang="EN-GB" style="font-size:
+  11.0pt"></span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:79.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 2 Week 9</span><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG;mso-bidi-font-style:italic"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<br>
+<img src="images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 4</strong></p>
 <br>
-<table>
-<thead>
-<tr>
-<td><strong><span style="color: black;">Unit</span></strong></td>
-<td><strong><span style="color: black;">Lesson Title</span></strong></td>
-<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
-<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
-<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td>Levelling the GroundLesson 1(60 mins)</td>
-<td><span style="color: black;">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided</td>
-<td>Term 2 Week 2</td>
-</tr>
-<tr>
-<td>When Love Hurts Lesson 2(60 mins)</td>
-<td><span style="color: black;">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</td>
-<td>Term 2 Week 4</td>
-</tr>
-<tr>
-<td>For Better or For Worse Lesson 3(60 mins)</td>
-<td><span style="color: black;">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort [if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</td>
-<td>Term 2 Week 6</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>There’s Always More to a StoryLesson 4(60 mins)</td>
-<td><span style="color: black;">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-<td>Term 2 Week 10</td>
-</tr>
-</tbody>
-</table>
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="1049" style="border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-table-overlap:never;
+ mso-yfti-tbllook:480;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+ column;mso-table-left:center;mso-table-top:.05pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td width="114" valign="top" style="width:85.5pt;border:solid black 1.0pt;
+   border-bottom:solid windowtext 1.0pt;mso-border-alt:solid black .5pt;
+   mso-border-bottom-alt:solid windowtext .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Unit</span></b></p>
+   </td>
+   <td width="169" valign="top" style="width:126.9pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Title</span></b></p>
+   </td>
+   <td width="312" valign="top" style="width:233.9pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Overview</span></b><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></b></p>
+   </td>
+   <td width="293" style="width:219.7pt;border:solid black 1.0pt;border-left:
+   none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Lesson
+   Objectives<span style="text-transform:uppercase"></span></span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">At the
+   end of the lesson, students will be able to:</span></p>
+   </td>
+   <td width="161" valign="top" style="width:120.5pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;text-indent:-5.65pt;
+   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+   mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">Time Period</span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+   mso-element-top:.05pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">(e.g.Term
+   1 Week 2)</span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1;height:14.9pt">
+  <td width="114" rowspan="3" valign="top" style="width:85.5pt;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></p>
+  </td>
+  <td width="169" valign="top" style="width:126.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Levelling the Ground</span><span lang="EN-GB" style="mso-fareast-font-family:
+  DengXian"> </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-bidi-font-weight:bold">Lesson</span><span lang="EN-GB" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif"> 1</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+  <td width="312" valign="top" style="width:233.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><a name="\_Hlk66450218"><span lang="EN-GB" style="font-size:11.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">This lesson aims to
+  help students think critically about gender stereotypes that exist in our
+  society in the contexts of career and family (e.g. males typically perceived
+  as main breadwinners and females typically perceived as main caregivers in
+  the family), and the impact of these stereotypes on individuals. Students will
+  learn to be aware of possible gender stereotypes that may affect one’s family
+  and future decisions. They will also learn to reframe their perspectives and
+  not judge others based on their own or others’ values and principles, with
+  regard to gender stereotypes.</span></a><span style="mso-bookmark:\_Hlk66450218"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo2;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">understand that the value of a person is not
+  tied to one’s gender and not conforming to gender stereotypes does not negate
+  one’s gender identity</span></p>
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo2;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">understand what gender stereotypes comprise,
+  e.g. notions of masculinity and femininity vary over time and space, and are
+  shaped by societal expectations</span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo2;
+  mso-layout-grid-align:none;text-autospace:none;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:column;mso-element-left:center;mso-element-top:
+  .05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-SG" style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-ansi-language:EN-SG;mso-fareast-language:EN-US;mso-bidi-font-style:
+  italic"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">know
+  that imposing gender stereotypes on oneself and others can limit one’s
+  experiences, cause harm to the self-esteem of oneself and others and should
+  be avoided </span><i><span lang="EN-SG" style="font-family:Arial-ItalicMT;
+  mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+  mso-bidi-font-family:Arial-ItalicMT;color:#C10000;mso-ansi-language:EN-SG;
+  mso-fareast-language:EN-US"></span></i></p>
+  <p class="MsoNormal" style="mso-layout-grid-align:none;text-autospace:none;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><i><span lang="EN-SG" style="font-family:Arial-ItalicMT;mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Arial-ItalicMT;
+  color:#C10000;mso-ansi-language:EN-SG;mso-fareast-language:EN-US">&nbsp;</span></i></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 2 Week 2</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:41.45pt">
+  <td width="169" valign="top" style="width:126.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">When Love Hurts </span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">
+  2</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  </td>
+  <td width="312" valign="top" style="width:233.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" style="margin-right:1.25pt;text-align:justify;text-justify:
+  inter-ideograph;background:white;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:column;mso-element-left:center;mso-element-top:
+  .05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">This
+  lesson aims to help students recognise unhealthy relationships and build
+  their help-seeking skills. Students will learn to identify potential signs of
+  an unhealthy relationship and recognise the different forms of dating
+  violence. They will get to understand why dating violence occurs, why victims
+  often feel “trapped” in such unhealthy relationships, and how one can get out
+  of such a relationship safely. Students will learn when, where and how to
+  seek help from trusted adults (e.g. family, teachers, school counsellors) in
+  the supportive environment that they have if they or their friends are
+  involved in an unhealthy relationship.</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo1;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;mso-ansi-language:EN-US"><span style="mso-list:
+  Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">know there are
+  healthy ways of coping with broken relationships, and family and friends are
+  important pillars of support</span><span style="font-size:11.0pt;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US"></span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo1;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;mso-ansi-language:EN-US"><span style="mso-list:
+  Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">recognise
+  emotions caused by traumatic situations, e.g. bullying, abuse and dating
+  violence, and understand the physiological and psychological, social impact
+  on victims </span><span style="font-size:11.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US"></span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;mso-add-space:auto;
+  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
+  mso-list:l1 level1 lfo1;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;mso-ansi-language:EN-US"><span style="mso-list:
+  Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">understand that
+  we need moral courage and wisdom to recognise and end relationships that are
+  unhealthy and cause harm to our mental and emotional well-being</span><span style="font-size:11.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-ansi-language:EN-US"></span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-.25in;mso-list:l1 level1 lfo1;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">understand the
+  importance of ensuring that non-verbal messages match with verbal ones, when
+  communicating personal and emotional boundaries in a relationship</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt"><span style="mso-spacerun:yes">&nbsp;</span></span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:41.45pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 2 Week 4</span><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:58.2pt">
+  <td width="169" valign="top" style="width:126.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">For Better or
+  For Worse </span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">Lesson 3</span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">(60 mins)<span style="color:#70AD47;mso-themecolor:accent6"></span></span></p>
+  </td>
+  <td width="312" valign="top" style="width:233.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><a name="\_Hlk66352100"><span lang="EN-GB" style="font-size:11.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">This lesson focuses
+  on building a positive relationship with one’s partner in a marriage.
+  Students will understand that while a marriage, defined in Singapore as a
+  union between a man and a woman, requires mutual commitment and effort like
+  the other relationships in their lives, what sets a marriage apart is its
+  lifelong commitment. Students will learn that what really matters to sustain
+  and maintain a long-term romantic relationship leading to marriage is
+  understanding the other person’s perspective and effectively communicating
+  with each other.&nbsp;</span></a><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+  <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l3 level1 lfo4;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">know that long-term romantic relationships
+  leading to marriage involve understanding oneself and others in the
+  intellectual, emotional, social and moral dimensions</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG"> </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l2 level1 lfo3;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">know that marriage entails a union between a
+  man and a woman based on love, trust, commitment, and requires mutual effort </span></p>
+  <p class="MsoListParagraph" style="margin-left:.25in;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-.25in;mso-list:l2 level1 lfo3;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">understand
+  that conflicts are normal in any relationship, including marriage, and the
+  way in which a couple handles conflict is critical to the success of their
+  marriage </span></p>
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
+  mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.2pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 2 Week 6</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:136.6pt">
+  <td width="114" style="width:85.5pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:136.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-left:center;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="169" valign="top" style="width:126.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:136.6pt">
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">There’s Always
+  More to a Story</span><span lang="EN-GB" style="mso-fareast-font-family:DengXian;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-fareast-language:ZH-CN"> </span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-weight:bold">Lesson</span><span lang="EN-GB" style="font-size:11.0pt"> 4</span></p>
+  <p class="MsoListParagraph" align="center" style="margin-left:0in;text-align:
+  center;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">(60 mins)</span></p>
+  </td>
+  <td width="312" valign="top" style="width:233.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:136.6pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-left:center;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">In this lesson, students will revisit the impact of
+  pornography and deepen their understanding on its impact on relationships.
+  Students will also learn about revenge pornography, including its definition
+  and legal provisions. They will also learn that they can turn to trusted
+  adults for help in setting boundaries and overcoming difficulties in making
+  sound decisions, to prevent themselves from encountering danger. </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+  <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:136.6pt">
+  <p class="MsoListParagraph" style="margin-left:19.3pt;text-align:justify;
+  text-justify:inter-ideograph;text-indent:-21.25pt;mso-list:l4 level1 lfo5;
+  mso-layout-grid-align:none;text-autospace:none;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:column;mso-element-left:center;mso-element-top:
+  .05pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt">understand
+  that we strengthen our character when we commit to sound values-based
+  viewpoints (e.g. respect for life) and decisions, and speak and act in
+  alignment with our beliefs</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:136.6pt">
+  <p class="MsoNormal" align="center" style="margin-left:-1.95pt;text-align:center;
+  mso-layout-grid-align:none;text-autospace:none;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:column;mso-element-left:center;mso-element-top:
+  .05pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;
+  mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;letter-spacing:-.1pt;
+  mso-fareast-language:EN-GB">Term 2 Week 10</span><span lang="EN-GB" style="font-size:11.0pt"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
 <br>
-<img style="width:30%;" src="images/moe%20logo.jpg">
+<img src="images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 5</strong></p>
 <br>
-<table>
-<thead>
-<tr>
-<td><strong><span style="color: black;">UNIT</span></strong></td>
-<td><strong><span style="color: black;">Lesson Title</span></strong></td>
-<td><strong><span style="color: black;">Lesson Overview</span></strong></td>
-<td><strong><span style="color: black;">Lesson Objectives</span></strong> <span style="color: black;">At the end of the lesson, students will be able to:</span></td>
-<td><strong><span style="color: black;">Time Period</span></strong> <strong><span style="color: black;">(e.g.Term 1 Week 2)</span></strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Respectful Relationships &amp; Safety</td>
-<td>This is Where I Draw the Line(60 mins)</td>
-<td><span style="color: black;">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. </span></td>
-<td>[if !supportLists]·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [endif]understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-<td>Term 2 Week 2</td>
-</tr>
-</tbody>
-</table>
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="1001" style="border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-table-overlap:never;
+ mso-yfti-tbllook:480;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:
+ margin;mso-table-left:center;mso-table-top:12.6pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td width="120" valign="top" style="width:89.75pt;border:solid black 1.0pt;
+   mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">UNIT</span></b></p>
+   </td>
+   <td width="186" valign="top" style="width:139.5pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Title</span></b></p>
+   </td>
+   <td width="289" valign="top" style="width:217.05pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+   mso-color-alt:windowtext">Lesson Overview</span></b><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;text-transform:uppercase"></span></b></p>
+   </td>
+   <td width="246" style="width:184.25pt;border:solid black 1.0pt;border-left:
+   none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Lesson Objectives<span style="text-transform:uppercase"></span></span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">At the
+   end of the lesson, students will be able to:<i></i></span></p>
+   </td>
+   <td width="161" valign="top" style="width:120.55pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt">
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;text-indent:-5.65pt;
+   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margin;
+   mso-element-left:center;mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+   color:black">Time Period</span></b></p>
+   <p class="MsoNormal" align="center" style="margin-top:3.0pt;margin-right:0in;
+   margin-bottom:3.0pt;margin-left:0in;text-align:center;mso-element:frame;
+   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+   mso-element-top:12.6pt;mso-height-rule:exactly"><b><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">(e.g.Term
+   1 Week 2)</span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.9pt">
+  <td width="120" valign="top" style="width:89.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+  mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-SG" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:
+  EN-SG">Respectful Relationships &amp; Safety</span></p>
+  </td>
+  <td width="186" valign="top" style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+  mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-weight:
+  bold">This is Where I Draw the Line</span><span lang="EN-GB" style="font-size:
+  11.0pt;font-family:&quot;Arial&quot;,sans-serif"> </span></p>
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+  mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">(60 mins)</span></p>
+  <p class="MsoListParagraph" style="mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
+  mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+  12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt">&nbsp;</span></p>
+  </td>
+  <td width="289" valign="top" style="width:217.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
+  background:white;mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:
+  around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">In this lesson, students will understand that
+  different individuals have different emotional and physical boundaries. This
+  lesson highlights the need to respect the boundaries of others and reinforces
+  the importance of showing respect to the opposite sex by using appropriate
+  words and actions. Students will examine personal boundaries from different
+  perspectives and learn the importance of making sound values-based decisions
+  and acting in consideration of the well-being of themselves and others. </span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;mso-element:
+  frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+  mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" style="margin-left:.25in;mso-add-space:auto;text-align:
+  justify;text-justify:inter-ideograph;text-indent:-.25in;mso-list:l0 level1 lfo1;
+  mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:margin;
+  mso-element-left:center;mso-element-top:12.6pt;mso-height-rule:exactly"><!--\[if !supportLists\]--><span lang="EN-GB" style="font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
+  Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><!--\[endif\]--><span lang="EN-GB" style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif">understand that we strengthen our character when
+  we commit to sound values-based viewpoints (e.g. respect for life) and
+  decisions, and speak and act in alignment with our beliefs</span></p>
+  </td>
+  <td width="161" valign="top" style="width:120.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.9pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
+  mso-element-top:12.6pt;mso-height-rule:exactly"><span lang="EN-GB" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  letter-spacing:-.1pt;mso-fareast-language:EN-GB">Term 2 Week 2</span><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p>
+  </td>
+ </tr>
+</tbody></table>
 
 <p style="text-align: justify;"><strong><em><u><span style="color: black;">eTeens</span></u></em></strong><strong><u><span style="color: black;"> Programme</span></u></strong><span style="color: black;">: </span></p>
 <p style="text-align: justify;">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
@@ -273,4 +1624,4 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 <p style="text-align: justify;">10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p style="text-align: justify;">11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <span style="color: blue;">here</span>. The completed form is to be submitted by 24/02/2023.</p>
 <p style="text-align: justify;">12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the <strong><em>eTeens</em></strong><strong> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <span style="color: blue;">here</span>. The completed form is to be submitted by 24/02/2023.</p>
-<p style="text-align: justify;">13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <span style="color: black;">6459 8303 or </span><a rel="noopener" target="_blank" href="mailto:anderson_ss@moe.edu.sg">anderson_ss@moe.edu.sg</a><span style="color: black;"> </span>for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p style="text-align: justify;">13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <span style="color: black;">6459 8303 or </span><a href="mailto:anderson_ss@moe.edu.sg" target="_blank" rel="noopener">anderson_ss@moe.edu.sg</a><span style="color: black;"> </span>for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
