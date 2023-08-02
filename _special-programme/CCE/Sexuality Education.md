@@ -51,7 +51,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 **At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
 <br>
-<img src="images/moe%20logo.jpg" style="width:30%;">
+<img src="/images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 1</strong></p>
 <br>
@@ -340,7 +340,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 </div>
 
 <br>
-<img src="images/moe%20logo.jpg" style="width:30%;">
+<img src="/images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 2</strong></p>
 <br>
@@ -694,7 +694,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 </tbody></table>
 
 <br>
-<img src="images/moe%20logo.jpg" style="width:30%;">
+<img src="/images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 3</strong></p>
 <br>
@@ -974,7 +974,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 </div>
 
 <br>
-<img src="images/moe%20logo.jpg" style="width:30%;">
+<img src="/images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 4</strong></p>
 <br>
@@ -1439,7 +1439,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 
 <br>
-<img src="images/moe%20logo.jpg" style="width:30%;">
+<img src="/images/moe%20logo.jpg" style="width:30%;">
 <p style="text-align: center;"><strong>2023 Sexuality Education Lessons in CCE 2021 </strong></p>
 <p style="text-align: center;"><strong>Secondary 5</strong></p>
 <br>
