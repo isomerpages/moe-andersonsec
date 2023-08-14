@@ -50,7 +50,6 @@ third_nav_title: Our Staff
 |3/1|Mr Sivanesan s/o V.Makesan|[sivanesan_vmakesan@moe.edu.sg](mailto:sivanesan_vmakesan@moe.edu.sg)|316
 |3/2|Ms Jess Neo Jue Shi	|<a href="mailto:jess_neo_jue_shi@moe.edu.sg">jess_neo_jue_shi@moe.edu.sg</a>	|364
 |3/2|Mrs&nbsp;Farn Hsing Chieh|<a href="mailto:farn_hsing_chieh@moe.edu.sg">farn_hsing_chieh@moe.edu.sg</a>	|240
-|3/2|Ms Tan Kiak Ping Anne|[tan_kiak_ping_anne@moe.edu.sg](mailto:tan_kiak_ping_anne@moe.edu.sg)|239
 |3/3	|Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
 |3/3|	Mrs Sibyl Yap|<a href="mailto:ching_siow_eik_sibyl@moe.edu.sg">ching_siow_eik_sibyl@moe.edu.sg</a>|367
 |3/4	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|403
