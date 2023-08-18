@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 |Mr Hng Choon Keong|Head of Department, Information &amp; Communications Technology|<a href="mailto:hng_choon_keong@moe.edu.sg">hng_choon_keong@moe.edu.sg</a>|229
 |Mr Indrajit Singh s/o Rundhir S|Head of Department, Physical Education &amp; CCA|<a href="mailto:indrajit_singh@moe.edu.sg">indrajit_singh@moe.edu.sg</a>|225
 |Ms Khoo Poh Leng|Head of Department, English Language and Literature|<a href="mailto:khoo_poh_leng@moe.edu.sg">khoo_poh_leng@moe.edu.sg</a>|223
-|Ms Lee Siew Lin|Head of Department, Mathematics|<a href="mailto:lee_siew_lin_a@moe.edu.sg">lee_siew_lin_a@moe.edu.sg</a>|230
+|Ms Lee Siew Lin|Head of Department, Mathematics|<a href="mailto:lee_siew_lin@moe.edu.sg">lee_siew_lin@moe.edu.sg</a>|230
 |Mrs Sabariah Ash'ari|Head of Department, Partnership|<a href="mailto:sabariah_mohd_yusoff@moe.edu.sg">sabariah_mohd_yusoff@moe.edu.sg</a>|226
 |Mr Sim Lee Yong|Head of Department, Aesthetics and Technology|<a href="mailto:sim_lee_yong@moe.edu.sg">sim_lee_yong@moe.edu.sg</a>|219
 |Mdm Yu Sheau Jen|Head of Department, Science|<a href="mailto:yu_sheau_jen@moe.edu.sg">yu_sheau_jen@moe.edu.sg</a>|227|
