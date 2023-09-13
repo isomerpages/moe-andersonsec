@@ -6,14 +6,26 @@ description: ""
 ![](/images/DQP_7727cropped.jpeg)
 “Progress is what we aim for; success is in our sight.”
 
-This is a line from our school song, The March of the Andersonians, and its meaning has become even more significant following the lifting of Covid-19 safe management measures. As we have learned from the pandemic, the future may sometimes become blurry and uncertain. Under such circumstances, it is only by feeling our way forward step by step, that we can come upon new vistas. Over the past three years, this is what Singapore has experienced, and the journey we have gone through as a nation has yielded many valuable lessons for our youth as well.
+As we look towards the closing of each school year and the beginning of the next one, it is customary for us as school leaders to reflect on the experiences our students have gone through, and what they have taken away from their time with us, so that we can continue to refine our efforts to educate and guide them. There is no better way to encapsulate the Anderson Experience than through the voices of our students, after all, and here is what they have to say:
 
-A community of diverse learners, Anderson Secondary School is committed to the growth of all our students. We celebrate the achievements, unique interests, and talents of Andersonians, and just as importantly, we support and affirm the development of their character as they learn from mistakes, reflect on their learning experiences, and put values into action by contributing to others’ lives. Initiatives and platforms such Andersonian of the Month, class Values In Action projects, Anderson’s Got Talent, ANDE Voices, talent development programmes, and school events provide milestones and opportunities for our students to discover strengths within themselves, gain confidence from interacting with a variety of peers and stakeholders, and practise leadership to make a difference for the greater good. Throughout all of these, our staff walk alongside our students, encouraging them and facilitating their learning as they overcome obstacles, advance, and blossom. 
+**cAring in action**: “The projects I have done have helped me empathise with fellow citizens and find ways to make Singapore a more inclusive country.”
 
-Indeed, Andersonians understand that it is by helping and caring for one another that we make collective progress as a school, and on a larger scale, as a society. 2023 has started with many exciting activities that have allowed our students to cheer one another on and work through difficulties together, from overnight camps to research projects to the Cross-Country run, as well as competitions and performances. As educators, we are most heartened when we witness our students’ eyes light up with the joy of learning, and when we see them being inclusive towards one another and becoming stronger together. The beginning of 2023 has brought us many such moments, and we look forward to more as we work in partnership with parents, the community and other stakeholders to support the learning of our students.
+**Noble in character**: “I feel that each CCE lesson gives me new insight into how to navigate the outside world.”
+
+**Daring in our dreams**: “*Although I did not win anything in the academic competition I entered, I helped out with organising it, and it sparked an interest in the subject for me.”*
+
+**Excellent in all our endeavours**: “*The Olympiad programme really pushed me to the limits of my capabilities. It allowed me to think outside and beyond the box with its complicated and challenging questions, really presenting a challenge, and I enjoyed it.”*
+
+Our students have also enjoyed working with others, and appreciated the opportunities they have received to hone their leadership and collaboration skills. One of them remarked: “We were required to work on a project with other peers, and I did not know many of them or were not friends with them. From this, I learnt how to collaborate with people that I did not know and the project turned out well.” Another reflected, “I have learnt many skills that will be essential in life, such as leading a group of people and communicating with unfamiliar people. As my role requires me to share information with the school, I have also learnt to overcome my fear of public speaking and am now more comfortable with speaking to a large audience.”
+
+Indeed, Anderson Secondary School takes pride in developing thinkers who reflect regularly on their learning; nurturing innovators who push boundaries, especially with regard to STEM education; and above all, cultivating leaders who are grounded in values and equipped with competencies to thrive in society and make a difference for the greater good.
+
+As a centre for the Elective Programme in Malay Language for Secondary Schools (EMAS), and a school that has established strong partnerships with schools in China, Thailand and Indonesia, Anderson Secondary School also offers students diverse opportunities to develop multicultural awareness and the confidence to engage others across geographical boundaries.
+
+Looking ahead to the new year, we will continue to build on our strengths and design vibrant and meaningful learning experiences, taking the voices of our students into account.
 
 With Constancy and Purpose,
 
 ANDSS School Leaders
 
-[Ms Tan Po Chin (Principal), Mrs Lee Chia Yee (VP1), Mr Jonah Lim, (VP2)]
+\[Ms Tan Po Chin (Principal), Mrs Lee Chia Yee (VP1), Mr Jonah Lim, (VP2)\]
