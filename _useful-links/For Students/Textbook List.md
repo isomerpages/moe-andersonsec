@@ -31,7 +31,7 @@ third_nav_title: For Students
 [Secondary 4 Normal Academic 2022 Textbook List](/files/Textbook/s4%20na%20booklist%202023.pdf) | 
  [Secondary 4 Normal Technical 2022 Textbook List](/files/Textbook/s4%20nt%20booklist%202023.pdf)|
 
-[PE ATTIRE ORDER](/files/Textbook/2024/andss%20pe%20attire%20order%20form.pdf)
+[PE ATTIRE ORDER Form](/files/Textbook/2024/andss%20pe%20attire%20order%20form.pdf)
 
 
 [Uniform Purchase Instructions](/files/Textbook/2024/uniform%20purchase%20instructions.pdf)
