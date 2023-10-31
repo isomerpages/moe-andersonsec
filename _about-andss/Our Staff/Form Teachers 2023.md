@@ -9,7 +9,6 @@ third_nav_title: Our Staff
 | Secondary 1|
 |1T|Mdm Zhong Wanzhen	|<a href="mailto:zhong_wanzhen@schools.gov.sg">zhong_wanzhen@schools.gov.sg</a>|329
 |1T|Mr Lim Kelvin|<a href="mailto:lim_kelvin@moe.edu.sg">lim_kelvin@moe.edu.sg</a>|315
-|1T| Mdm Zhong wanzhen|[zhong_wanzhen@moe.edu.sg](mailto:zhong_wanzhen@moe.edu.sg)|329
 |1H|Ms&nbsp;Tan Wei Ern, Pearlin|<a href="mailto:tan_wei_ern_pearlin@moe.edu.sg">tan_wei_ern_pearlin@moe.edu.sg</a>|321
 |1H	|Mrs Greak Kumar|<a href="mailto:greak_kumar@moe.edu.sg">	greak_kumar@moe.edu.sg</a>|345
 |1I	|	Mdm Mirshasha Bte Mohamed Taib|<a href="mailto:mirshasha_mohamed_taib@moe.edu.sg">mirshasha_mohamed_taib@moe.edu.sg</a>|334
@@ -52,7 +51,7 @@ third_nav_title: Our Staff
 |3/2|Mrs&nbsp;Farn Hsing Chieh|<a href="mailto:farn_hsing_chieh@moe.edu.sg">farn_hsing_chieh@moe.edu.sg</a>	|240
 |3/3	|Mr Ng Weilun|<a href="mailto:ng_weilun@moe.edu.sg">ng_weilun@moe.edu.sg</a>|331
 |3/3|	Mrs Sibyl Yap|<a href="mailto:ching_siow_eik_sibyl@moe.edu.sg">ching_siow_eik_sibyl@moe.edu.sg</a>|367
-|3/4	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|403
+|3/4	|Mdm Noorlizasabariah Bte Ramli|<a href="mailto:noorlizasabariah_ramli@moe.edu.sg">noorlizasabariah_ramli@moe.edu.sg</a>|312
 |3/4	|Mrs Goh Wenhui |<a href="mailto:wong_wenhui@moe.edu.sg">wong_wenhui@moe.edu.sg</a>|233
 |3/5	|Mdm Cheng Hooi Yu, Jane|<a href="mailto:cheng_hooi_yu@moe.edu.sg">cheng_hooi_yu@moe.edu.sg</a>|444
 |3/5	|Mr Richmond Ang Dy|<a href="mailto:richmond_ang_dy@moe.edu.sg">richmond_ang_dy@moe.edu.sg</a>| 238
