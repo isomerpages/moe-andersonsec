@@ -27,7 +27,7 @@ third_nav_title: For Students
 
 | Secondary 4 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 4 Express 2024 Textbook List](/files/Textbook/2024/s4%20exp%20booklist%202023.pdf)| 
+|[Secondary 4 Express 2024 Textbook List](/files/Textbook/s4%20exp%20booklist%202023.pdf)| 
 [Secondary 4 Normal Academic 2024 Textbook List](/files/Textbook/s4%20na%20booklist%202023.pdf)| 
 [Secondary 4 Normal Technical 2024 Textbook List](/files/Textbook/2024/andss%20s4%20nt_2024.pdf)|
 
