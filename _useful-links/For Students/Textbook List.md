@@ -28,10 +28,13 @@ third_nav_title: For Students
 | Secondary 4 |  |  |
 | -------- | -------- | -------- |
 |[Secondary 4 Express 2024 Textbook List](/files/Textbook/2024/s4%20exp%20booklist%202023.pdf)| 
-[Secondary 4 Normal Academic 2024 Textbook List](/files/Textbook/2024/s4%20na%20booklist%202023.pdf)| 
- [Secondary 4 Normal Technical 2024 Textbook List](/files/Textbook/2024/s4%20nt%20booklist%202023.pdf)|
+[Secondary 4 Normal Academic 2024 Textbook List](/files/Textbook/s4%20na%20booklist%202023.pdf)| 
+[Secondary 4 Normal Technical 2024 Textbook List](/files/Textbook/2024/andss%20s4%20nt_2024.pdf)|
 
-[PE attire order form](/files/Textbook/2024/andss%20pe%20attire%20order%20form.pdf)
+| Secondary 5 |  |  |
+| -------- | -------- | -------- |
+[Secondary 5 Normal Academic 2024 Textbook List](/files/Textbook/2024/andss%20s5%20na_2024.pdf)
 
+[PE attire order form](/files/Textbook/pe%20attire%20order%20form_25102022.pdf)
 
-[Uniform purchase instructions](/files/Textbook/2024/uniform%20purchase%20instructions.pdf)
+[Uniform purchase instructions](/files/Textbook/uniform%20purchase%20instructions.pdf)
