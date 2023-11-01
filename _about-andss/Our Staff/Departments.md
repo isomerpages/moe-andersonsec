@@ -35,7 +35,8 @@ Mr Lee Chen Beng	|Teacher, Design &amp; Technology, Mobile Robotics|	<a href="ma
 |Mrs Trixie Goh	|Teacher, English Language|<a href="mailto:ong_piak_yun@moe.edu.sg">ong_piak_yun@moe.edu.sg</a>	| 304
 |Mrs Pamela Raj	|Teacher, English Language|<a href="mailto:pamela_priya@moe.edu.sg">pamela_priya@moe.edu.sg	</a>| 306
 |Ms Petrina Wong	|Teacher, English Language|<a href="mailto:wong_li_yi@moe.edu.sg">wong_li_yi@moe.edu.sg</a>| 324
-|Mr Aminurashid Bin Jumaat	|Teacher, English Language|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>	 |361
+|Mr Aminurashid Bin Jumaat	|Teacher, English Language|<a href="mailto:aminurashid_bin_jumaat@moe.edu.sg">aminurashid_bin_jumaat@moe.edu.sg</a>	 |361|361
+|Ms Venotni d/o Ratnam	|Teacher, English Language|<a href="mailto:venotni_retnam@moe.edu.sg">venotni_retnam@moe.edu.sg</a>|327
 |Ms Goh Mei Hui	|Teacher, English Language|<a href="mailto:goh_mei_hui@moe.edu.sg">goh_mei_hui@moe.edu.sg</a>|397
 |Ms Angeline Elysia Tan Mew Leng	|Teacher, English Language|<a href="mailto:tan_mew_leng@moe.edu.sg">tan_mew_leng@moe.edu.sg</a>|399
 
