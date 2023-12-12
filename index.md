@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website photo 2023/website 1.png
+      background: /images/Website photo 2023/front-page-website-2023.gif
       key_highlights:
         - title: NEWS AND HIGHLIGHTS
           description: ""
