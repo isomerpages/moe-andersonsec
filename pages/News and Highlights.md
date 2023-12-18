@@ -4,11 +4,15 @@ permalink: /news-and-highlights/
 description: ""
 variant: markdown
 ---
-**TERM 1 UPDATES FOR PARENTS 2024**
+**ANNOUNCEMENTS**
 
 [2024 Sec 1 Principal's Welcome Message](/files/Temp/2024_Sec_1_Principal_s_Welcome_Message.pdf)
 
 [Start of School 2024](/files/Temp/Start_of_School_2024.pdf)
+
+[Sec 1 Registration Exercise_Online Form Details](/files/Temp/Sec_1_Registration_Exercise_Online_Form_Details.pdf)
+
+[Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
 
 **Academic Matters**
 
