@@ -8,7 +8,7 @@ variant: markdown
 
 [Sec 1 Registration Exercise_Online Form Details](/files/Temp/Sec_1_Registration_Exercise_Online_Form_Details.pdf)
 
-[Sec 1 registration link](https://go.gov.sg/s1reg24andss)
+Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [2023 N-Level Briefing Slides_Student](/files/Temp/2023_N_Level_Briefing_Slides_Student.pdf)
 
@@ -43,3 +43,5 @@ variant: markdown
 **Appeals and School Transfer**
 
 [Appeal Exercise Online Form Details](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
+
+Click here for [Appear Excercise link](https://go.gov.sg/s1app24andss)
