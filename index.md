@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Website photo 2023/front-page-website-2023.gif
       key_highlights:
+        - title: Sec 1 Registration
+          description: ""
+          url: https://go.gov.sg/s1reg24andss
         - title: NEWS AND HIGHLIGHTS
           description: ""
           url: /news-and-highlights
