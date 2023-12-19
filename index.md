@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Website photo 2023/front-page-website-2023.gif
       key_highlights:
-        - title: Sec 1 Registration
+        - title: Sec 1 Registration and Announcements
           description: ""
           url: /news-and-highlights
         - title: Facebook
