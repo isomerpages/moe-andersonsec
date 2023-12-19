@@ -11,9 +11,6 @@ sections:
       key_highlights:
         - title: Sec 1 Registration
           description: ""
-          url: https://go.gov.sg/s1reg24andss
-        - title: NEWS AND HIGHLIGHTS
-          description: ""
           url: /news-and-highlights
         - title: Facebook
           description: ""
