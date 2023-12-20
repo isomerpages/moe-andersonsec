@@ -44,4 +44,4 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [Appeal Exercise Online Form Details](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
 
-Click here for [Appear Excercise link](https://go.gov.sg/s1app24andss)
+Click here for [Appeal Exercise online form](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
