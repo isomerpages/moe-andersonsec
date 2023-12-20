@@ -42,6 +42,8 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
 
+[Textbook, Uniform and PE Attire Purchase](https://www.andersonsec.moe.edu.sg/useful-links/textbook/)
+
 **Appeals and School Transfer**
 
 [Appeal Exercise Online Form Details](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
