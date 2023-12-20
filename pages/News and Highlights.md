@@ -10,13 +10,10 @@ variant: markdown
 
 Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
-[2023 N-Level Briefing Slides_Student](/files/Temp/2023_N_Level_Briefing_Slides_Student.pdf)
-
 [2024 Sec 1 Principal's Welcome Message](/files/Temp/2024_Sec_1_Principal_s_Welcome_Message.pdf)
 
-[Start of School 2024](/files/Temp/Start_of_School_2024.pdf)
+[Start of School 2024](/files/Start_of_School_2024.pdf)
 
-[Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
 
 **Academic Matters**
 
@@ -40,8 +37,17 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [OF Application Form by Parents 2024 (for 2024 cohort of  Sec 1 )](/files/Temp/OF_Application_Form_by_Parents_2024__for_2024_cohort_of__Sec_1____18_Sep_2023_.pdf)
 
+
+[Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
+
+[Textbook, Uniform and PE Attire Purchase](https://www.andersonsec.moe.edu.sg/useful-links/textbook/)
+
 **Appeals and School Transfer**
 
 [Appeal Exercise Online Form Details](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
 
-Click here for [Appear Excercise link](https://go.gov.sg/s1app24andss)
+Click here for [Appeal Exercise online form](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
+
+**N-Level Briefing Slides**
+
+[2023 N-Level Briefing Slides_Student](/files/Temp/2023_N_Level_Briefing_Slides_Student.pdf)
