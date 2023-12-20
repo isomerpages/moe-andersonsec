@@ -16,7 +16,6 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [Start of School 2024](/files/Temp/Start_of_School_2024.pdf)
 
-[Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
 
 **Academic Matters**
 
@@ -39,6 +38,9 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 [Letter to Parents on OF 2024 (for 2024 Sec 1 cohort)](/files/Temp/Letter_to_Parents_on_OF_2024__for_2024_Sec_1_cohort____18_Dec_2023_.pdf)
 
 [OF Application Form by Parents 2024 (for 2024 cohort of  Sec 1 )](/files/Temp/OF_Application_Form_by_Parents_2024__for_2024_cohort_of__Sec_1____18_Sep_2023_.pdf)
+
+
+[Health Check Consent Letter](/files/Temp/Health_Check_Consent_Letter.pdf)
 
 **Appeals and School Transfer**
 
