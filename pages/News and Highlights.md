@@ -12,7 +12,7 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 [2024 Sec 1 Principal's Welcome Message](/files/Temp/2024_Sec_1_Principal_s_Welcome_Message.pdf)
 
-
+[Start of School 2024](/files/Start_of_School_2024.pdf)
 
 
 **Academic Matters**
