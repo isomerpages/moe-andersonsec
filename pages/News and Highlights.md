@@ -48,6 +48,8 @@ Click here for [Sec 1 registration link](https://go.gov.sg/s1reg24andss)
 
 Click here for [Appeal Exercise online form](/files/Temp/Appeal_Exercise_Online_Form_Details.pdf)
 
+**For further queries, you can message us via WhatsApp on 94262924. Thank you.**
+
 **N-Level Briefing Slides**
 
 [2023 N-Level Briefing Slides_Student](/files/Temp/2023_N_Level_Briefing_Slides_Student.pdf)
