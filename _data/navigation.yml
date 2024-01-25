@@ -1,0 +1,36 @@
+logo: /images/homepage_school logo.png
+links:
+  - title: About ANDSS
+    url: /about-andss/school-leaders-message/
+    sublinks:
+      - title: School Leaders' Message
+        url: /about-andss/school-leaders-message/
+      - title: Mission and Values
+        url: /about-andss/mission-and-values
+      - title: Emblem
+        url: /about-andss/emblem
+      - title: Bamboo Perspective
+        url: /about-andss/bamboo-perspectives
+      - title: Our Staff
+        url: /about-andss/our-staff
+      - title: Our Partners
+        url: /our-partners/school-advisory-committee
+      - title: Contact Us
+        url: /about-andss/contact-us
+      - title: PDPA Notice
+        url: /about-andss/pdpa-notice
+  - title: Anderson Experience
+    url: /anderson-experience/curriculum/english
+    sublinks:
+      - title: Academic
+        url: /anderson-experience/curriculum/english
+      - title: CCAs
+        url: /cca/timetable
+      - title: Direct School Admission 2023
+        url: https://andersonsec.moe.edu.sg/anderson-experience/direct-school-admission-2023/
+      - title: Special Programme
+        url: /special-programme/science-research-programme
+      - title: Key School Events
+        url: /anderson-experience/key-school-events/elementz
+  - title: Useful Links
+    collection: useful-links

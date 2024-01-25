@@ -1,0 +1,14 @@
+collections:
+  special-programme:
+    output: true
+    order:
+      - Science Research Programme.md
+      - EMAS.md
+      - STEM.md
+      - NDLP.md
+      - CCE/Character and Citizenship Education.md
+      - CCE/.keep
+      - CCE/Sexuality Education.md
+      - CCE/Cyber Wellness.md
+      - CCE/Positive Parenting.md
+      - Internationalisation.md
