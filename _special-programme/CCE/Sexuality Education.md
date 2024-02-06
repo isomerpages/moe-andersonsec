@@ -818,14 +818,6 @@ decision-making</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
@@ -834,13 +826,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <u>here</u>. The completed form is to be submitted
-by 23/02/2024.</p>
+and is also downloadable <a href="/files/Temp/Annex_A___SED_OPT_OUT_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
+completed form is to be submitted by 23/02/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <u>here</u>. &nbsp;The completed form is to be
-submitted by 23/02/2024.</p>
+and is also downloadable <a href="/files/Temp/Annex_B___eTeens_cover_letter_and_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+&nbsp;The completed form is to be submitted by 23/02/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6459 8303
 or <a rel="noopener noreferrer nofollow" target="_blank">anderson_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
