@@ -94,9 +94,8 @@ which are of prime concern at this age.</p>
 <p><strong>At Anderson Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
@@ -230,7 +229,7 @@ falsehoods, flouting copyright laws, etc.)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
@@ -363,7 +362,7 @@ and avoid negative consequences, both offline and online</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
@@ -505,7 +504,7 @@ our beliefs</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
@@ -674,7 +673,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
