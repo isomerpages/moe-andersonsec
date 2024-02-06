@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>ANDERSON SECONDARY SCHOOL</strong>
 </p>
 <p>&nbsp;</p>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
@@ -55,7 +55,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of A</strong>NDERSON<strong> Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Anderson Secondary School’s Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
