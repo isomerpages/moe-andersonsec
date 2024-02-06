@@ -93,13 +93,13 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>At Anderson Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
 </div>
+<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+</p>
 <p><strong>Secondary 1</strong>
 </p>
 <p><strong>&nbsp;</strong>
