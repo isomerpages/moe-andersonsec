@@ -47,7 +47,6 @@ of 2024.</p>
 inject even more vibrancy and joy to the holistic development of our Andersonians
 in 2024.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>With Constancy and Purpose,</p>
 <p>ANDSS School Leaders</p>
 <p>[Ms Tan Po Chin (Principal), Mr Jonah Lim (VP1), Mr Eugene Lee (VP2),
