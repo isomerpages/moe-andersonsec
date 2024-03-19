@@ -10,6 +10,10 @@ variant: tiptap
 </div>
 <p><a href="/images/Website%20photo%202023/english_language_and_literature_department_2.jpeg" rel="noopener noreferrer nofollow" target="_blank">English Department</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eng" src="/images/Website photo 2023/english_language_and_literature_department_2.jpg">
+</div>
 <p><a href="/images/mother%20tongue%20language%20department%20f.jpeg" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Department</a>
 </p>
 <p><a href="/images/mathematics%20department%20f.jpeg" rel="noopener noreferrer nofollow" target="_blank">Mathematics Department</a>
