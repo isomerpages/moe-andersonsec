@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="All staff" src="/images/Website%20photo%202023/All_staff_2023.jpg">
 </div>
-<p><a href="/images/Website%20photo%202023/english_language_and_literature_department_2.jpeg" rel="noopener noreferrer nofollow" target="_blank">English Department</a>
+<p><a href="https://www.andersonsec.moe.edu.sg/images/Website%20photo%202023/english_language_and_literature_department_2.jpeg" rel="noopener noreferrer nofollow" target="_blank">English Department</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
