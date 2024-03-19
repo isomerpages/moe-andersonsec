@@ -12,13 +12,13 @@ variant: tiptap
 </p>
 <p><a href="/images/Website%20photo%202023/mother_tongue_language_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Department</a>
 </p>
-<p><a href="/images/Website%20photo%202023/physical_education_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Mathematics Department</a>
+<p><a href="/images/Website%20photo%202023/mathematics_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Mathematics Department</a>
 </p>
-<p><a href="/images/Website%20photo%202023/physical_education_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Science Department</a>
+<p><a href="/images/Website%20photo%202023/science_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Science Department</a>
 </p>
-<p><a href="/images/Website%20photo%202023/physical_education_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Humanities Department</a>
+<p><a href="/images/Website%20photo%202023/humanities_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Humanities Department</a>
 </p>
-<p><a href="/images/Website%20photo%202023/physical_education_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Aesthetics &amp; Technology Department</a>
+<p><a href="/images/Website%20photo%202023/aesthetics_and_technology_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Aesthetics &amp; Technology Department</a>
 </p>
 <p><a href="/images/Website%20photo%202023/physical_education_department_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Physical Education &amp; Co-Curricular Activities Department</a>
 </p>
