@@ -3,10 +3,11 @@ title: Our Staff
 permalink: /about-andss/our-staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
-![](/images/Staff%202022%20Formal%20shot.jpeg)
+![All staff](/images/Website%20photo%202023/All_staff_2023.jpg)
 
-[English Department](/images/english%20language%20and%20literature%20department%20f.jpeg)
+
 
  [Mother Tongue Department](/images/mother%20tongue%20language%20department%20f.jpeg)
 
