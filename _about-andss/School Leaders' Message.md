@@ -15,7 +15,6 @@ the midst of complex demands, has become even more imperative. At Anderson
 Secondary School, this competency has always resonated strongly with us,
 as our emblem, the bamboo, is the epitome of hardiness and flexibility
 despite its humble identity.</p>
-<p>&nbsp;</p>
 <p>Below are some examples of how our school hones our students’ capacity
 for adaptive thinking:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Science Research Programme
@@ -31,7 +30,6 @@ and</p>
 but also affirm commendable sportsmanship and effort demonstrated by our
 students during tough competitions and matches, emphasising the importance
 of the growth mindset and the role of defeat or failure in making progress.</p>
-<p>&nbsp;</p>
 <p>We have also been fortunate to be able to resume our overseas exchanges.
 We see these interactions and immersion experiences as invaluable opportunities
 for our students to learn how to make connections in unfamiliar contexts,
@@ -42,11 +40,9 @@ by hosting our Thai friends from Winitsuksa School in March 2024. We are
 looking forward to more in-person interactions with staff and students
 of our other partner schools from Indonesia and China, over the course
 of 2024.</p>
-<p>&nbsp;</p>
 <p>By expanding their horizons, and bringing the world to them, we hope to
 inject even more vibrancy and joy to the holistic development of our Andersonians
 in 2024.</p>
-<p>&nbsp;</p>
 <p>With Constancy and Purpose,</p>
 <p>ANDSS School Leaders</p>
 <p>[Ms Tan Po Chin (Principal), Mr Jonah Lim (VP1), Mr Eugene Lee (VP2),
