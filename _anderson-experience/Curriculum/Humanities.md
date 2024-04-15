@@ -27,7 +27,7 @@ The Humanities department continues to use inquiry-based learning as the key ped
 
 In line with the school’s direction to foster critical thinking and enhance global awareness, the department’s Current Affairs Reading Programme aims to help students better understand the interconnectedness of Singapore and the world they live in, and to appreciate the complexities of the human experience. Students are engaged in a fortnightly reading activity through selected articles on some of the latest developments around the world and in Singapore. The annual Humanities Week also invites students to reflect on their learning through exposure of the various Humanities disciplines.
 
-![H is for Humanities ](/images/Academic%20photos/2024_Humanities_1.jpg)
+![H is for Humanities](/images/Academic%20photos%202024/2024_Humanities_1.jpg)
 H is for Humanities – teachers announcing the start of the Humanities Week 2024
 
 ![fringe activities](/images/Academic%20photos%202024/2024_Humanities_2.jpg)
