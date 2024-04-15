@@ -78,7 +78,7 @@ real world problems. Our heartiest congratulations for all their achievements!</
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="pic 6" src="/images/Academic photos 2024/2024_math_6.png">
 </div>
-<p><em>“Personally, my entire SMPF journey had impacted me way beyond my academic pursuits. It was an invaluable first-hand experience in completing a mathematics related report. It had also opened my mind that mathematics plays a major part in our everyday lives. The skills that I have acquired will stand me in good stead for many years to come. Overall, I am thankful to have been given the opportunity to take part in the 2023 SMPF.” </em>
+<p><em>“Personally, my entire SMPF journey had impacted me way beyond my academic pursuits. It was an invaluable first-hand experience in completing a mathematics related report. It had also opened my mind that mathematics plays a major part in our everyday lives. The skills that I have acquired will stand me in good stead for many years to come. Overall, I am thankful to have been given the opportunity to take part in the 2023 SMPF.”</em>
 </p>
 <p>~ Reflection by Foo Wen Qi, Class 4/1, 2023.</p>
 <p></p>
