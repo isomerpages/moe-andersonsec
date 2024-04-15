@@ -39,6 +39,7 @@ The department also provides opportunities for students to develop a deeper unde
 Sec 2 Geography LJ to URA City Gallery
 
 Our students also have had the opportunity to participate in competitions such as the NUS Geography Challenge and MOE History Challenge. We are delighted to share that the team for the NUS Geography Challenge 2024 successfully made it to the Grand Finals and emerged Top 5. The department will strive to groom more humanities talents and enrich their experiences in learning more about the humanities in different contexts!
+
 Entry from the Anderson Sec team for the NUS Geography Challenge Creative Component 2024: https://drive.google.com/file/d/1DG497dPxZWvycKX3iREzoLeVXPdGUTdK/view?usp=sharing  
 
 ![NUS Geography Challenge 2024](/images/Academic%20photos%202024/2024_Humanities_4.jpg)
