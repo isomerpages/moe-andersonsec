@@ -3,6 +3,7 @@ title: Humanities
 permalink: /anderson-experience/curriculum/humanities/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 **Vision**
 
@@ -14,27 +15,32 @@ To nurture responsible global citizens who are rooted in Singapore and passionat
 
 **Subjects offered by Department**
 
-Geography <br> History
-<br>Combined Humanities: Social Studies / Geography (Elective)
-<br>Combined Humanities: Social Studies / History (Elective)
-<br>Principles of Accounts
+Geography  
+History  
+Combined Humanities: Social Studies / Geography (Elective)  
+Combined Humanities: Social Studies / History (Elective)  
+  
 
+**Key Programmes of Department**
 
-**Key programmes of Department**
+The Humanities department continues to use inquiry-based learning as the key pedagogical approach to develop students’ knowledge, skills and values through the various humanities subjects. Students also develop their critical thinking skills through authentic learning experiences, collaborative research and interactions with relevant stakeholders. Through these multiple approaches, the department aims to provide a forward-looking and vibrant learner-centered humanities education in a volatile and changing world.
 
-The Humanities department continues to use inquiry-based learning as the key pedagogical approach to develop students’ knowledge, skills and values through the various humanities subjects. Students also develop their critical thinking skills through authentic learning experiences, collaborative research and interactions with relevant stakeholders. Through these multiple approaches, the department aims to provide a forward-looking and vibrant learner-centered humanities education in a volatile and changing world. 
- 
-In line with the school’s direction to foster critical thinking and enhance global awareness, the department’s Current Affairs Reading Programme aims to help students better understand the interconnectedness of Singapore and the world they live in, and to appreciate the complexities of the human experience. Students are engaged in a weekly reading activity through selected articles on some of the latest developments around the world and in Singapore. And they can now also watch the latest news ‘live’ on their Personal Learning Devices during their reading sessions.
+In line with the school’s direction to foster critical thinking and enhance global awareness, the department’s Current Affairs Reading Programme aims to help students better understand the interconnectedness of Singapore and the world they live in, and to appreciate the complexities of the human experience. Students are engaged in a fortnightly reading activity through selected articles on some of the latest developments around the world and in Singapore. The annual Humanities Week also invites students to reflect on their learning through exposure of the various Humanities disciplines.
 
-![](/images/Picture%203%20-%202021%20CARP%20in%20the%20classroom.jpg)
+![H is for Humanities](/images/Academic%20photos%202024/2024_Humanities_1.jpg)
+H is for Humanities – teachers announcing the start of the Humanities Week 2024
 
-The department also provides opportunities for students to develop a deeper understanding of the subjects’ discipline by organising learning journeys to collect evidence in support of their investigative projects. The Geography unit has conducted fieldwork for students to collect geographical and spatial data to learn about tropical rainforests, climate and the impact of tourism; while the History unit has facilitated learning journeys to Fort Siloso at Sentosa for students to study the British defence of Singapore during World War II. The Social Studies unit also has guided students to analyse social issues in depth through Issue Investigation tasks conducted through interviews and research studies. All these efforts strive to promote collaborative and self-directed learning through authentic performance tasks. 
+![fringe activities](/images/Academic%20photos%202024/2024_Humanities_2.jpg)
+students sharing their research as part of Humanities Week 2024 fringe activities
 
-<img src="/images/Picture%201%20-%202021%20Sec1%20GY%20LJ%20to%20Sungei%20Buloh%20Wetland%20Reserve.jpg" 
-     style="width:50%;float:left">
-<img src="/images/Picture%202%20-%202021%20Sec2%20HY%20LJ%20to%20Fort%20Siloso%20Sentosa.jpg" 
-     style="width:50%">
-		 
-Our students also have had the opportunity to participate in competitions such as the NUS Geography Challenge and MOE History Challenge. We are delighted to share that the team for the NUS Geography Challenge successfully clinched one Gold, one Silver and two Bronze medals. The department will strive to groom more humanities talents and enrich their experiences in learning more about the humanities in different contexts!
+The department also provides opportunities for students to develop a deeper understanding of the subjects’ discipline by organizing learning journeys (LJ) to collect evidence in support of their investigative projects. At lower secondary, learning journeys are designed for breadth and exposure to the Humanities, such as the Sec 1 LJ to the Singapore River. At upper secondary, the learning experiences are designed to build disciplinary perspectives and skills. The Geography unit has conducted learning journeys to collect geographical and spatial data to learn about everyday geographies, while the History unit has facilitated learning journeys to various historical sites to gain authentic experiences of pre-independence Singapore. In addition, the Social Studies unit has guided students to analyze social issues in depth through Issue Investigation tasks conducted through interviews and research studies. All these efforts strive to promote collaborative and self-directed learning through authentic performance tasks.
 
-![](/images/Picture%204%20-%202021%20NUS%20GY%20Challenge%20medal%20winners.jpg)
+![Sec 2 Geography LJ ](/images/Academic%20photos%202024/2024_Humanities_3.jpg)
+Sec 2 Geography LJ to URA City Gallery
+
+Our students also have had the opportunity to participate in competitions such as the NUS Geography Challenge and MOE History Challenge. We are delighted to share that the team for the NUS Geography Challenge 2024 successfully made it to the Grand Finals and emerged Top 5. The department will strive to groom more humanities talents and enrich their experiences in learning more about the humanities in different contexts!
+
+Entry from the Anderson Sec team for the NUS Geography Challenge Creative Component 2024: https://drive.google.com/file/d/1DG497dPxZWvycKX3iREzoLeVXPdGUTdK/view?usp=sharing  
+
+![NUS Geography Challenge 2024](/images/Academic%20photos%202024/2024_Humanities_4.jpg)
+Our Andersonians emerged Top 5 for the NUS Geography Challenge 2024!
