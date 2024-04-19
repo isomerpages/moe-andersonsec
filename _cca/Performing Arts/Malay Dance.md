@@ -3,7 +3,21 @@ title: Malay Dance
 permalink: /cca/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/IMG_0378_Malay%20Dance.jpg)
-
-Anderson Malay Dance has had a fruitful and successful year in spite of the pandemic. The dancers were dedicated and committed, rehearsing with purpose and pride for the Singapore Youth Festival (SYF) Arts Presentation 2021, whether in person or over Zoom. They did not allow the various changes in safe management measures (SMM) to affect their aspirations and were understandably overjoyed to attain the Certificate of Distinction for their stellar performance. Anderson Malay Dance will continue to aspire to the highest in character, values and skills, and bring joy to all through their love for dance.
+<p><strong>Malay Dance</strong>
+</p>
+<p>Hayunan Seni in ANDSS believes that every student has the potential and
+thus aims to develop their talent and build self-confidence in them.&nbsp;Dancers
+learn the importance of teamwork, resilience and commitment as well as
+always giving their best in their endeavours.&nbsp;They are focussed in
+not only perfecting their dance routines but also in immersing themselves
+in the rich Malay heritage and culture despite the diversity. The camaraderie
+forged within the members through the many platforms like performances
+and activities is also a highlight for the dancers.&nbsp;Together as one,
+that’s the aspiration of Hayunan Seni.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic 1" src="/images/CCA 2024/2024_Malay_dance_1.jpg">
+</div>
+<p></p>
