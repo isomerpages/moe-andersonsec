@@ -76,7 +76,7 @@ We look forward to schools’ participation in the 22nd Elementz Science Project
   mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
   mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="229"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">2 August 2024</span></p></td></tr></tbody></table>
 
-	![Elementz1](/images/Academic%20photos%202024/Elementz1.jpg)
-	![Elementz2](/images/Academic%20photos%202024/Elementz2.jpg)
-	![Elementz3](/images/Academic%20photos%202024/Elementz3.jpg)
-	![Elementz4](/images/Academic%20photos%202024/Elementz4.jpg)
+![pic1](/images/Academic%20photos%202024/Elementz1.jpg)
+![pic2](/images/Academic%20photos%202024/Elementz2.jpg)
+![pic3](/images/Academic%20photos%202024/Elementz3.jpg)
+![pic4](/images/Academic%20photos%202024/Elementz4.jpg)
