@@ -3,14 +3,15 @@ title: Physical Education
 permalink: /anderson-experience/curriculum/physical-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 **Vision**
 
-Healthy Andersonians who engage in sports for life.
+We envision **healthy Andersonians** who actively engage in sports throughout their lives.
 
 **Mission**
 
-Promoting a lifelong healthy lifestyle through physical activity and proper nutrition through fun and exciting activities.
+Our mission is to **promote a lifelong healthy lifestyle** by encouraging physical activity and proper nutrition through **fun and exciting activities**.
 
 **Subjects offered by Department**
 
@@ -18,30 +19,62 @@ Physical Education
 
 **Key programmes of Department**
 
-Schools and educators have had to rethink and redesign pedagogical practices since Safe Management Measures (SMM) were put in place due to COVID-19. More than any other subject, the teaching of PE has been challenged by this pandemic. COVID-19 challenged our PE teachers in designing meaningful lessons and ensuring the goals of PE are still intact. With SMMs such as restrictions to groupings, safe-distancing and changes often announced at short notice, the department had to be nimble and flexible in making the necessary adjustments to lessons. 
+**Physical Education Programme**
 
-<img src="/images/PE%201.jpeg" 
-     style="width:50%;float:left">
-<img src="/images/PE%202.jpg" 
-     style="width:50%">
+Our PE lessons follow the **Games Concept Approach (GCA)**. Andersonians explore a variety of sports across major categories (invasion, target, striking/fielding, and net barrier). The GCA approach fosters the development of both **psychomotor** and **thinking skills** in sport learning. Here are the sports and games taught at each level:
 
-PE lessons continued to be taught using the Games Concept Approach (GCA), with reduced group sizes. Andersonians learnt a range of sports across the major categories of sports (invasion, target, striking/fielding & net barrier). The GCA approach encourages the development of both psychomotor and thinking skills in the learning of a sport. Secondary 1 students learnt Badminton & Gaelic football, Secondary 2 students learnt Basketball & Football, Secondary 3 students learnt Frisbee & Floorball while our Secondary 4 and 5 students learnt Softball. In addition to the cognitive domain, students were also assessed in the physical and affective domains. In the physical domain, students were required to demonstrate motor skills and teamwork which they had learnt during PE lessons. In the affective domain, students were credited or penalised based on positive or negative behaviours displayed during PE lessons. The department also tapped on ICT platforms such as SLS and the students’ personal learning devices to supplement learning.
+·        **Secondary 1**: Badminton & Principles of Games / Gaelic Football
 
-![](/images/PE%203.jpg)
+·        **Secondary 2:** Basketball & Football
 
-![](/images/PE%204.jpg)
-		 
-Adjustments to the various department events were also made in adherence to SMMs. Inter-class games such as Badminton for Secondary 1 students went ahead. For sports such as Softball where many players are required, the competition was done at the intra-class level. To provide students more platforms for healthy living and get them to improve their fitness, the department organised a Fitness Challenge during the June holidays. Students were tasked to train themselves in performing fitness activities, namely push-ups (boys), planks (girls) and squats (boys & girls). Students who managed to achieve the minimum requirements for both activities were rewarded with a bandana.
-The Annual Cross Country was replaced by the Anderson Virtual Race where both staff and students were encouraged to go for runs or walks during the September holidays and clock as much mileage as possible. A Skipping Challenge was also organised for our lower secondary students. Sports enrichment such as tag archery, roller blading and K-Pop dance were organised as part of post-exam activities.
-The Wellness Programme continued to focus on students with high Body Mass Index (BMI). In addition to our PE teachers mentoring students in their PE classes, Mr Sivanesan (our Senior Teacher), also coordinated a rigorous programme for the students. Students attended sessions to educate them on healthy living such as proper nutrition, sleep and exercise. During the June holidays, students were tasked to track their sleep and daily physical activities (using FITT principle). 
+·        **Secondary 3:** Ultimate Frisbee & Floorball
 
-The health leaders, led by Mr Ken Leong and Mr Edward Neo, continued to support the department in the various school sports events and healthy lifestyle programmes. To develop our health leaders, training was provided for them in the areas of health and fitness. They were also trained to carry out and run inter-class sports activities.
+·        **Secondary 4:** Softball
 
-<img src="/images/PE%205.jpg" 
-     style="width:50%;float:left">
-<img src="/images/PE%206.jpg" 
-     style="width:50%">
-		 
-The department continued to share good pedagogical practices this year. At the Cluster N3 ICT Symposium this year, Mr Sivanesan and Mr Benedict Low shared on leveraging the ICT tool, Coaches' Eye, to tap on video evidence / analysis to complement the formative assessment strategies used to provide effective feedback to students. They also shared on the usage of the Blooket App that constantly evaluated, monitored and improved students’ progress. At the same time, an element of fun was achieved because it offers a variety of games to keep students engaged and excited.
+**Assessment:**
 
-At the Professional Learning Fiesta 2021, Mr Indrajit Singh, Mr Sivanesan and Mr Edward Neo shared on how diagnostic assessment can be done for differentiated learning in PE where our PE teachers carefully and purposefully differentiate their lessons after understanding students’ levels of readiness, interests and learning profiles.
+Students are assessed in three domains:
+
+1.      Cognitive Domain: Knowledge and understanding of sports concepts.
+
+2.      Physical Domain: Demonstration of motor skills and teamwork learned during PE lessons.
+
+3.      Affective Domain: Students receive credit or penalties based on positive or negative behaviour displayed during PE.
+
+**Technology Integration:**
+
+We leverage ICT platforms such as **SLS (Student Learning Space)** and **Personal Learning Devices** to enhance learning at all levels.
+
+**Sports Events**  
+  
+1. Annual Cross Country:
+
+Held at the end of Term 2 each year. The run is about 3km long and has been held at the Sports Hub for the past few years. It is a fun filled event with students running along the scenic route towards Marina Bay and Benjamin Sheares bridge. There are many activity booths set up by students for their peers to participate and have fun while waiting for their turn to run.
+
+![PE1](/images/Academic%20photos%202024/PE1.jpg)
+
+2. Inter-Class Games:
+
+Inter-class games are held for all levels. In May, our Sec 1 students compete in the Badminton Inter-class games while our Sec 4 students compete in the Softball Inter-class games. As part of year-end post-exam activities, our Sec 2 students compete in the Basketball and Football Inter-class games while our Sec 3 students compete in the Floorball Inter-class games.
+
+![PE2](/images/Academic%20photos%202024/PE2.jpg)
+![PE3](/images/Academic%20photos%202024/PE3.jpg)
+
+**Outdoor Adventure Learning**
+
+Our students get opportunities to learn and experience various outdoor skills and activities during their time in Anderson.
+
+**Sec 1 students** participate in a **3D2N residential camp** while our **Sec 3 students** embark on a **4D3N residential camp**. Students take part in various activities which include low elements, outdoor cooking, water activities such as rafting as well as place-based activities such as coastal exploration. It is a fun, enriching and exciting experience for Andersonians.
+
+![PE4](/images/Academic%20photos%202024/PE4.jpg)
+![PE5](/images/Academic%20photos%202024/PE5.jpg)
+
+
+**Sec 2 students** go on a **Nature Trail walk**. Some the routes include the Treetop Walk which entails a moderately easy hike covering 7km to 8km and the Dairy Farm Nature Park trail to Bukit Timah which presents a more challenging terrain totaling 4km to 5km. Students get to experience the nature side of Singapore and learn more about the tropical rainforests.
+
+![PE6](/images/Academic%20photos%202024/PE6.jpg)
+![PE7](/images/Academic%20photos%202024/PE7.jpg)
+
+**Student Leadership**
+
+The **Anderson Health Leaders** actively contribute to the Physical Education Department by participating in various sports events and promoting healthy lifestyle programs. Their role is crucial in ensuring the smooth execution of inter-class games and the Annual Cross Country. During PE lessons, Health Leaders take charge of activities like warm-up sessions and provide valuable support to PE teachers in managing logistics and administrative tasks.
