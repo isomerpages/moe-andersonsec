@@ -21,13 +21,11 @@ This will also better enable students to acquire and apply digital skills
 as they navigate an increasingly digitalized world. Students will also
 acquire digital literacy in the four components of Ministry of Education’s
 Digital Literacy Framework:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pic1" src="/images/Academic photos 2024/NDLP1.jpg">
 </div>
 <p>Intended Outcomes of the PLD Initiative</p>
 <p>The use of the PLD for teaching and learning aims to:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pic2" src="/images/Academic photos 2024/NDLP2.png">
 </div>
