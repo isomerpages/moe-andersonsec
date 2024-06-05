@@ -2,6 +2,7 @@ collections:
   special-programme:
     output: true
     order:
+      - Education and Career Guidance (ECG).md
       - Internationalization.md
       - Science Research Programme.md
       - EMAS.md
