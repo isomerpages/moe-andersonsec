@@ -44,7 +44,7 @@ modules and education &amp; career prospects)
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; MOE School Finder</strong>
 </p>
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
 </p>
 <p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; Joint Admission Exercise (JAE) Booklet 2024&nbsp;</strong>
 </p>
