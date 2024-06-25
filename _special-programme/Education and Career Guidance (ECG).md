@@ -33,11 +33,9 @@ to have a chat with him in school on Mondays and Tuesdays.&nbsp;</p>
 <p>Andersonians can also tap on useful ECG resources to find out more about
 their post-secondary options :</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; Admission Exercises for O-Level Students</strong>
-<br>(i) <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>(ii)</a> <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>(iii)</a> <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a>
+<br>(i) <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae<br></a>(ii)
+<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa
+<br>(iii)</a> <a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/poly-eae/</a>
 </p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; MOE Course Finder</strong> (Consolidated
 portal for all Polytechnics and ITE courses- Entry requirements, course
