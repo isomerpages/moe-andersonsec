@@ -554,21 +554,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loo Huang Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Character and Citizenship Education, Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_huang_yi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>398</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Yong Eng Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -768,36 +753,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>230</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Hng Choon Keong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (ICT), Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hng_choon_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hng_choon_keong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>229</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Alfin S/O Habib Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Secondary), Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_alfin_habib_rahman@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>399</p>
 </td>
 </tr>
 <tr>
@@ -1050,21 +1005,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Yoon Keong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department (CCE), Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yoon_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yoon_keong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>383</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Aw Sean Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1200,21 +1140,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Shaiful Abu Baker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_shaiful_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_shaiful_abu_bakar@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>403</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Asnah Asrap</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,21 +1151,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>310</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lokambal d/o Dakshnamoothy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lokambal_dakshnamoorthy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lokambal_dakshnamoorthy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>309</p>
 </td>
 </tr>
 <tr>
@@ -1320,17 +1230,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hamsani Bin Raoh</p>
+<p>Sundaram Lalitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, Malay Language</p>
+<p>Teacher, Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hamsani_raoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamsani_raoh@moe.edu.sg</a>
+<p><a href="mailto:sundaram_lalitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sundaram_lalitha@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>371</p>
+<p></p>
 </td>
 </tr>
 </tbody>
