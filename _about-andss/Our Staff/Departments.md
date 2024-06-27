@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,21 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>360</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loke Khin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Teacher, Design &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loke_khin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_khin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +223,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -294,17 +291,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Ching Enn Stephen</p>
+<p>Mr Kelvin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Senior Teacher, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chiong_enn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ching_enn@moe.edu.sg</a>
+<p><a href="mailto:lim_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kelvin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>382</p>
+<p>315</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pamela Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>306</p>
 </td>
 </tr>
 <tr>
@@ -324,36 +336,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fadilah Bte Yusran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, English Literature &amp; Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fadilah_yusran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadilah_yusran@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>327</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kelvin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Trixie Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -365,21 +347,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>304</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Raj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
 </td>
 </tr>
 <tr>
@@ -425,6 +392,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>327</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheng Chang Hup Andrew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_chang_hup@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_chang_hup@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>325</p>
 </td>
 </tr>
 <tr>
@@ -489,7 +471,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -731,7 +719,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -988,7 +982,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1335,7 +1335,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1457,7 +1463,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
