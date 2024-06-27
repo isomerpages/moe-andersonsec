@@ -1441,36 +1441,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Richmond Ang Dy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (ICT), Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:richmond_ang_dy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richmond_ang_dy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>238</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Wee Xian Eugene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary), Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wee_xian_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wee_xian_eugene@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>381</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Xin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1482,6 +1452,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>239</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kuan Yick Arthur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kuan_yick_arthur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kuan_yick_arthur@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>318</p>
 </td>
 </tr>
 <tr>
@@ -1501,21 +1486,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Weilun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_weilun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_weilun@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>331</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Edmund Tan Yong Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1527,36 +1497,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>369</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim Sok Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teh_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_sok_hoon@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>330</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Kuan Yick Arthur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kuan_yick_arthur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kuan_yick_arthur@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>318</p>
 </td>
 </tr>
 <tr>
@@ -1617,6 +1557,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>358</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woo Kwong Hui Jacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
