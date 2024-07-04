@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +80,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eugene_lee_chun_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_lee_chun_yang@moe.edu.sg</a>
-<a rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,6 +331,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Fadilah Binte Yusran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fadilah_yusran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_fadilah_yusran@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>389</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr&nbsp;Chan Wee Xian Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -471,6 +491,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>237</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pamela Priya Raj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/English Language &nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>236</p>
 </td>
 </tr>
 <tr>
