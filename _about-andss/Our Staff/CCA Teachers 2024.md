@@ -278,7 +278,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Na’lmmatual Raudah (i/c)
 <br>Rafidah Bte Abdul Razak
-<br>
+<br>Cheng Hooi Yu Jane
 <br>
 </p>
 </td>
@@ -287,15 +287,14 @@ variant: tiptap
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">rafidah_abd_razak@moe.edu.sg</a>
 <br>
-<br>
+<br><a href="mailto:cheng_hooi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hooi_yu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>344</p>
 <p>409
 <br>
-<br>
-</p>
+<br>357</p>
 </td>
 </tr>
 </tbody>
@@ -543,17 +542,21 @@ variant: tiptap
 <p>Mr Tan Hong Yi Jacob (i/c)
 <br>Mr Edmund Tan Yong Boon
 <br>Ms Venotni d/o Ratnam</p>
+<p>Cheng Chang Hup Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hong_yi_jacob_tan@moe.edu.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">edmund_tan_yong_boon@moe.edu.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">venotni_retnam@moe.edu.sg</a>
 </p>
+<p><a href="mailto:cheng_chang_hup@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_chang_hup@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>340
 <br>369
 <br>327</p>
+<p>325</p>
 </td>
 </tr>
 </tbody>
