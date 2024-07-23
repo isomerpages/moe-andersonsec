@@ -1,5 +1,5 @@
 ---
-title: Teachers Leaders
+title: Teacher Leaders
 permalink: /about-andss/our-staff/senior-teachers/
 description: ""
 third_nav_title: Our Staff
