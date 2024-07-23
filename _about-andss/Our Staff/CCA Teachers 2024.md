@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Hui Zheng Shirley (i/c)</p>
-<p>Sundaram Lalitha
+<p>Ms Sundaram Lalitha
 <br>
 <br>
 </p>
@@ -74,7 +74,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>338</p>
-<p>TBC
+<p>371
 <br>
 <br>
 </p>
@@ -134,7 +134,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ong Xin Hui (i/c)
 <br>Mrs Yap Siow Eik, Sibyl</p>
-<p>Ng Shi Ying, Amos
+<p>Mr Ng Shi Ying, Amos
 <br>
 </p>
 </td>
@@ -186,18 +186,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ong Piak Yun Trixie (i/c)
 <br>Mrs Low Hui Ying
-<br>Ang Mei Lin Amy</p>
+<br>Mrs Ang Mei Lin Amy</p>
+<p>Ms Jessica Charisse Ganadhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_piak_yun@moe.edu.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">oh_hui_ying@moe.edu.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">leong_mei_lin_amy@moe.edu.sg</a>
 </p>
+<p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_charisse_ganadhi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>304
 <br>356
 <br>319</p>
+<p>341</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +259,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Chan Hui Tang Elizabeth (i/c)</p>
 <p>Mr Aminurashid Bin Juma’at
-<br>Aaron Wong Whye Kit</p>
+<br>Mr Aaron Wong Whye Kit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">elizabeth_tio@moe.edu.sg</a>
@@ -277,8 +281,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Na’lmmatual Raudah (i/c)
-<br>Rafidah Bte Abdul Razak
-<br>Cheng Hooi Yu Jane
+<br>Mdm Rafidah Bte Abdul Razak
+<br>Mdm Cheng Hooi Yu Jane
 <br>
 </p>
 </td>
@@ -286,14 +290,12 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_naimmatul_raudah@moe.edu.sg</a>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">rafidah_abd_razak@moe.edu.sg</a>
-<br>
 <br><a href="mailto:cheng_hooi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hooi_yu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>344</p>
 <p>409
-<br>
 <br>357</p>
 </td>
 </tr>
@@ -516,9 +518,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eu Lee Chung Don (i/c)
-<br>Mr Aaron Wong Whye Kit
 <br>Mr Lai Rher Wei
 <br>Mr Tay Jun Keat</p>
+<p>Mr Woo Kwong Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">eu_lee_chung@moe.edu.sg</a>
@@ -526,12 +528,14 @@ variant: tiptap
 <br><a rel="noopener noreferrer nofollow" target="_blank">lai_rher_wei@moe.edu.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">tay_jun_keat@moe.edu.sg</a>
 </p>
+<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>311
-<br>317
 <br>332
 <br>362</p>
+<p>331</p>
 </td>
 </tr>
 <tr>
