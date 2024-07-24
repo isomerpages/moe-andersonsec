@@ -396,7 +396,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheng Chang Hup Andrew</p>
+<p>Mr Cheng Chang Hup Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, English Language</p>
@@ -1238,7 +1238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woo Kwong Hui Jacob</p>
+<p>Mr Woo Kwong Hui Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, Chemistry</p>
@@ -1248,7 +1248,37 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>331</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jessica Charisse Ganadhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jessica_charisse_ganadhi@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>341</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Liew Chee Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO, Science Laboratory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_chee_keong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
