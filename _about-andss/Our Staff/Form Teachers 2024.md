@@ -644,21 +644,6 @@ variant: tiptap
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Charisse Ganadhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_charisse_ganadhi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>341</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3H</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Low Hui Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -682,6 +667,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>318</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jessica Charisse Ganadhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jessica_charisse_ganadhi@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>341</p>
 </td>
 </tr>
 <tr>
