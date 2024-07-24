@@ -291,6 +291,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Ching Enn Stephen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_ching_enn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ching_enn@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>382</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Fadilah Bte Yusran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fadilah_yusran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_fadilah_yusran@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kelvin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
