@@ -76,7 +76,7 @@ variant: tiptap
 <p>Ms Lee Yan Mui Dolly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Secondary)</p>
+<p>SH/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yan_mui_dolly@moe.edu.sg</a>
