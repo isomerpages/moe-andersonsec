@@ -1256,7 +1256,7 @@ variant: tiptap
 <p>Ms Jessica Charisse Ganadhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jessica_charisse_ganadhi@moe.edu.sg</u></a>
