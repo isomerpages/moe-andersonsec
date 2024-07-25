@@ -1343,4 +1343,267 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ext Number</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Liu Jing bo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_jingbo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jingbo@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>224</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Wang Zhi Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhiwei@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>237</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Aw Sean Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aw_sean_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_sean_ling@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorlizasabariah Bte Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noorlizasabariah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorlizasabariah_ramli@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>312</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gao wei wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gao_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_wei_wei@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>347</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Syazwani Bte Md Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_mohamad_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>342</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ilango s/o Rama Apaswamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ilango_rama_appaswamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ilango_rama_appaswamy@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Liya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_liya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_liya@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>353</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chin-Liu Yirui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_yirui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yirui@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>354</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_ting@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>346</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Asnah Asrap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:asnah_asrap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asnah_asrap@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>310</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Li Junxian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_junxian_Richard_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_junxian_Richard_A@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>343</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_yan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yan_A@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>328</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Suziyanti Binte Jepto</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suziyanti_jepto_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suziyanti_jepto_a@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>309</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Senkuttuvan Mallika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:senkuttuvan_mallika@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">senkuttuvan_mallika@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
