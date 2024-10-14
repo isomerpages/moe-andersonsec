@@ -772,6 +772,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Hng Choon Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Information &amp; Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hng_choon_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hng_choon_keong@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>229</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Low Kok Ming</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1396,6 +1411,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Yoon Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_yoon_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_yoon_keong@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>383</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Dr Wang Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1441,7 +1471,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gao wei wei</p>
+<p>Ms Gao Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, Chinese Language</p>
@@ -1467,6 +1497,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>342</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Filzatul Azreen Bte Gazali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:filzatul_azreen_gazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>filzatul_azreen_gazali@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>407</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rafidah Bte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rafidah_abd_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafidah_abd_razak@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
 </td>
 </tr>
 <tr>
