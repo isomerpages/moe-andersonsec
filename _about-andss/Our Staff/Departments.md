@@ -572,7 +572,7 @@ variant: tiptap
 <p>Mr Yong Eng Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, History and Social Studies</p>
+<p>Lead Teacher, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_eng_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_eng_kiat@moe.edu.sg</a>
