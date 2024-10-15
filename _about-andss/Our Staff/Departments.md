@@ -1304,7 +1304,8 @@ variant: tiptap
 <p>Teacher, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_yong_shing@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_yong_shing@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>359</p>
