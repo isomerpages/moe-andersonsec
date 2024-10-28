@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Secondary 1 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 1 2024 Textbook List](/files/Textbook/2024/andss%20s1_2024.pdf)|
+|[Secondary 1 2025 Textbook List](/files/Textbook/2024/S1_22_10_2024.pdf)|
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
@@ -33,4 +33,5 @@ variant: markdown
 
 [PE attire order form](/files/Textbook/2024/andss%20pe%20attire%20order%20form.pdf)
 
-[Uniform purchase instructions](/files/Textbook/2024/andss%20uniform%20sale%20nov_dec%202023%20by%20jeep%20sing%20fashion.pdf)
+
+[Uniform purchase instructions](/files/Textbook/2024/Anderson_Secondary_sale_schedule_Sec_1_Registration_EY24.pdf)
