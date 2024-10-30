@@ -31,7 +31,7 @@ variant: markdown
 | -------- | -------- | -------- |
 |[Secondary 5 Normal Academic 2025 Textbook List](/files/Textbook/2024/S5_NA_22_10_2024.pdf)|
 
-[PE attire order form](/files/Textbook/2024/andss%20pe%20attire%20order%20form.pdf)
+[PE attire order form](/files/Textbook/2024/PE_ATTIRE_ORDER_FORM_29_08_2024.pdf)
 
 
 [Uniform purchase instructions](/files/Textbook/2024/Anderson_Secondary_sale_schedule_Sec_1_Registration_EY24.pdf)
