@@ -7,11 +7,11 @@ variant: markdown
 ---
 | Secondary 1 |  |  |
 | -------- | -------- | -------- |
-[Secondary 1 2025 Textbook List](/files/Textbook/2024/S1_04_11_2024.pdf)
+|[Secondary 1 2025 Textbook List](/files/Textbook/2024/S1_04_11_2024.pdf)|
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
-[Secondary 2 2025 Textbook List](/files/Textbook/2024/S2_04_11_2024.pdf)
+|[Secondary 2 2025 Textbook List](/files/Textbook/2024/S2_04_11_2024.pdf)|
 
 | Secondary 3 |  |  |
 | -------- | -------- | -------- |
