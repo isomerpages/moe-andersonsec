@@ -33,4 +33,4 @@ variant: markdown
 [PE attire order form](/files/Textbook/2024/PE_ATTIRE_ORDER_FORM_29_08_2024.pdf)
 
 
-[Uniform purchase instructions](/files/Textbook/2024/Anderson_Secondary_sale_schedule_Sec_1_Registration_EY24.pdf)
+[Uniform purchase instructions](/files/Textbook/2024/Anderson_Secondary_sale_schedule_EY24_____.pdf)
