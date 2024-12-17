@@ -56,7 +56,7 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
 </p>
 <p></p>
-<p><strong><u>5. School Matters</u></strong>
+<p><strong><u>5. MOE Financial Assistance Scheme (MOE FAS) Application</u></strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/FAS_Information_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">FAS Information Sheet 2025</a>
 </p>
@@ -65,10 +65,14 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p></p>
 <p><strong><u>6. Start of School 2025</u></strong>
 </p>
+<p>Please click on this deck of slides for information on reporting for the
+first day of school, the orientation program, as well as attire and grooming
+guidelines</p>
+<p></p>
 <p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
 </p>
 <p></p>
-<p><strong><u>7. Appeals and School Transfers</u></strong>
+<p><strong><u>7. Appeals for School Transfers</u></strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
 in 2024 may use this form to appeal for transfer to Anderson Secondary
