@@ -46,6 +46,15 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/Sec_1_Registration_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Exercise_Online Form Details</a>
 </p>
 <p></p>
+<p><strong>Academic Matters</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art Elective Prog and Music Elective Prog Matters</p>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
