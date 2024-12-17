@@ -18,7 +18,7 @@ transfer, must submit the completed registration form by 19 December 2024,
 </p>
 <p>QR code</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Registration" src="/images/Temp photo/2025 sec 1 registration qr_code.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="2025 Sec 1 Registration" src="/images/Temp photo/2025 sec 1 registration qr_code.jpg">
 </div>
 <p></p>
 <p><strong>Academic Matters</strong>
