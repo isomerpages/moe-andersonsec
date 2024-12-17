@@ -37,6 +37,14 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/Full_Subject_Based_Banding__FSBB__Information__2024_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (2024)</a>
 </p>
 </li>
+<li>
+<p>Third Lang and HMTL Matters</p>
+<p><a href="/files/Temp/2024 Year End/Form_5___AsLFL__Application_to_offer_Asian_Lang_Foreign_Lang_.pdf" rel="noopener nofollow" target="_blank">Form 5 - AsLFL (Application to offer Asian Lang Foreign Lang)</a>
+</p>
+<p><a href="/files/Temp/2024 Year End/Higher_Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">Higher Mother Tongue Languages</a>
+</p>
+<p><a href="/files/Temp/2024 Year End/Third_Language__Foreign_Language__Exemption.pdf" rel="noopener nofollow" target="_blank">Third Language, Foreign Language, Exemption</a>
+</p>
+</li>
 </ul>
-<p></p>
 <p></p>
