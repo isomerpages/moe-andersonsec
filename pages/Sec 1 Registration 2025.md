@@ -72,7 +72,7 @@ guidelines</p>
 <p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
 </p>
 <p></p>
-<p><strong><u>7. Appeal for School Transfers</u></strong>
+<p><strong><u>7. Appeal for School Transfer</u></strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
 in 2024 may use this form to appeal for transfer to Anderson Secondary
