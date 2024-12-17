@@ -4,12 +4,18 @@ permalink: /sec-1-registration/
 variant: tiptap
 description: ""
 ---
-<p><strong>1. Welcome Address by Principal</strong>
+<p>Congratulations on your posting to Anderson Secondary! You do not need
+to physically report to the school, as our Secondary 1 Registration Exercise
+will be conducted online.</p>
+<p>Please read through the following relevant information and instructions
+carefully. Should you have any questions, you may WhatsApp us at 6470 8457.</p>
+<p></p>
+<p><strong><u>1. Welcome Message by Principal</u></strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/2025_Sec_1_Principal_s_Welcome_Message.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Principal's Welcome Message</a>
 </p>
 <p></p>
-<p><strong>2. Registration Link</strong>
+<p><strong><u>2. Registration Link</u></strong>
 </p>
 <p>As part of our Secondary 1 registration, parents/guardians are required
 to fill in this registration form. All students, including those considering
@@ -21,7 +27,7 @@ transfer, must submit the completed registration form by 19 December 2024,
 <img style="width: 25%;" height="auto" width="100%" alt="2025 Sec 1 Registration" src="/images/Temp photo/2025 sec 1 registration qr_code.jpg">
 </div>
 <p></p>
-<p><strong>3. Academic Matters</strong>
+<p><strong><u>3. Academic Matters</u></strong>
 </p>
 <p>a) FSBB Matters</p>
 <p><a href="/files/Temp/2024 Year End/Full_Subject_Based_Banding__FSBB__Information__2024_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (2024)</a>
@@ -41,7 +47,7 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/1c__MEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1c. MEP Annex and Information Package</a>
 </p>
 <p></p>
-<p><strong>4. Purchase of Uniform, PE Attire and Books</strong>
+<p><strong><u>4. Purchase of Uniform, PE Attire and Books</u></strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
 </p>
@@ -50,19 +56,19 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
 </p>
 <p></p>
-<p><strong>5. School Matters</strong>
+<p><strong><u>5. School Matters</u></strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/FAS_Information_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">FAS Information Sheet 2025</a>
 </p>
 <p><a href="/files/Temp/2024 Year End/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
 </p>
 <p></p>
-<p><strong>6. Start of School 2025</strong>
+<p><strong><u>6. Start of School 2025</u></strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
 </p>
 <p></p>
-<p><strong>7. Appeals and School Transfers</strong>
+<p><strong><u>7. Appeals and School Transfers</u></strong>
 </p>
 <p>Primary 6 students who have just received their secondary school posting
 in 2024 may use this form to appeal for transfer to Anderson Secondary
@@ -73,5 +79,3 @@ admission criteria. Please click on this link to access the appeal form:
 </p>
 <p>Please submit your appeals by 19 December 2024, 3.00 pm. Successful applicants
 will be notified via email/call from 31 December 2024.</p>
-<p><a href="/files/Temp/2024 Year End/Appeal_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Appeal Exercise Online Form Details</a>
-</p>
