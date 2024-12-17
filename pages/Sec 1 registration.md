@@ -35,5 +35,17 @@ all of you in the new year.</p>
 <p>Ms Tan Po Chin</p>
 <p>Principal</p>
 <p></p>
+<p><strong>Registration Link</strong>
+</p>
+<p>As part of our Secondary 1 registration, parents/guardians are required
+to fill in this registration form. All students, including those considering
+transfer, must submit the completed registration form by 19 December 2024,
+3.00 pm. Please click on this link to access the registration form: <a href="https://go.gov.sg/s1reg25andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1reg25andss</a>
+</p>
+<p></p>
+<p><a href="/files/Temp/2024 Year End/Sec_1_Registration_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Exercise_Online Form Details</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
