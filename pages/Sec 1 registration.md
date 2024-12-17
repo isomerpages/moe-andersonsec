@@ -51,10 +51,12 @@ transfer, must submit the completed registration form by 19 December 2024,
 <ul data-tight="true" class="tight">
 <li>
 <p>Art Elective Prog and Music Elective Prog Matters</p>
-<p></p>
+<p><a href="/files/Temp/2024 Year End/1a__AEP_and_MEP_Slides_for_Parents.pdf" rel="noopener nofollow" target="_blank">1a. AEP and MEP Slides for Parents</a>
+</p>
+<p><a href="/files/Temp/2024 Year End/1b__AEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1b. AEP Annex and Information Package</a>
+</p>
+<p><a href="/files/Temp/2024 Year End/1c__MEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1c. MEP Annex and Information Package</a>
+</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
