@@ -49,6 +49,11 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p></p>
 <p><strong><u>4. Purchase of Uniform, PE Attire and Books</u></strong>
 </p>
+<p>Books and PE attire can be purchased together either online through Pacific
+Bookstores Pte Ltd's website at <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> or
+via walk-in at the school bookshop on the following dates:</p>
+<p>- 19, 20, 23, 27 Dec (from 9am to 3pm)</p>
+<p>- 21 Dec (from 9am to 11.30am)</p>
 <p><a href="/files/Temp/2024 Year End/PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
 </p>
 <p><a href="/files/Temp/2024 Year End/S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">S1 Booklist 2025</a>
