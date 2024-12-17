@@ -16,6 +16,7 @@ to fill in this registration form. All students, including those considering
 transfer, must submit the completed registration form by 19 December 2024,
 3.00 pm. Please click on this link to access the registration form: <a href="https://go.gov.sg/s1reg25andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1reg25andss</a>
 </p>
+<p>QR code</p>
 <p></p>
 <p><a href="/files/Temp/2024 Year End/Sec_1_Registration_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Sec 1 Registration Exercise_Online Form Details</a>
 </p>
@@ -47,4 +48,5 @@ transfer, must submit the completed registration form by 19 December 2024,
 </p>
 </li>
 </ul>
+<p></p>
 <p></p>
