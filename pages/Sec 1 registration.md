@@ -41,7 +41,7 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/1c__MEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1c. MEP Annex and Information Package</a>
 </p>
 <p></p>
-<p><strong>Purchase of Uniform, PE Attire, Books</strong>
+<p><strong>4. Purchase of Uniform, PE Attire and Books</strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
 </p>
@@ -50,19 +50,19 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
 </p>
 <p></p>
-<p><strong>School Matters</strong>
+<p><strong>5. School Matters</strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/FAS_Information_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">FAS Information Sheet 2025</a>
 </p>
 <p><a href="/files/Temp/2024 Year End/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
 </p>
 <p></p>
-<p><strong>Start of School 2025</strong>
+<p><strong>6. Start of School 2025</strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
 </p>
 <p></p>
-<p><strong>Appeals and School Transfers</strong>
+<p><strong>7. Appeals and School Transfers</strong>
 </p>
 <p><a href="/files/Temp/2024 Year End/Appeal_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Appeal Exercise Online Form Details</a>
 </p>
