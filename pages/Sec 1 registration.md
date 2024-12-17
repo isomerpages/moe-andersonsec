@@ -65,3 +65,12 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p><a href="/files/Temp/2024 Year End/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
 </p>
 <p></p>
+<p><strong>Start of School 2025</strong>
+</p>
+<p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
+</p>
+<p></p>
+<p><strong>Appeals and School Transfers</strong>
+</p>
+<p><a href="/files/Temp/2024 Year End/Appeal_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Appeal Exercise Online Form Details</a>
+</p>
