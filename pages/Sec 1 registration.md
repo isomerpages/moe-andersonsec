@@ -64,5 +64,14 @@ transfer, must submit the completed registration form by 19 December 2024,
 <p></p>
 <p><strong>7. Appeals and School Transfers</strong>
 </p>
+<p>Primary 6 students who have just received their secondary school posting
+in 2024 may use this form to appeal for transfer to Anderson Secondary
+School. Your PSLE score should meet the school's cut-off point of the posting
+year. Transfer will be subject to available vacancies and the school’s
+admission criteria. Please click on this link to access the appeal form:
+<a href="https://go.gov.sg/s1app25andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1app25andss</a>
+</p>
+<p>Please submit your appeals by 19 December 2024, 3.00 pm. Successful applicants
+will be notified via email/call from 31 December 2024.</p>
 <p><a href="/files/Temp/2024 Year End/Appeal_Exercise_Online_Form_Details.pdf" rel="noopener nofollow" target="_blank">Appeal Exercise Online Form Details</a>
 </p>
