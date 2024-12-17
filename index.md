@@ -14,7 +14,7 @@ sections:
           url: /news-and-highlights
         - title: Sec 1 Registration
           description: ""
-          url: /Sec 1 registration
+          url: /sec-1-registration/
         - title: Facebook
           description: ""
           url: https://www.facebook.com/andersonsecsch/
