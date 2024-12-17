@@ -46,4 +46,13 @@ variant: tiptap
 </p>
 <p><a href="/files/Temp/2024 Year End/PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
 </p>
+<p><a href="/files/Temp/2024 Year End/S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">S1 Booklist 2025</a>
+</p>
+<p><a href="/files/Temp/2024 Year End/Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
+</p>
+<p></p>
+<p><strong>School Matters</strong>
+</p>
+<p><a href="/files/Temp/2024 Year End/FAS_Information_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">FAS Information Sheet 2025</a>
+</p>
 <p></p>
