@@ -6,6 +6,8 @@ variant: markdown
 ---
 [Fault Reporting ICT](https://docs.google.com/forms/d/e/1FAIpQLScNaMT6LRtVKxJl5eehz-inkcod9HFX6mBtsx34qT3oOQCKag/viewform)
 
+[ANDSS EdTech Resource Center](http://for.edu.sg/andss-edtech-resource-center)
+
 [Haze Website](https://www.haze.gov.sg/)
 
 [HRP Website](https://www.hrp.gov.sg/hrp/#/)
