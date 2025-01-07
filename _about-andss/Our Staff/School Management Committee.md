@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>201</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -122,21 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chip Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Innovation and Enterprise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chip_seng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>228</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Qiu Ping Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +132,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>221</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -162,7 +147,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>383</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -177,7 +162,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>220</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -192,7 +177,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>224</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -207,7 +192,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>229</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -222,7 +207,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>225</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -237,7 +222,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>223</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -252,7 +237,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>230</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -267,7 +252,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>226</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -282,7 +267,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>219</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -297,7 +282,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>227</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -326,7 +311,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>382</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -341,7 +326,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>389</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -356,7 +341,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>381</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -371,7 +356,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>399</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -400,7 +385,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>239</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -415,7 +400,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>392</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -430,7 +415,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>240</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -445,22 +430,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>393</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Richmond Ang Dy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Information &amp; Communications Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:richmond_ang_dy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richmond_ang_dy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>238</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -475,7 +445,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>398</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -490,7 +460,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>237</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -504,7 +474,7 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>236</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -533,7 +503,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>207</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -548,7 +518,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>208</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -563,7 +533,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>206</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -578,7 +548,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>380</p>
+<p></p>
 </td>
 </tr>
 </tbody>
