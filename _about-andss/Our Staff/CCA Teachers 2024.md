@@ -410,7 +410,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leong_kwong_tine@moe.edu.sg</a>
-<br><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>	
+<br><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>
 </p>
 <p><a href="mailto:wong_teck_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_hock@moe.edu.sg</a>
 </p>
