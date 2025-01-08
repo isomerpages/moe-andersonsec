@@ -53,7 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>219</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>393</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>392</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -206,21 +206,6 @@ variant: tiptap
 <p>-</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mah Seng Choy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mah_seng_choy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_seng_choy@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -271,7 +256,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>223</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -286,22 +271,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>226</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Ching Enn Stephen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ching_enn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ching_enn@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>382</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -316,7 +286,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>302</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -441,21 +411,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Mei Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_mei_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mei_hui@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>323</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Angeline Elysia Tan Mew Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -534,7 +489,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>220</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -549,7 +504,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>221</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -564,7 +519,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>240</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -602,7 +557,7 @@ variant: tiptap
 <p>Mr Eu Lee Chung Don</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, History &amp; Social Studies</p>
+<p>Senior Teacher, Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eu_lee_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eu_lee_chung@moe.edu.sg</a>
@@ -767,7 +722,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>230</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -782,7 +737,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>229</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -950,21 +905,6 @@ variant: tiptap
 <p>349</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Lian Er, Rene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_lian_er_rene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_lian_er_rene@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>341</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -1015,22 +955,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>225</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sivanesan Vmakesan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sivanesan_vmakesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sivanesan_vmakesan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>316</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1143,7 +1068,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>227</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1158,7 +1083,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>228</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1189,6 +1114,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>318</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh Wai Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>330</p>
 </td>
 </tr>
 <tr>
@@ -1328,21 +1268,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Charisse Ganadhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_charisse_ganadhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jessica_charisse_ganadhi@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>341</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Liew Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1436,7 +1361,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>224</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1451,7 +1376,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>383</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1666,36 +1591,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Li Junxian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_junxian_Richard_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_junxian_Richard_A@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>343</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhang Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_yan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yan_A@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>328</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Suziyanti Binte Jepto</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1722,21 +1617,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>401</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sundaram Lalitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sundaram_lalitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sundaram_lalitha@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>371</p>
 </td>
 </tr>
 </tbody>
