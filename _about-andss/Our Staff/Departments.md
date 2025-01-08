@@ -557,7 +557,7 @@ variant: tiptap
 <p>Mr Eu Lee Chung Don</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, History &amp; Social Studies</p>
+<p>Senior Teacher, Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eu_lee_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eu_lee_chung@moe.edu.sg</a>
@@ -1114,6 +1114,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>318</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh Wai Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>330</p>
 </td>
 </tr>
 <tr>
