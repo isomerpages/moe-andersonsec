@@ -599,14 +599,14 @@ variant: tiptap
 <p>3T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Wai Yee</p>
+<p>Mrs Goh Wai Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_wai_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>330</p>
 </td>
 </tr>
 <tr>
