@@ -591,20 +591,17 @@ variant: tiptap
 <p>Student Council (2nd CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Fadilah Bte Yusran (i/c)
-<br>Mr Chia Yi Kang Jason</p>
+<p>Mr Chia Yi Kang Jason (i/c)</p>
 <p>Ms Chua Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_fadilah_yusran@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">chia_yi_kang_jason@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_yi_kang_jason@moe.edu.sg</a>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ting@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>302
-<br>365</p>
+<p>365</p>
 <p>346</p>
 </td>
 </tr>
