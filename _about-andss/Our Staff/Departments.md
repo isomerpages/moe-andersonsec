@@ -276,6 +276,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Pamela Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Fadilah Bte Yusran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,21 +317,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Raj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
 </td>
 </tr>
 <tr>
@@ -539,21 +539,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Ho Hui Zheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, History &amp; Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_hui_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hui_zheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>338</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Eu Lee Chung Don</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -565,6 +550,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>311</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shirley Ho Hui Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, History &amp; Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_hui_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hui_zheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>338</p>
 </td>
 </tr>
 <tr>
@@ -1391,7 +1391,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>237</p>
+<p></p>
 </td>
 </tr>
 <tr>
