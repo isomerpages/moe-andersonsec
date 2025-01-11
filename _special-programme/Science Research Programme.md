@@ -43,4 +43,3 @@ Science Research Project (SRP) – samples of students’ work
 Upper secondary science students are offered opportunities for attachment to various institutions involved in science research.
 
 Science Specialists work in research teams to design and conduct experiments to take part in science competitions. They are also trained to be facilitators and mentors in various science department activities. More able students will be able to participate in the national level Science Mentorship Programme (SMP).
-
