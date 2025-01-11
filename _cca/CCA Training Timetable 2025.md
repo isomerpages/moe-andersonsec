@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DATE &amp; TIME</strong>
+<p><strong>DAY &amp; TIME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,9 +73,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mon, 3.30pm - 6.00pm</p>
 <p>Wed, 3.30pm - 6.00pm</p>
-<p>Fri, 1.30-4.00pm (only between Feb to April for SYF preparation)</p>
+<p>Fri, 1.30-4.00pm (only between Feb to Apr for SYF preparation)</p>
 <p></p>
-<p><strong>*On HBL Days (SYF preparation from Feb to April), </strong>1.30-4.00pm</p>
+<p><strong>*On HBL Days (SYF preparation from Feb to Apr), </strong>1.30-4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shiming Gavin (i/c)</p>
@@ -107,13 +107,13 @@ variant: tiptap
 <p><strong>Non-HBL Day</strong>
 </p>
 <p>Mon, 3.15pm - 6.15pm</p>
-<p>Fri ,&nbsp; &nbsp; 2.30pm - 5.30pm</p>
-<p>Thur, 3.30-5.30pm ( only for Feb ,March, April for SYF preparation)</p>
+<p>Fri ,&nbsp; &nbsp;2.30pm - 5.30pm</p>
+<p>Thur, 3.30-5.30pm (only for Feb, Mar, Apr for SYF preparation)</p>
 <p></p>
-<p><strong>*On HBL Days (SYF preparation&nbsp; from Jan to April)</strong>
+<p><strong>*On HBL Days (SYF preparation&nbsp; from Jan to Apr)</strong>
 </p>
 <p>Mon, 2-5pm</p>
-<p>Friday, 2.30-5.30pm</p>
+<p>Fri, 2.30-5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gao Wei Wei (i/c)</p>
