@@ -2,13 +2,11 @@
 title: Science Research Programme
 permalink: /special-programme/science-research-programme/
 description: ""
+variant: markdown
 ---
-
-
-
 **Mission**
 
-To develop Anderson Secondary School into a premier centre for science research & development to serve the school and the zone.
+To develop Anderson Secondary School into a premier centre for science research &amp; development to serve the school and the zone.
 
 **Overview**
 
@@ -40,47 +38,9 @@ Students with an aptitude and keen interest in science will be identified and se
 
 Science Research Project (SRP) – samples of students’ work
 
-**Research and Development (R&D):**
+**Research and Development (R&amp;D):**
 
 Upper secondary science students are offered opportunities for attachment to various institutions involved in science research.
 
 Science Specialists work in research teams to design and conduct experiments to take part in science competitions. They are also trained to be facilitators and mentors in various science department activities. More able students will be able to participate in the national level Science Mentorship Programme (SMP).
 
-**Learning Stations – Physics**
-<br>*Buckle your seat belt… ready, get set, GO!*
-
-Expect life to be on an expressway at Anderson Science Department, be it marvelling at the intricacies of the operation of a Ferris Wheel or the aerodynamics of flight.
-
-![](/images/s10.jpg) <center>Watch how Andersonians are ‘lifted’ to greater heights as their knowledge soars beyond the traditional boundaries of textbooks.</center>
-![](/images/s11.jpg)
-
-**Learning Stations – Chemistry**
-<br>*Elements of life!*
-
-Studying the Periodic Table can never be boring if you grab opportunities to get up-close with our gigantic fixture. All you need to do is to stretch your hands to explore this interactive fixture and nuggets of facts will (literally) be at your fingertips.
-
-<img src="/images/s12.jpg" 
-     style="width:50%">
-		 <img src="/images/s14.jpg" 
-     style="width:50%">
-		  <img src="/images/s13.jpg" 
-     style="width:100%">
-Molecule tables and chairs
-
-**Learning Stations – Biology**
-<br>*Our hidden treasure cove*
-
-A typical fish tank?……. Stop, take a closer look and you will detect vibrancy instituted in a self-sustaining aqua-habitat.
-
-<img src="/images/s15.jpg" 
-     style="width:50%">
-		 <img src="/images/s19.jpg" 
-     style="width:60%">
-		 
-**Achievements in Science**
-
-| Year | Competition | Awards |
-| -------- | -------- | -------- |
-|2013|14th ElementzScience Research Conference & Exhibition<br><br>12th ElementzScience Project Competition & Exhibition<br><br>AJC Science Challenge<br><br>Engineering Innovation Programme by RP|1 Gold, 1 Silver, 1 Bronze<br><br>1 Gold, 1 Silver<br><br>1 Bronze<br><br>Top 3 Outstanding Project
-|2014|15th ElementzScience Research Conference & Exhibition<br><br>13th ElementzScience Project Competition & Exhibition<br><br>National Science Challenge 2014<br><br>Science Mentorship Programme (SMP)<br><br>Shell Singapore Youth Science Festival<br><br>Singapore ArtScience Prize 2014|2 Bronzes<br><br>3 Silvers<br><br>Quarter-Finalists<br><br>2 Merits<br><br>Most Creative Design<br><br>Best Team Prize, Best Prototype Prize
-|2015|16th ElementzScience Research Conference & Exhibition<br><br>Fuel Your School – STEM @ Central Singapore<br><br>VJC East Zone A*STAR Science Fair<br><br>Science Mentorship Programme (SMP)<br><br>Singapore Junior Chemistry Olympiad<br><br>NYP Science & Technology Challenge|1 Gold, 1 Silver<br><br>Most Popular Roller-Coaster (Top 10)<br><br>1 Merit<br><br>1 Distinction<br><br>2 Bronzes<br><br>2nd runner-up in the Balloon-Powered Vehicle category
