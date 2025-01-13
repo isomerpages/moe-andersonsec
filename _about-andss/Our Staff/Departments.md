@@ -14,6 +14,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Aesthetic &amp; Technology</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -24,22 +39,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aesthetic &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,6 +218,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -227,22 +243,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -268,6 +270,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sabariah_mohd_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabariah_mohd_yusoff@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pamela Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,21 +319,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Raj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
 </td>
 </tr>
 <tr>
@@ -450,6 +452,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -460,22 +477,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -539,21 +542,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Ho Hui Zheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, History &amp; Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_hui_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hui_zheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>338</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Eu Lee Chung Don</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -565,6 +553,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>311</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shirley Ho Hui Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, History &amp; Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_hui_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hui_zheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>338</p>
 </td>
 </tr>
 <tr>
@@ -683,6 +686,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -693,22 +711,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -916,6 +920,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Physical Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -926,22 +945,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1029,6 +1034,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -1039,22 +1059,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1322,6 +1328,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
@@ -1332,22 +1353,8 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1391,7 +1398,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>237</p>
+<p></p>
 </td>
 </tr>
 <tr>
