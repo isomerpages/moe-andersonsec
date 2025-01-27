@@ -1205,7 +1205,7 @@ variant: tiptap
 <p>Teacher, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ching_siow_eik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_siow_eik@moe.edu.sg</a>
+<p><a href="mailto:ching_siow_eik_sibyl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_siow_eik_sibyl@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
