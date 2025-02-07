@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mrs Greak Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greak_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greak_kumar@moe.edu.sg</a> 
+<p><a href="mailto:greak_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greak_kumar@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
