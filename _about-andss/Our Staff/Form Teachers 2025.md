@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1T</p>
+<p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Piak Yun, Trixie</p>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1T</p>
+<p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Azmi Bin Salleh</p>
@@ -73,6 +73,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>349</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Greak Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:greak_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greak_kumar@moe.edu.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>345</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Huang Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_huang_yi@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>398</p>
 </td>
 </tr>
 <tr>
