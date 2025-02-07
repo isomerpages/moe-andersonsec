@@ -50,7 +50,7 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Piak Yun, Trixie</p>
+<p>Mrs Trixie Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_piak_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_piak_yun@moe.edu.sg</u></a>

@@ -12,9 +12,6 @@ sections:
         - title: Announcements
           description: ""
           url: /news-and-highlights
-        - title: Sec 1 Registration 2025
-          description: ""
-          url: /sec-1-registration/
         - title: Facebook
           description: ""
           url: https://www.facebook.com/andersonsecsch/
