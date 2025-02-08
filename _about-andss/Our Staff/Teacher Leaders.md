@@ -24,7 +24,7 @@ variant: tiptap
 <p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p>Ext</p>
 </th>
 </tr>
 <tr>
