@@ -28,57 +28,64 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext Num</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hairol Bin Mohamed Hossain (i/c)</p>
-<p>Kan-Sua Shuying, Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hairol_mohamed_hossain@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">sua_shuying_michelle@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>314</p>
-<p></p>
-<p>336
-<br>
+<p>314
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Kan-Sua Shuying, Michelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sua_shuying_michelle@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>336</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Green Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Hui Zheng Shirley (i/c)</p>
-<p>Mrs Yap Siow Eik Sibyl
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ho_hui_zheng@moe.edu.sg</a>
 </p>
-<p><a href="mailto:ching_siow_eik_sibyl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_siow_eik_sibyl@moe.edu.sg</a>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>338</p>
-<p>
-<br>367
-<br>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yap Siow Eik Sibyl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ching_siow_eik_sibyl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_siow_eik_sibyl@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>367</p>
 </td>
 </tr>
 <tr>
@@ -164,16 +171,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p><strong>Ext Num</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -272,22 +283,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Na’lmmatual Raudah (i/c)
-<br>Mdm Rafidah Bte Abdul Razak
+<br>Mdm Rafidah Bte Abdul Razak</p>
+<p>
 <br>Mdm Cheng Hooi Yu Jane
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_naimmatul_raudah@moe.edu.sg</a>
+<br>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">rafidah_abd_razak@moe.edu.sg</a>
+</p>
+<p>
 <br><a href="mailto:cheng_hooi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_hooi_yu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>344</p>
+<p></p>
+<p></p>
+<p></p>
 <p>409
-<br>357</p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>357</p>
 </td>
 </tr>
 </tbody>
