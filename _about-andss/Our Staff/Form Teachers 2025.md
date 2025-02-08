@@ -452,21 +452,6 @@ variant: tiptap
 <p>2N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Halima Begum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:a_halima_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>a_halima_begum@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>403</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2N</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Edmund Tan Yong Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1001,7 +986,7 @@ variant: tiptap
 <p>4N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Venotni d/o Ratnam</p>
+<p>Ms Venotni d/o Retnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>venotni_retnam@moe.edu.sg</u></a>
