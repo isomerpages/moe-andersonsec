@@ -908,7 +908,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Student Council</u></strong></h4>
+<h4><strong><u>Student Leadership</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -919,8 +919,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
@@ -937,7 +936,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Student Council (2nd CCA)</strong>
+<p><strong>Student Council </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
