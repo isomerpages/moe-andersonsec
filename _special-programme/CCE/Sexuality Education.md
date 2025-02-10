@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>ANDERSON SECONDARY SCHOOL</strong>
 </p>
 <p>&nbsp;</p>
-<p><strong>MOE Sexuality Education in Schools</strong>
+<p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
@@ -51,18 +51,38 @@ Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
+MOE Sexuality Education.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Overview of Anderson Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Overview of Anerson Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
+for more information on the scope of Sexuality Education in the school
+curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
@@ -71,18 +91,18 @@ on sexuality include:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
 to the media, popular culture and the internet. Adolescence is a complex
-stage in life as the adolescent attempts to find his/her own identity and
-often struggles with new social relationships. The period of middle adolescence
-(generally from 15 – 17 years old) can be a turbulent period for adolescents.
-The gap between physical and emotional/cognitive maturity may result in
-a tendency to act on impulse, experiment with various activities (including
-sexual activities), sometimes without understanding the unpleasant consequences
-that may arise from such experimentation. The need for peer acceptance
-can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
-Given the pressures faced by the middle adolescent from within themselves
-and from peers, it is important to build a strong sense of self-worth,
-personal conviction and an understanding of the possible consequences of
-sexual behaviour.</p>
+stage in life as the adolescent attempts to find his or her own identity
+and often struggles with new social relationships. The period of middle
+adolescence (generally from 15 – 17 years old) can be a turbulent period
+for adolescents. The gap between physical and emotional/cognitive maturity
+may result in a tendency to act on impulse, experiment with various activities
+(including sexual activities), sometimes without understanding the unpleasant
+consequences that may arise from such experimentation. The need for peer
+acceptance can be overwhelmingly strong and hinder one’s ability to act
+responsibly.&nbsp; Given the pressures faced by the middle adolescent from
+within themselves and from peers, it is important to build a strong sense
+of self-worth, personal conviction and an understanding of the possible
+consequences of sexual behaviour.</p>
 <p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
@@ -91,19 +111,25 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>At Anderson Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong><br>At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
-</div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,8 +183,8 @@ monitoring and managing our emotional reactions, in helpful ways that are
 reflective of our values and principles</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
 forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance and
-understand what builds healthy and supportive relationships, both online
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of,
+and understand what builds healthy and supportive relationships, both online
 and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is,
 and recognise that the readiness and interest in dating vary among individuals</p>
@@ -227,18 +253,22 @@ falsehoods, flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
-</div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Secondary 2</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -360,11 +390,40 @@ and avoid negative consequences, both offline and online</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
-</div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -372,7 +431,14 @@ and avoid negative consequences, both offline and online</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -443,7 +509,7 @@ when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -502,11 +568,7 @@ our beliefs</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
-</div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -514,7 +576,14 @@ our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -550,14 +619,9 @@ our beliefs</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson aims to help students think critically about gender stereotypes
-that exist in our society in the contexts of career and family (e.g. males
-typically perceived as main breadwinners and females typically perceived
-as main caregivers in the family), and the impact of these stereotypes
-on individuals. Students will learn to be aware of possible gender stereotypes
-that may affect one’s family and future decisions. They will also learn
-to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
@@ -617,14 +681,12 @@ personal and emotional boundaries in a relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on building a positive relationship with one’s partner
-in a marriage. Students will understand that while a marriage, defined
-in Singapore as a union between a man and a woman, requires mutual commitment
-and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.</a>
+</p>
+<p>&nbsp;Students will learn that what really matters in &nbsp;sustaining
+and maintaining a long-term romantic relationship that leads to marriage,
+is understanding the other person’s perspective and effectively communicating
+with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic
@@ -670,12 +732,31 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Temp photo/Picture2.jpg">
-</div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -683,7 +764,14 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -760,11 +848,16 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Anderson Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Anderson Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -784,7 +877,7 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
@@ -810,12 +903,20 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><br></strong>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
@@ -826,13 +927,13 @@ education programmes by MOE-approved external providers.</p>
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
 and is also downloadable <a href="/files/Temp/Annex_A___SED_OPT_OUT_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
-completed form is to be submitted by 23/02/2024.</p>
+completed form is to be submitted by 28/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
 and is also downloadable <a href="/files/Temp/Annex_B___eTeens_cover_letter_and_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-&nbsp;The completed form is to be submitted by 23/02/2024.</p>
+&nbsp;The completed form is to be submitted by 28/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6459 8303
-or <a rel="noopener noreferrer nofollow" target="_blank">anderson_ss@moe.edu.sg</a> for
+or&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">anderson_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>

@@ -15,6 +15,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
 </td>
@@ -27,22 +42,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -287,6 +288,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -295,6 +299,21 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
@@ -309,22 +328,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -452,21 +457,6 @@ variant: tiptap
 <p>2N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Halima Begum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:a_halima_begum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>a_halima_begum@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>403</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2N</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Edmund Tan Yong Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -569,6 +559,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -577,6 +569,20 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
@@ -591,22 +597,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -836,6 +828,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -844,6 +838,20 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
@@ -858,22 +866,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1001,7 +995,7 @@ variant: tiptap
 <p>4N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Venotni d/o Ratnam</p>
+<p>Ms Venotni d/o Retnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>venotni_retnam@moe.edu.sg</u></a>
@@ -1103,6 +1097,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1111,6 +1107,20 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
@@ -1125,22 +1135,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ext Number</strong>
+<p><strong>Ext</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1175,4 +1171,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
