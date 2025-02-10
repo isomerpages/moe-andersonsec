@@ -936,7 +936,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Student Council </strong>
+<p><strong>Student Council</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
