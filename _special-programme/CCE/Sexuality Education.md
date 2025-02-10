@@ -7,73 +7,51 @@ variant: tiptap
 ---
 <p><strong>ANDERSON SECONDARY SCHOOL</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
-aims to enable students to understand the physiological, social and emotional
-changes they experience as they mature, develop healthy and rewarding relationships
-with others, including those with members of the opposite sex, and make
-wise, informed and responsible decisions on sexuality matters. SEd is premised
-on the importance of the family as the basic unit of society. This means
-encouraging healthy, heterosexual marriages and stable nuclear family units
-with extended family support. The teaching and learning of SEd is based
-on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Support students in managing their physiological, social and emotional
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
+</li>
+</ol>
+<p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Guide students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Help students develop a moral compass and respect for themselves and others
-by having positive mainstream values and attitudes about sexuality that
-are premised on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-Sexuality Education are:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Love and respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Build positive relationships based on love and respect (which are the foundation
-for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Make responsible decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Abstinence before marriage is the best protection against STIs/HIV and
-unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+</li>
+</ol>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>) for more information on
 MOE Sexuality Education.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Overview of Anerson Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
@@ -103,21 +81,17 @@ responsibly.&nbsp; Given the pressures faced by the middle adolescent from
 within themselves and from peers, it is important to build a strong sense
 of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong><br>At Anderson Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Secondary 1</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -178,16 +152,14 @@ online and offline.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of
-monitoring and managing our emotional reactions, in helpful ways that are
-reflective of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
-forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of,
-and understand what builds healthy and supportive relationships, both online
-and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is,
-and recognise that the readiness and interest in dating vary among individuals</p>
+<p>· recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+<p>· recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+<p>· recognise the importance of, and understand what builds healthy and
+supportive relationships, both online and offline</p>
+<p>· understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -211,9 +183,9 @@ of self.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and
-psychological abuse from others, especially those we know and trust, can
-have strong negative effects on a person’s self-concept</p>
+<p>· understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -237,14 +209,13 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that
-as we work towards becoming our best self, there will be times when we
-make mistakes, and recognise the importance of exercising moral courage
-in facing up to consequences</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral
-and legal consequences of risky sexual behaviours, pornography access and
-acting irresponsibly or maliciously when online (e.g. spreading of online
-falsehoods, flouting copyright laws, etc.)</p>
+<p>·&nbsp;understand and accept that as we work towards becoming our best
+self, there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+<p>· recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
+when online (e.g. spreading of online falsehoods, flouting copyright laws,
+etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -322,12 +293,11 @@ treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding
-of gender roles should not be limited by gender stereotypes</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of
-one’s own unique qualities and characteristics as a male or female</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation
-entails</p>
+<p>· know that one’s understanding of gender roles should not be limited
+by gender stereotypes</p>
+<p>· develop an appreciation of one’s own unique qualities and characteristics
+as a male or female</p>
+<p>· understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -352,9 +322,9 @@ and safety.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
-and the importance of exercising discretion to reduce risks and avoid negative
-consequences, both online and offline</p>
+<p>·&nbsp; recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
+both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -377,11 +347,11 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect
-and respect for others in relating to members of the opposite sex</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky
-situations and the importance of exercising discretion to reduce risks
-and avoid negative consequences, both offline and online</p>
+<p>· recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
+<p>· recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -389,39 +359,6 @@ and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
@@ -487,15 +424,13 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
-and identity have an impact on our self-esteem and how we interact with
-others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that
-expectations of oneself and others may differ and can affect one’s emotions,
-thoughts and behaviours</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what
-healthy dating relationships involve and know that readiness is important
-when entering into a dating relationship</p>
+<p>· know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+<p>· understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
+<p>· recognise what healthy dating relationships involve and know that readiness
+is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -519,16 +454,14 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision
-to end a relationship will have consequences on oneself and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief
-and loss due to rejections and broken relationships is normal and one can
-recover from the experience</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are
-healthy ways of coping with broken relationships, and family and friends
-are important pillars of support</p>
+<p>·&nbsp;know that relationship-building involves personal emotions and
+vulnerabilities, and changes and challenges</p>
+<p>·&nbsp;know that a decision to end a relationship will have consequences
+on oneself and others</p>
+<p>·&nbsp;know that grief and loss due to rejections and broken relationships
+is normal and one can recover from the experience</p>
+<p>·&nbsp;know there are healthy ways of coping with broken relationships,
+and family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 3</p>
@@ -552,14 +485,12 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise
-the importance of being informed of social and moral issues of the day
-and the need to reflect on these issues, and weigh them against our own
-moral standpoints as we form our perspectives about them</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
-that we strengthen our character when we commit to sound values-based viewpoints
-(e.g. respect for life) and decisions, and speak and act in alignment with
-our beliefs</p>
+<p>· recognise the importance of being informed of social and moral issues
+of the day and the need to reflect on these issues, and weigh them against
+our own moral standpoints as we form our perspectives about them</p>
+<p>· understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -624,12 +555,11 @@ our beliefs</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender
-stereotypes on oneself and others can limit one’s experiences, cause harm
-to the self-esteem of oneself and others and should be avoided</p>
+<p>· understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+<p>· know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
 <p><em>&nbsp;</em>
 </p>
 </td>
@@ -656,18 +586,17 @@ or their friends are involved in an unhealthy relationship.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways
-of coping with broken relationships, and family and friends are important
-pillars of support</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused
-by traumatic situations, e.g. bullying, abuse and dating violence, and
-understand the physiological and psychological, social impact on victims</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need moral
-courage and wisdom to recognise and end relationships that are unhealthy
-and cause harm to our mental and emotional well-being</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
-of ensuring that non-verbal messages match with verbal ones, when communicating
-personal and emotional boundaries in a relationship</p>
+<p>·&nbsp;know there are healthy ways of coping with broken relationships,
+and family and friends are important pillars of support</p>
+<p>·&nbsp;recognise emotions caused by traumatic situations, e.g. bullying,
+abuse and dating violence, and understand the physiological and psychological,
+social impact on victims</p>
+<p>·&nbsp;understand that we need moral courage and wisdom to recognise and
+end relationships that are unhealthy and cause harm to our mental and emotional
+well-being</p>
+<p>· understand the importance of ensuring that non-verbal messages match
+with verbal ones, when communicating personal and emotional boundaries
+in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -689,12 +618,11 @@ is understanding the other person’s perspective and effectively communicating
 with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic
-relationships leading to marriage involve understanding oneself and others
-in the intellectual, emotional, social and moral dimensions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails
-a union between a man and a woman based on love, trust, commitment, and
-requires mutual effort</p>
+<p>·&nbsp;know that long-term romantic relationships leading to marriage
+involve understanding oneself and others in the intellectual, emotional,
+social and moral dimensions</p>
+<p>·&nbsp;know that marriage entails a union between a man and a woman based
+on love, trust, commitment, and requires mutual effort</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts
 are normal in any relationship, including marriage, and the way in which
 a couple handles conflict is critical to the success of their marriage</p>
@@ -722,9 +650,9 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
@@ -734,28 +662,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </table>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -818,9 +724,9 @@ in consideration of the well-being of themselves and others.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs</p>
+<p>·&nbsp;understand that we strengthen our character when we commit to sound
+values-based viewpoints (e.g. respect for life) and decisions, and speak
+and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -828,10 +734,6 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
@@ -880,13 +782,11 @@ are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
-knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it
-is, how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and risky situations
-in a healthy way.</p>
+<p>·&nbsp;Raise awareness and provide knowledge on:</p>
+<p>a)&nbsp;Infectious diseases (STIs and HIV): what it is, how it spreads,
+how to prevent infection mainly through ABC (abstinence, being faithful,
+correct, and consistent condom use).</p>
+<p>b)&nbsp;Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -897,9 +797,8 @@ in a healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way
-out of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>·&nbsp;Learn to negotiate their way out of a risky situation by applying
+skills of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -909,14 +808,6 @@ decision-making</p>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
