@@ -727,75 +727,145 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jess Neo Jue Shi (i/c)
-<br>Ms Filzatul Azreen Bte Gazali
-<br>Ms Syazwani Binte Md Roslan</p>
-<p>Ms Wong Li Yi Petrina</p>
+<p>Ms Jess Neo Jue Shi (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jess_neo_jue_shi@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">filzatul_azreen_gazali@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>364</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Filzatul Azreen Bte Gazali</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">filzatul_azreen_gazali@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>407</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Syazwani Binte Md Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>342</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Li Yi Petrina</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_li_yi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>364
-<br>407
-<br>342</p>
 <p>324</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>National Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eu Lee Chung Don (i/c)
-<br>Mr Lai Rher Wei
-<br>Mr Tay Jun Keat</p>
-<p>Mr Woo Kwong Hui</p>
+<p>Mr Eu Lee Chung Don (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">eu_lee_chung@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">aaron_wong_whye_kit@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">lai_rher_wei@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">tay_jun_keat@moe.edu.sg</a>
-</p>
-<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>311
-<br>332
-<br>362</p>
-<p>331</p>
+<p>311</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corps</p>
+<p>Mr Lai Rher Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hong Yi Jacob (i/c)
-<br>Mr Edmund Tan Yong Boon
-<br>Mdm Siti Fatimah Muhammad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hong_yi_jacob_tan@moe.edu.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">edmund_tan_yong_boon@moe.edu.sg</a>
-<br><a href="mailto:siti_fatimah_muhammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fatimah_muhammad@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lai_rher_wei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>340
-<br>369
-<br>TBC</p>
+<p>332</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Jun Keat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_jun_keat@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>362</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Woo Kwong Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>331</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Police Cadet Corps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hong Yi Jacob (i/c)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hong_yi_jacob_tan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>340</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edmund Tan Yong Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">edmund_tan_yong_boon@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>369</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Fatimah Muhammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_fatimah_muhammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fatimah_muhammad@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
