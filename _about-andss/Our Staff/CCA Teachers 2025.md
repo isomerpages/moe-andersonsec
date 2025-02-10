@@ -614,25 +614,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Table Tennis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Kwong Tine Ken (i/c)
-<br>Ms Chua Li Ting
-<br>Mr Wong Teck Hock</p>
+<p>Mr Leong Kwong Tine Ken (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leong_kwong_tine@moe.edu.sg</a>
-<br><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>339</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>346</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Teck Hock</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_teck_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_teck_hock@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>339
-<br>346</p>
 <p>305</p>
 </td>
 </tr>
@@ -933,7 +950,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>365</p>
-<p></p>
 </td>
 </tr>
 <tr>
