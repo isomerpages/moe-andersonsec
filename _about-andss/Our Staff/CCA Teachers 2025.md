@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h4>Clubs</h4>
+<h4><strong><u>Clubs</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Performing Arts</h4>
+<h4><strong><u>Performing Arts</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -224,7 +224,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Anderson Theatre Circle</p>
+<p><strong>Anderson Theatre Circle</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Trixie Goh (i/c)</p>
@@ -263,7 +264,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Band</p>
+<p><strong>Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Shiming Gavin (i/c)</p>
@@ -302,7 +304,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Chinese Dance</p>
+<p><strong>Chinese Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gao Wei Wei (i/c)</p>
@@ -341,7 +344,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Choir</p>
+<p><strong>Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chan Hui Tang Elizabeth (i/c)</p>
@@ -380,7 +384,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Malay Dance</p>
+<p><strong>Malay Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Na’lmmatual Raudah (i/c)</p>
@@ -421,7 +426,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Sports</h4>
+<h4><strong><u>Sports</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -432,21 +437,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p><strong>Ext</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Basketball</p>
+<p><strong>Basketball</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Shoujie Colin (i/c)</p>
@@ -497,7 +507,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Football</p>
+<p><strong>Football</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suranteran s/o Loganathan (i/c)</p>
@@ -550,7 +561,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Netball</p>
+<p><strong>Netball</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mirshasha Bte Mohamed Taib (i/c)</p>
@@ -603,7 +615,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Table Tennis</p>
+<p><strong>Table Tennis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leong Kwong Tine Ken (i/c)
@@ -625,7 +638,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Volleyball</p>
+<p><strong>Volleyball</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Low Mingsheng Benedict (i/c)</p>
@@ -664,7 +678,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Wushu</p>
+<p><strong>Wushu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Neo Eng Hup Edward (i/c)</p>
@@ -703,7 +718,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Uniformed Groups</h4>
+<h4><strong><u>Uniformed Groups</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -714,21 +729,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p><strong>Ext</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Girl Guides</p>
+<p><strong>Girl Guides</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jess Neo Jue Shi (i/c)</p>
@@ -780,7 +800,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>National Cadet Corps</p>
+<p><strong>National Cadet Corps</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eu Lee Chung Don (i/c)</p>
@@ -831,7 +852,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>National Police Cadet Corps</p>
+<p><strong>National Police Cadet Corps</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Hong Yi Jacob (i/c)</p>
@@ -870,8 +892,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Student Council</strong>
-</p>
+<h4><strong><u>Student Council</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -882,34 +903,48 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>Email</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext Number</p>
+<p><strong>Ext</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Student Council (2nd CCA)</p>
+<td rowspan="2" colspan="1">
+<p><strong>Student Council (2nd CCA)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chia Yi Kang Jason (i/c)</p>
-<p>Ms Chua Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chia_yi_kang_jason@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>365</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ting@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>365</p>
 <p>346</p>
 </td>
 </tr>
