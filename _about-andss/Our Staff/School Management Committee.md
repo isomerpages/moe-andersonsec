@@ -14,8 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Leaders</strong>
-</p>
+<h4><strong>School Leaders</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,8 +99,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Department Head</strong>
-</p>
+<h4><strong>Department Heads</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -265,8 +263,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Heads</strong>
-</p>
+<h4><strong>Year Heads</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -334,8 +331,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Heads</strong>
-</p>
+<h4><strong>Subject Heads</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -450,8 +446,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Managers</strong>
-</p>
+<h4><strong>Managers</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

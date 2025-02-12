@@ -35,7 +35,7 @@ variant: tiptap
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Angeline_Stella_Veerandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Angeline_Stella_Veerandran@moe.edu.sg</a>
+<p><a href="mailto:Angeline_Stella_Veerandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angeline_Stella_Veerandran@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +80,7 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_yi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_yi_jie@moe.edu.sg</a>
+<p><a href="mailto:Ng_yi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yi_jie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ variant: tiptap
 <p>Education &amp; Career Guidance (ECG) Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ang_zhaoliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_zhaoliang@moe.edu.sg</a>
+<p><a href="mailto:Ang_zhaoliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhaoliang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
