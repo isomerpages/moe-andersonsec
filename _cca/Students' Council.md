@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <p><strong>Anderson Student Council – ‘To Lead, To Care, To Serve’</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_1.png">
+</div>
 <p>
 <br>Anderson Student Council (ASC) is a family of student leaders that work
 together to enliven the school experience through signature initiatives
@@ -38,9 +43,32 @@ humility and give back to the school community.</p>
 more updates!</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Highlights of 2024</strong>
 </p>
 <p></p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_4.png">
+</div>
+<p></p>
+<p></p>
+<p><strong>Highlights from Secondary 1 Orientation 2025</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_7.png">
+</div>
+<p></p>
