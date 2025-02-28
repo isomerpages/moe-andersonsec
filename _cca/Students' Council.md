@@ -4,8 +4,7 @@ permalink: /cca/sc/
 description: ""
 variant: tiptap
 ---
-<p><strong>Anderson Student Council – ‘To Lead, To Care, To Serve’</strong>
-</p>
+<h4><strong>Anderson Student Council – ‘To Lead, To Care, To Serve’</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
