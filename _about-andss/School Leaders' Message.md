@@ -4,7 +4,6 @@ permalink: /about-andss/school-leaders-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <p>2025 marks the 65th anniversary of our school’s founding. Over the many
 years of our history, Anderson Secondary School has produced many graduates
 whom we are proud of – not just due to their achievements, but more importantly,
@@ -40,6 +39,7 @@ times, thereby perpetuating a virtuous circle of positivity and graciousness.</p
 <p>As we celebrate together this year, we will affirm the warm memories that
 bind us together, and look ahead to the growth that is still to come for
 all our Andersonians.</p>
+<p></p>
 <p>With Constancy and Purpose,</p>
 <p>ANDSS School Leaders</p>
 <p>[Ms Tan Po Chin (Principal), Mr Eugene Lee (VP1), Mr Shahreen Aman (VP(A))]</p>
