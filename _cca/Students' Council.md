@@ -2,10 +2,9 @@
 title: Students' Council
 permalink: /cca/sc/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Anderson Student Council – ‘To Lead, To Care, To Serve’</strong></h4>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASC/Council_1.png">
