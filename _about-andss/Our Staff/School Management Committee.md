@@ -288,7 +288,7 @@ variant: tiptap
 <p>Mr&nbsp;Chan Wee Xian Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_wee_xian_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wee_xian_eugene@moe.edu.sg</a>
