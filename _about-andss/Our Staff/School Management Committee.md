@@ -312,7 +312,7 @@ variant: tiptap
 <p>Mdm Nur Fadilah Binte Yusran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Secondary)</p>
+<p>Assistant Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_fadilah_yusran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_fadilah_yusran@moe.edu.sg</u></a>
