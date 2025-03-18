@@ -206,6 +206,21 @@ variant: tiptap
 <p>336</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Irsyad Zabir Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">irsyad_zabir_hassan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -362,21 +377,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>325</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Juliana Teo Kim Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kim_hoon_juliana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kim_hoon_juliana@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>326</p>
 </td>
 </tr>
 <tr>
@@ -905,6 +905,21 @@ variant: tiptap
 <p>305</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Wei Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wei_chee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -1268,6 +1283,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kek Ai Kiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kek_ai_kiew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_ai_kiew@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>371</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Liew Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1275,21 +1305,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liew_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_chee_keong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Low Pei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TSO, Science Laboratory</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Sim_Pei_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_pei_ying@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1576,21 +1591,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Syazwani Bte Md Roslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_mohamad_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>342</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhang Liya</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1602,6 +1602,50 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>353</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xuan Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">xuan_xuan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>371</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loy Chee Khiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese LanguageTeacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">loy_chee_khiang@moe.edu.sg</a> &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Joke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chew_joke@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>361</p>
 </td>
 </tr>
 </tbody>
