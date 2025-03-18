@@ -1624,7 +1624,7 @@ variant: tiptap
 <p>Mr Loy Chee Khiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher, Chinese LanguageTeacher, Chinese Language</p>
+<p>Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">loy_chee_khiang@moe.edu.sg</a> &nbsp;</p>
@@ -1638,7 +1638,7 @@ variant: tiptap
 <p>Mdm Chew Joke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chew_joke@moe.edu.sg</a>
