@@ -163,6 +163,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Irsyad Zabir Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">irsyad_zabir_hassan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohd Nazarudin Masduki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,21 +219,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>336</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Irsyad Zabir Hassan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">irsyad_zabir_hassan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -814,6 +814,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chan Wei Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wei_chee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>306</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Colin Chen Shou Jie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -945,21 +960,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>305</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Wei Chee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_wei_chee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
 </td>
 </tr>
 <tr>
@@ -1263,6 +1263,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Kek Ai Kiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kek_ai_kiew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_ai_kiew@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>371</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lum Yoke Wah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1349,21 +1364,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>329</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kek Ai Kiew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kek_ai_kiew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kek_ai_kiew@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>371</p>
 </td>
 </tr>
 <tr>
@@ -1540,6 +1540,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chew Joke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chew_joke@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>361</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Chin-Liu Yirui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1615,6 +1630,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Loy Chee Khiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">loy_chee_khiang@moe.edu.sg</a> &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>326</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rafidah Bte Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1660,21 +1689,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suziyanti Binte Jepto</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suziyanti_jepto_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suziyanti_jepto_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>309</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhang Liya</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1701,35 +1715,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>371</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loy Chee Khiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loy_chee_khiang@moe.edu.sg</a> &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>326</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chew Joke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chew_joke@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>361</p>
 </td>
 </tr>
 <tr>
