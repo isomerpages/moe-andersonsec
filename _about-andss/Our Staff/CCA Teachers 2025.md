@@ -171,14 +171,14 @@ variant: tiptap
 <p>Science Academy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Xin Hui (i/c)</p>
+<p>Mr Ang Chip Seng (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_xin_hui@moe.edu.sg</a>
+<p><a href="mailto:ang_chip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chip_seng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>235</p>
+<p>309</p>
 </td>
 </tr>
 <tr>
@@ -252,14 +252,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chip Seng</p>
+<p>Ms Chia Wai Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chip_seng@moe.edu.sg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>228</p>
+<p>303</p>
 </td>
 </tr>
 <tr>
@@ -560,7 +560,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Netball</strong>
 </p>
 </td>
@@ -599,18 +599,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>359</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Wai Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>330</p>
 </td>
 </tr>
 <tr>
