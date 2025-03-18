@@ -137,6 +137,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kek Ai Kiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kek_ai_kiew@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>371</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -467,6 +482,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mary Charles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mary_charles_b@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>341</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -507,7 +537,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>35</p>
+<p>353</p>
 </td>
 </tr>
 <tr>
@@ -671,7 +701,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>309</p>
 </td>
 </tr>
 <tr>
@@ -781,21 +811,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Soo Jun Hui Angeline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soo_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soo_jun_hui@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>220</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -896,21 +911,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>332</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Chan Wee Xian Eugene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wee_xian_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_wee_xian_eugene@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>381</p>
 </td>
 </tr>
 <tr>
