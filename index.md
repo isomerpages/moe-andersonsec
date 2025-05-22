@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website photo/65th.gif
+      background: /images/Website photo/banner_200525.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +18,7 @@ sections:
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
+        - title: Photos
+          description: ""
+          url: https://flic.kr/ps/2JNpy9
 ---
