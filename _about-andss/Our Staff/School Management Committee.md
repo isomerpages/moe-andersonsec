@@ -297,6 +297,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Syazwani Bte Md Roslan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_mohamad_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohd Alfin s/o Habib Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -407,6 +419,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wenhui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mirshasha Bte Mohd Taib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mirshasha_mohamed_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mirshasha_mohamed_taib@moe.edu.sg</a>
 </p>
 </td>
 </tr>
