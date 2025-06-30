@@ -1020,21 +1020,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Kok Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>low_kok_ming@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>352</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
