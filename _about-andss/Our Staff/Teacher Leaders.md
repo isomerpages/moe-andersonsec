@@ -119,21 +119,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Kok Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_kok_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low_kok_ming@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>352</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Noorlizasabariah Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
