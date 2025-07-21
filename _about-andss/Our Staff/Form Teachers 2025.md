@@ -574,21 +574,6 @@ variant: tiptap
 <p>2R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Shi Ying, Amos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_ying_amos@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>358</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2R</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Pamela Priya Raj</p>
 </td>
 <td rowspan="1" colspan="1">
