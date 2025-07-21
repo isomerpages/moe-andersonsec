@@ -166,7 +166,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Science Academy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,18 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>309</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Shi Ying, Amos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_shi_ying_amos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_shi_ying_amos@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>358</p>
 </td>
 </tr>
 <tr>
