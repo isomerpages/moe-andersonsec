@@ -35,7 +35,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Xin Hui (i/c)</p>
-<p>Mr Ng Shi Ying Amos</p>
 <p>Ms Chia Wai Yee (Term 2 onwards)</p>
 </td>
 </tr>
