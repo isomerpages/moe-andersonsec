@@ -20,5 +20,5 @@ sections:
           url: https://www.instagram.com/andersonsecsch/
         - title: Photos
           description: ""
-          url: https://flic.kr/ps/2JNpy9
+          url: https://www.flickr.com/photos/114070398@N08/albums/
 ---
