@@ -2,6 +2,7 @@
 title: Mission and Values
 permalink: /about-andss/mission-and-values/
 description: ""
+variant: markdown
 ---
 **Vision**
 
@@ -13,8 +14,8 @@ Developing and inspiring in all Andersonians a sense of purpose and constancy to
 
 <table>
   <tbody><tr>
-    <th>Thinker</th>
-    <th>Innovator</th>
+    <th>Thinkers</th>
+    <th>Innovators</th>
     <th>Leaders</th>
   </tr>
   <tr>
