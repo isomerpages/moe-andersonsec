@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Secondary 1 |  |  |
 | -------- | -------- | -------- |
-|[Secondary 1 2025 Textbook List](/files/Textbook/2024/S1_04_11_2024.pdf)|
+|To be updated|
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
@@ -31,4 +31,5 @@ variant: markdown
 [PE attire order form](/files/Textbook/2025/PE_ATTIRE_ORDER_FORM_w_9__GST_27_10_2025.pdf)
 
 
-[Uniform purchase instructions](/files/Textbook/2024/Anderson_Secondary_sale_schedule_EY24_____.pdf)
+
+[Uniform Purchase Instruction](/files/Textbook/2025/Anderson_Secondary_sale_schedule_EY25_____.pdf)
