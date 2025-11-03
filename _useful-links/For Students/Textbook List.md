@@ -28,8 +28,9 @@ variant: markdown
 | -------- | -------- | -------- |
 |[Secondary 5 Normal Academic 2026 Textbook List](/files/Textbook/2025/S5_NA_27_10_2025.pdf)|
 
+----------------------------------------------------------------------------------------------------------
+[Textbook sale schedule 2025](/files/Textbook/2025/Pacific_Bookstores_Nov_2025_Year_end_sale.pdf)
+
 [PE attire order form](/files/Textbook/2025/PE_ATTIRE_ORDER_FORM_w_9__GST_27_10_2025.pdf)
-
-
 
 [Uniform Purchase Instruction](/files/Textbook/2025/Anderson_Secondary_sale_schedule_EY25_____.pdf)
