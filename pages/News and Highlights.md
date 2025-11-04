@@ -9,9 +9,3 @@ variant: tiptap
 <p></p>
 <p><a href="/files/News and highlights/The_Anderson_Experience.pdf" rel="noopener noreferrer nofollow" target="_blank">The Anderson Experience</a>
 </p>
-<p></p>
-<p><a href="/files/Temp/2024 N level/2024_N_Level_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2024_N_Level_Briefing_Slides</a>
-</p>
-<p></p>
-<p><a href="/files/Temp/2024 Year End/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides for Students</a>
-</p>
