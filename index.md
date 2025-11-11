@@ -4,7 +4,7 @@ title: Anderson Secondary
 description: Brief site description here
 image: /images/homepage_school logo.png
 permalink: /
-notification: ""
+notification: E-OPEN House 2025 Link https://360.theredmarker.com/F1ndeikORy
 sections:
   - hero:
       background: /images/Website photo/Banner_111125.gif
