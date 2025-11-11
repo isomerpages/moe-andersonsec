@@ -44,4 +44,4 @@ Secondary School Participants
 Guest of Honor : Ms Irene Tan (Principal Master Teacher Chemistry, Vice Chairman of Science Teachers’ Association,  Vice Chairman , Singapore Association for the Advancement of Science
 
 ![Elementz_8.jpg](/images/Elementz%202025/Elementz_8.jpg)
-Judging Panel Representative: Dr Lim Kim Yong (Associate Scientific Director of National University of Singapore) 
+Judging Panel Representative: Dr Lim Kim Yong (Associate Scientific Director of National University of Singapore)
