@@ -21,4 +21,6 @@ sections:
         - title: Photos
           description: ""
           url: https://www.flickr.com/photos/114070398@N08/albums/
+      button: E-open house
+      url: https://360.theredmarker.com/F1ndeikORy
 ---
