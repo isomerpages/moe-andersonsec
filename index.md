@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website photo/Banner_111125.gif
+      background: /images/Website photo/121125Banner.gif
       key_highlights:
         - title: E-Open House 2025
           description: ""
