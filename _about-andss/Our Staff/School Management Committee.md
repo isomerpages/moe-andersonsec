@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mr Eugene Lee Chun Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal 2</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eugene_lee_chun_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_lee_chun_yang@moe.edu.sg</a>
