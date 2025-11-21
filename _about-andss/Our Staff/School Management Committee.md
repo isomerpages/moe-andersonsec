@@ -48,18 +48,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tuck Hway Jonah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_tuck_hway@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tuck_hway@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Eugene Lee Chun Yang</p>
 </td>
 <td rowspan="1" colspan="1">
