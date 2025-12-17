@@ -12,7 +12,7 @@ carefully. Should you have any questions, you may WhatsApp us at 6470 8433.</p>
 <p></p>
 <p><strong><u>1. Welcome Message by Principal</u></strong>
 </p>
-<p><a href="/files/Temp/2024 Year End/2025_Sec_1_Principal_s_Welcome_Message.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Principal's Welcome Message</a>
+<p><a href="/files/Temp/2025 Year End/1__2026_Sec_1_Principal_s_Welcome_Message.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Principal's Welcome Message</a>
 </p>
 <p></p>
 <p><strong><u>2. Registration Link</u></strong>
@@ -23,26 +23,23 @@ transfer, must submit the completed registration form by 22 December 2025,
 3.00 pm. Please click on this link to access the registration form: <a href="https://go.gov.sg/s1reg26andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1reg26andss</a>
 </p>
 <p>QR code</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for S1 Registration" src="/images/Temp photo/2b__QR_Code_for_S1_Registration.png">
+</div>
 <p><strong><u>3. Academic Matters</u></strong>
 </p>
 <p>a) FSBB Matters</p>
-<p><a href="/files/Temp/2024 Year End/Full_Subject_Based_Banding__FSBB__Information__2024_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (2024)</a>
+<p><a href="/files/Temp/2025 Year End/3a__Full_Subject_Based_Banding__FSBB__Information__for_2026_Sec_1_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (for 2026 Sec 1)</a>
 </p>
 <p>b) Third Lang and HMTL Matters</p>
-<p><a href="/files/Temp/2024 Year End/Form_5___AsLFL__Application_to_offer_Asian_Lang_Foreign_Lang_.pdf" rel="noopener nofollow" target="_blank">Form 5 - AsLFL (Application to offer Asian Lang Foreign Lang)</a>
+<p><a href="/files/Temp/2025 Year End/3b1__Higher_Mother_Tongue_Languages_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Higher Mother Tongue Languages for 2026 Sec 1</a>
 </p>
-<p><a href="/files/Temp/2024 Year End/Higher_Mother_Tongue_Languages.pdf" rel="noopener nofollow" target="_blank">Higher Mother Tongue Languages</a>
+<p><a href="/files/Temp/2025 Year End/3b2__Third_Language__Foreign_Language__Exemption_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Third Language, Foreign Language, Exemption for 2026 Sec 1</a>
 </p>
-<p><a href="/files/Temp/2024 Year End/Third_Language__Foreign_Language__Exemption.pdf" rel="noopener nofollow" target="_blank">Third Language, Foreign Language, Exemption</a>
+<p><a href="/files/Temp/2025 Year End/3b3__Form_5___AsLFL__Application_to_offer_Asian_Lang_Foreign_Lang_.pdf" rel="noopener nofollow" target="_blank">Form 5 - AsLFL (Application to offer Asian Lang Foreign Lang)</a>
 </p>
 <p>c) Art Elective Prog and Music Elective Prog Matters</p>
-<p><a href="/files/Temp/2024 Year End/1a__AEP_and_MEP_Slides_for_Parents.pdf" rel="noopener nofollow" target="_blank">1a. AEP and MEP Slides for Parents</a>
-</p>
-<p><a href="/files/Temp/2024 Year End/1b__AEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1b. AEP Annex and Information Package</a>
-</p>
-<p><a href="/files/Temp/2024 Year End/1c__MEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">1c. MEP Annex and Information Package</a>
-</p>
+<p></p>
 <p></p>
 <p><strong><u>4. Purchase of Uniform, PE Attire and Books</u></strong>
 </p>
