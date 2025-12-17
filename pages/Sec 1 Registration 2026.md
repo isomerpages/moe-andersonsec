@@ -39,7 +39,12 @@ transfer, must submit the completed registration form by 22 December 2025,
 <p><a href="/files/Temp/2025 Year End/3b3__Form_5___AsLFL__Application_to_offer_Asian_Lang_Foreign_Lang_.pdf" rel="noopener nofollow" target="_blank">Form 5 - AsLFL (Application to offer Asian Lang Foreign Lang)</a>
 </p>
 <p>c) Art Elective Prog and Music Elective Prog Matters</p>
-<p></p>
+<p><a href="/files/Temp/2025 Year End/3c1__2026_AEP_and_MEP_Centre_Briefing_Slides__for_parents_.pdf" rel="noopener nofollow" target="_blank">2026 AEP and MEP Centre Briefing Slides (for parents)</a>
+</p>
+<p><a href="/files/Temp/2025 Year End/3c2__AEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">AEP Annex and Information Package</a>
+</p>
+<p><a href="/files/Temp/2025 Year End/3c3__MEP_Annex_and_Information_Package.pdf" rel="noopener nofollow" target="_blank">MEP Annex and Information Package</a>
+</p>
 <p></p>
 <p><strong><u>4. Purchase of Uniform, PE Attire and Books</u></strong>
 </p>
@@ -48,12 +53,11 @@ Bookstores Pte Ltd's website at <a href="http://www.pacificbookstores.com" rel="
 via walk-in at the school bookshop on the following dates:</p>
 <p>- 19, 22, 23, 26 Dec (from 9am to 12noon, and 1pm to 3pm)</p>
 <p>- 20 Dec (from 9am to 11am)</p>
-<p><a href="/files/Temp/2024 Year End/PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
+<p><a href="/files/Temp/2025 Year End/4a__PE_Attire_Order_Form.pdf" rel="noopener nofollow" target="_blank">PE Attire Order Form</a>
 </p>
-<p><a href="/files/Temp/2024 Year End/S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">S1 Booklist 2025</a>
+<p><a href="/files/Temp/2025 Year End/4b__Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
 </p>
-<p><a href="/files/Temp/2024 Year End/Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
-</p>
+<p></p>
 <p></p>
 <p><strong><u>5. Finance Matters</u></strong>
 </p>
