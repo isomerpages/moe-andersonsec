@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Website photo/211125_Banner.gif
       key_highlights:
-        - title: E-Open House 2025
+        - title: Announcements
           description: ""
-          url: https://360.theredmarker.com/F1ndeikORy
+          url: /news-and-highlights
         - title: Facebook
           description: ""
           url: https://www.facebook.com/andersonsecsch/
