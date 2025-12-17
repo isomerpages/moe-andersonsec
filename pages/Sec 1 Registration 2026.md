@@ -94,7 +94,7 @@ year. Transfer will be subject to available vacancies and the school’s
 admission criteria. Please click on this link to access the appeal form:
 <a href="https://go.gov.sg/s1appeal26andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1appeal26andss</a>
 </p>
-<p></p>
+<p>QR Code</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="QR Code for S1 Appeal" src="/images/Temp photo/7b__QR_Code_for_S1_Appeal.png">
 </div>
