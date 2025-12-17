@@ -57,7 +57,8 @@ via walk-in at the school bookshop on the following dates:</p>
 </p>
 <p><a href="/files/Temp/2025 Year End/4b__Uniform_Sale_Information.pdf" rel="noopener nofollow" target="_blank">Uniform Sale Information</a>
 </p>
-<p></p>
+<p><a href="/files/Textbook/2025/S1_27_10_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 2026 Textbook list</a>
+</p>
 <p></p>
 <p><strong><u>5. Finance Matters</u></strong>
 </p>
@@ -69,17 +70,19 @@ in a Government or Government-aided school and billed by the school, please
 complete the application using the link: <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
 </p>
 <p>QR Code</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for Use of Edusave Account" src="/images/Temp photo/5a__QR_Code_for_Use_of_Edusave_Account.png">
+</div>
 <p>b) MOE Financial Assistant Scheme</p>
-<p><a href="/files/Temp/2024 Year End/FAS_Information_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">FAS Information Sheet 2025</a>
+<p><a href="/files/Temp/2025 Year End/5b__MOE_FAS_Information_Sheet_2026.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information Sheet 2026</a>
 </p>
 <p></p>
-<p><strong><u>6. Start of School 2025</u></strong>
+<p><strong><u>6. Start of School 2026</u></strong>
 </p>
 <p>Please click on this deck of slides for information on reporting for the
 first day of school, the orientation program, as well as attire and grooming
 guidelines</p>
-<p><a href="/files/Temp/2024 Year End/Start_of_School_2025.pdf" rel="noopener nofollow" target="_blank">Start of School 2025</a>
+<p><a href="/files/Temp/2025 Year End/6__Start_of_School_2026_Information.pdf" rel="noopener nofollow" target="_blank">Start of School 2026 Information</a>
 </p>
 <p></p>
 <p><strong><u>7. Appeal for School Transfer</u></strong>
@@ -91,5 +94,9 @@ year. Transfer will be subject to available vacancies and the school’s
 admission criteria. Please click on this link to access the appeal form:
 <a href="https://go.gov.sg/s1appeal26andss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1appeal26andss</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="QR Code for S1 Appeal" src="/images/Temp photo/7b__QR_Code_for_S1_Appeal.png">
+</div>
 <p>Please submit your appeals by 22 December 2025, 3.00 pm. Only shortlisted
 applicants will be contacted via email/call from 31 December 2025.</p>
