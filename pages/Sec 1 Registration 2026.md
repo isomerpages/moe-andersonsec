@@ -59,6 +59,122 @@ via walk-in at the school bookshop on the following dates:</p>
 </p>
 <p><a href="/files/Textbook/2025/S1_27_10_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 2026 Textbook list</a>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>For Girls</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>For Boys</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Attire Item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recommended Minimum to Purchase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Attire Item</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recommended Minimum to Purchase</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>White Blouse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White Shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pinafore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skort (Skirt with Shorts)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE T-shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE T-shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Tie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Tie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><u>5. Finance Matters</u></strong>
 </p>
