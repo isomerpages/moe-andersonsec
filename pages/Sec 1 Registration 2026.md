@@ -32,7 +32,7 @@ transfer, must submit the completed registration form by 22 December 2025,
 <p><a href="/files/Temp/2025 Year End/3a__Full_Subject_Based_Banding__FSBB__Information__for_2026_Sec_1_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (for 2026 Sec 1)</a>
 </p>
 <p>b) Third Lang and HMTL Matters</p>
-<p><a href="/files/Temp/2025 Year End/3b1__Higher_Mother_Tongue_Languages_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank"> Higher Mother Tongue Languages for 2026 Sec 1</a>
+<p><a href="/files/Temp/2025 Year End/3b1__Higher_Mother_Tongue_Languages_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Higher Mother Tongue Languages for 2026 Sec 1</a>
 </p>
 <p><a href="/files/Temp/2025 Year End/3b2__Third_Language__Foreign_Language__Exemption_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Third Language, Foreign Language, Exemption for 2026 Sec 1</a>
 </p>
@@ -189,7 +189,7 @@ complete the application using the link: <a href="https://form.gov.sg/68511c58e8
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="QR Code for Use of Edusave Account" src="/images/Temp photo/5a__QR_Code_for_Use_of_Edusave_Account.png">
 </div>
-<p>b) MOE Financial Assistant Scheme</p>
+<p>b) MOE Financial Assistance Scheme</p>
 <p><a href="/files/Temp/2025 Year End/5b__MOE_FAS_Information_Sheet_2026.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information Sheet 2026</a>
 </p>
 <p></p>
