@@ -9,16 +9,16 @@ sections:
   - hero:
       background: /images/Website photo/211125_Banner.gif
       key_highlights:
-        - title: E-Open House 2025
+        - title: Announcements
           description: ""
-          url: https://360.theredmarker.com/F1ndeikORy
+          url: /news-and-highlights
         - title: Facebook
           description: ""
           url: https://www.facebook.com/andersonsecsch/
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
-        - title: Photos
+        - title: Sec 1 Registration 2026
           description: ""
-          url: https://www.flickr.com/photos/114070398@N08/albums/
+          url: /sec-1-registration/
 ---

@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Secondary 1 |  |  |
 | -------- | -------- | -------- |
-|To be updated|
+|[Secondary 1 2026 Textbook list](/files/Textbook/2025/S1_27_10_2025.pdf)|
 
 | Secondary 2 |  |  |
 | -------- | -------- | -------- |
