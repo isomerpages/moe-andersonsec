@@ -189,7 +189,7 @@ complete the application using the link: <a href="https://form.gov.sg/68511c58e8
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="QR Code for Use of Edusave Account" src="/images/Temp photo/5a__QR_Code_for_Use_of_Edusave_Account.png">
 </div>
-<p>b) MOE Financial Assistant Scheme</p>
+<p>b) MOE Financial Assistance Scheme</p>
 <p><a href="/files/Temp/2025 Year End/5b__MOE_FAS_Information_Sheet_2026.pdf" rel="noopener nofollow" target="_blank">MOE FAS Information Sheet 2026</a>
 </p>
 <p></p>
