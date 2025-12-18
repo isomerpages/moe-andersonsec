@@ -32,7 +32,7 @@ transfer, must submit the completed registration form by 22 December 2025,
 <p><a href="/files/Temp/2025 Year End/3a__Full_Subject_Based_Banding__FSBB__Information__for_2026_Sec_1_.pdf" rel="noopener nofollow" target="_blank">Full Subject Based Banding (FSBB) Information (for 2026 Sec 1)</a>
 </p>
 <p>b) Third Lang and HMTL Matters</p>
-<p><a href="/files/Temp/2025 Year End/3b1__Higher_Mother_Tongue_Languages_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Higher Mother Tongue Languages for 2026 Sec 1</a>
+<p><a href="/files/Temp/2025 Year End/3b1__Higher_Mother_Tongue_Languages_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank"> Higher Mother Tongue Languages for 2026 Sec 1</a>
 </p>
 <p><a href="/files/Temp/2025 Year End/3b2__Third_Language__Foreign_Language__Exemption_for_2026_Sec_1.pdf" rel="noopener nofollow" target="_blank">Third Language, Foreign Language, Exemption for 2026 Sec 1</a>
 </p>
