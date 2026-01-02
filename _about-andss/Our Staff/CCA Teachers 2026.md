@@ -93,7 +93,7 @@ variant: tiptap
 <p>Infocomm Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Wei Chuen Gary (i/c)</p>
+<p>Mr Tang Wei Chuen, Gary (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tang_wei_chuen_gary@moe.edu.sg</a>
