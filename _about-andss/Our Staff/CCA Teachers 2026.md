@@ -226,7 +226,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Anderson Theatre Circle</strong>
 </p>
 </td>
@@ -266,19 +266,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mr Choo Li Zhi, Shaun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Choo_Li_Zhi_Shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Choo_Li_Zhi_Shaun@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>Band</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Shiming Gavin (i/c)</p>
+<p>Mdm Aw Sean Ling (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shiming_gavin_goh@moe.edu.sg</a>
+<p><a href="mailto:aw_sean_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aw_sean_ling@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>393</p>
+<p>301</p>
 </td>
 </tr>
 <tr>
@@ -303,6 +315,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>337</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Wenxiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Wenxiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Tan_Wenxiang@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -363,26 +387,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aminurashid Bin Juma’at</p>
+<p>Ms Pek Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aminurashid_bin_jumaat@moe.edu.sg</a>
+<p><a href="mailto:pek_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pek_jia_hui@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>361</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Wong Whye Kit</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aaron_wong_whye_kit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aaron_wong_whye_kit@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>317</p>
+<p></p>
 </td>
 </tr>
 <tr>
