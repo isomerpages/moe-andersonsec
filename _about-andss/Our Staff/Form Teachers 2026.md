@@ -273,8 +273,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -530,7 +528,7 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Chang Hup</p>
+<p>Mr Cheng Chang Hup, Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_chang_hup@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_chang_hup@moe.edu.sg</a>
@@ -538,21 +536,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>325</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2R</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Priya Raj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>pamela_priya@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>306</p>
 </td>
 </tr>
 <tr>
@@ -587,7 +570,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -781,36 +763,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Liu Yirui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_yirui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yirui@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>354</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Eythan Ong Tzeng Junn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eythan_ong_tzeng_junn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eythan_ong_tzeng_junn@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>328</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -901,7 +853,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -1229,7 +1180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan WenXiang</p>
