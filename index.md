@@ -18,7 +18,7 @@ sections:
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
-        - title: Sec 1 Registration 2026
+        - title: Flickr
           description: ""
-          url: /sec-1-registration/
+          url: https://www.flickr.com/photos/114070398@N08/albums/
 ---
