@@ -551,7 +551,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Chang Hup</p>
+<p>Mr Cheng Chang Hup, Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_chang_hup@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_chang_hup@moe.edu.sg</u></a>
@@ -820,7 +820,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Woo Kwong Hui</p>
+<p>Mr Woo Kwong Hui, Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
