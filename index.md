@@ -18,7 +18,7 @@ sections:
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
-        - title: Flickr
+        - title: PHOTOS
           description: ""
           url: https://www.flickr.com/photos/114070398@N08/albums/
 ---
