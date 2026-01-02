@@ -155,7 +155,7 @@ variant: tiptap
 <p>1N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Woo Kwong Hui Jacob</p>
+<p>Mr Woo Kwong Hui, Jacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woo_kwong_hui@moe.edu.sg</u></a>
@@ -661,7 +661,7 @@ variant: tiptap
 <p>3T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kuan Yick Arthur</p>
+<p>Mr Lim Kuan Yick, Arthur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>lim_kuan_yick_arthur@moe.edu.sg</u></a>
@@ -721,7 +721,7 @@ variant: tiptap
 <p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eu Lee Chung Don</p>
+<p>Mr Eu Lee Chung, Don</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>eu_lee_chung@moe.edu.sg</u></a>
@@ -781,7 +781,7 @@ variant: tiptap
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Shengwei Andrew</p>
+<p>Mr Ong Shengwei, Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_shengwei_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_shengwei_andrew@moe.edu.sg</a>
@@ -1168,7 +1168,7 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Wei Chuen Gary</p>
+<p>Mr Tang Wei Chuen, Gary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>tang_wei_chuen_gary@moe.edu.sg</u></a>
