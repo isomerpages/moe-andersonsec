@@ -409,7 +409,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Malay Dance</strong>
 </p>
 </td>
@@ -436,6 +436,18 @@ variant: tiptap
 <p>409
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Poh Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_poh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>khoo_poh_leng@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
