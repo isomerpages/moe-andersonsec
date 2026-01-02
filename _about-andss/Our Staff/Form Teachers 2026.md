@@ -809,16 +809,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zhong Wanzhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhong_wanzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhong_wanzhen@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>329</p>
 </td>
 </tr>
 <tr>
@@ -1016,16 +1017,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Chip Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_chip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chip_seng@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>309</p>
 </td>
 </tr>
 <tr>
@@ -1033,14 +1035,14 @@ variant: tiptap
 <p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhong Wanzhen</p>
+<p>Ms Syazwani Bte Md Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhong_wanzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zhong_wanzhen@moe.edu.sg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>syazwani_mohamad_roslan@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>329</p>
+<p>342</p>
 </td>
 </tr>
 <tr>
