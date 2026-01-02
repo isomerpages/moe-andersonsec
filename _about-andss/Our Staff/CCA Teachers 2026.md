@@ -751,7 +751,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Girl Guides</strong>
 </p>
 </td>
@@ -780,18 +780,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Syazwani Binte Md Roslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">syazwani_mohamad_roslan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>342</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Li Yi Petrina</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -803,12 +791,24 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>National Cadet Corps</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eu Lee Chung Don (i/c)</p>
+<p>Mr Lai Rher Wei (i/c)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lai_rher_wei@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>332</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eu Lee Chung Don</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">eu_lee_chung@moe.edu.sg</a>
@@ -820,14 +820,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Rher Wei</p>
+<p>Mr Woo Kwong Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lai_rher_wei@moe.edu.sg</a>
+<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>332</p>
+<p>331</p>
 </td>
 </tr>
 <tr>
@@ -844,18 +844,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Woo Kwong Hui</p>
+<p>Mr SAARVIEENRASH RAGUBALAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_kwong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kwong_hui@moe.edu.sg</a>
+<p><a href="mailto:saarvieenrash_ragubalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>saarvieenrash_ragubalan@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>331</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>National Police Cadet Corps</strong>
 </p>
 </td>
@@ -891,7 +891,31 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>320</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Shengwei Andrew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:oh_shengwei_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_shengwei_andrew@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Wei Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chan_wei_chee@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>306</p>
 </td>
 </tr>
 </tbody>
