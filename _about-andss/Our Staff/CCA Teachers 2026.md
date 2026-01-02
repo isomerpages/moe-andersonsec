@@ -51,18 +51,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yu Jia Lin</p>
+<p>Ms Justine Yoong Yuping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:justine_yoong_yuping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>justine_yoong_yuping@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Green Club</p>
+<p>Environmental</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Hui Zheng Shirley (i/c)</p>
@@ -155,14 +156,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Liang Soon, Joshua</p>
+<p>Dr Wang Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">heng_liang_soon@moe.edu.sg</a>
+<p><a href="mailto:wang_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_zhiwei@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>348</p>
+<p>237</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>328</p>
 </td>
 </tr>
 </tbody>
