@@ -1,5 +1,5 @@
 ---
-title: Allied Educators 2025
+title: Allied Educators 2026
 permalink: /about-andss/our-staff/allied-educators-2023/
 description: ""
 third_nav_title: Our Staff
