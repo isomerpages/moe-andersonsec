@@ -208,6 +208,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Calvin Liew Chee Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liew_chee_keong@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Malvin Lim Cheong Beng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1558,17 +1572,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Joke</p>
+<p>Mdm Liu Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chew_joke@moe.edu.sg</a>
-</p>
+<p>liu_li@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>361</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
