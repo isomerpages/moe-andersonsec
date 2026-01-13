@@ -929,7 +929,7 @@ variant: tiptap
 <p>4T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr SAARVIEENRASH RAGUBALAN</p>
+<p>Mr Saarvieenrash s/o Ragubalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saarvieenrash_ragubalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saarvieenrash_ragubalan@moe.edu.sg</a>
