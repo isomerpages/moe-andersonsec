@@ -230,14 +230,14 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Greak Kumar</p>
+<p>Mr Tan WenXiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greak_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greak_kumar@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Wenxiang@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>345</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -1176,21 +1176,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>410</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan WenXiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Wenxiang@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
 </td>
 </tr>
 </tbody>
