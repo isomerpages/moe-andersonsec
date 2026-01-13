@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mr Goh Shiming Gavin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Aesthetics and Technology</p>
+<p>(Covering) Head of Department, Aesthetics and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shiming_gavin_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shiming_gavin_goh@moe.edu.sg</a>
@@ -500,7 +500,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yew Shze ming linda</p>
+<p>Mrs Yew Shze ming Linda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher, English Language</p>
