@@ -1062,6 +1062,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Low Mingsheng Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_mingsheng_benedict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_mingsheng_benedict@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>355</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Leong Kwong Tine Ken</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1073,21 +1088,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>339</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Low Mingsheng Benedict</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_mingsheng_benedict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_mingsheng_benedict@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>355</p>
 </td>
 </tr>
 <tr>
