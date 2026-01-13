@@ -132,6 +132,21 @@ variant: tiptap
 <p>312</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Mingsheng, Benedict</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>low_mingsheng_benedict@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>355</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
