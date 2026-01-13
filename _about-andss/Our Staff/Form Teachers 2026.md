@@ -80,7 +80,7 @@ variant: tiptap
 <p>1T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Li Zhi, Shaun</p>
+<p>Mr Choo Li Zhi Shaun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Choo_Li_Zhi_Shaun@moe.edu.sg</a>
