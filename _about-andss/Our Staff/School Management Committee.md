@@ -109,13 +109,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Lee Yong</p>
+<p>Mr Gavin Goh Shiming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Aesthetics and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lee_yong@moe.edu.sg</a>
+<p><a href="mailto:shiming_gavin_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiming_gavin_goh@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -133,13 +133,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Poh Leng</p>
+<p>Miss Lim Li Qing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, English Language and Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_poh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_poh_leng@moe.edu.sg</a>
+<p><a href="mailto:lim_li_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,13 +169,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Siew Lin</p>
+<p>Mdm Grace Choy Pui Man</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_lin@moe.edu.sg</a>
+<p><a href="mailto:grace_choy_pui_man@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_choy_pui_man@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -205,13 +205,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Indrajit Singh s/o Rundhir S</p>
+<p>Mr Khoo Kian Seong Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:indrajit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indrajit_singh@moe.edu.sg</a>
+<p><a href="mailto:khoo_kian_seong_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -276,7 +276,7 @@ variant: tiptap
 <p>Mr&nbsp;Chan Wee Xian Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Sec 1 &amp; 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_wee_xian_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wee_xian_eugene@moe.edu.sg</a>
@@ -300,7 +300,7 @@ variant: tiptap
 <p>Mr Mohd Alfin s/o Habib Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Sec 2 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_alfin_habib_rahman@moe.edu.sg</a>
