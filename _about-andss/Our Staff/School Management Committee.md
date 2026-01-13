@@ -112,7 +112,7 @@ variant: tiptap
 <p>Mr Gavin Goh Shiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Aesthetics and Technology</p>
+<p>(Covering) Head of Department, Aesthetics and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shiming_gavin_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiming_gavin_goh@moe.edu.sg</u></a>
