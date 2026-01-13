@@ -158,7 +158,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>342</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,8 @@ variant: tiptap
 <p>Technical Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_chee_keong@moe.edu.sg</p>
+<p><a href="mailto:liew_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_chee_keong@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -247,7 +248,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>404</p>
 </td>
 </tr>
 <tr>
@@ -258,10 +259,11 @@ variant: tiptap
 <p>Teacher, Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo_Li_Zhi_Shaun@moe.edu.sg</p>
+<p><a href="mailto:Choo_Li_Zhi_Shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Li_Zhi_Shaun@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>403</p>
 </td>
 </tr>
 </tbody>
@@ -404,7 +406,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>321</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +496,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>363</p>
 </td>
 </tr>
 <tr>
@@ -509,7 +511,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>323</p>
 </td>
 </tr>
 <tr>
@@ -524,7 +526,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>327</p>
 </td>
 </tr>
 </tbody>
@@ -916,20 +918,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>356</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1365,7 +1353,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>328</p>
 </td>
 </tr>
 <tr>
@@ -1391,10 +1379,11 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saarvieenrash_Ragubalan@moe.edu.sg</p>
+<p><a href="mailto:Saarvieenrash_Ragubalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saarvieenrash_Ragubalan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>358</p>
 </td>
 </tr>
 <tr>
@@ -1578,10 +1567,11 @@ variant: tiptap
 <p>Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_li@moe.edu.sg</p>
+<p><a href="mailto:liu_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_li@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>351</p>
 </td>
 </tr>
 <tr>
@@ -1745,7 +1735,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>357</p>
 </td>
 </tr>
 </tbody>
