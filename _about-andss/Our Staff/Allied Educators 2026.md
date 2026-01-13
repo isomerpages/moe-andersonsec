@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Zhaoliang isaac</p>
+<p>Mr Ang Zhaoliang Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance (ECG) Counsellor</p>

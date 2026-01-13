@@ -109,13 +109,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Lee Yong</p>
+<p>Mr Gavin Goh Shiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Aesthetics and Technology</p>
+<p>(Covering) Head of Department, Aesthetics and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lee_yong@moe.edu.sg</a>
+<p><a href="mailto:shiming_gavin_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiming_gavin_goh@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -133,13 +133,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Poh Leng</p>
+<p>Miss Lim Li Qing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, English Language and Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_poh_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_poh_leng@moe.edu.sg</a>
+<p><a href="mailto:lim_li_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,13 +169,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Siew Lin</p>
+<p>Mdm Grace Choy Pui Man</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_lin@moe.edu.sg</a>
+<p><a href="mailto:grace_choy_pui_man@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_choy_pui_man@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -205,13 +205,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Indrajit Singh s/o Rundhir S</p>
+<p>Mr Khoo Kian Seong Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:indrajit_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indrajit_singh@moe.edu.sg</a>
+<p><a href="mailto:khoo_kian_seong_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kian_seong_kenneth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -276,7 +276,7 @@ variant: tiptap
 <p>Mr&nbsp;Chan Wee Xian Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
+<p>Year Head (Sec 1 &amp; 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_wee_xian_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wee_xian_eugene@moe.edu.sg</a>
@@ -300,7 +300,7 @@ variant: tiptap
 <p>Mr Mohd Alfin s/o Habib Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Sec 2 &amp; 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_alfin_habib_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_alfin_habib_rahman@moe.edu.sg</a>
@@ -322,132 +322,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Subject Heads</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Loo Huang Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_huang_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Xin Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_xin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_xin_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Wang Zhi Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhiwei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Pamela Priya Raj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, English Language &nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pamela_priya@moe.edu.sg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Goh Wenhui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wenhui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mirshasha Bte Mohd Taib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mirshasha_mohamed_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mirshasha_mohamed_taib@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Goh Shiming, Gavin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shiming_gavin_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shiming_gavin_goh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Yan Mui Dolly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Student Well-being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yan_mui_dolly@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
