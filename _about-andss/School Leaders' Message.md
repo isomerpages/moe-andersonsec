@@ -4,7 +4,7 @@ permalink: /about-andss/school-leaders-message/
 description: ""
 variant: tiptap
 ---
-<p>2025 marks the 65th anniversary of our school’s founding. Over the many
+<p>2025 marked the 65th anniversary of our school’s founding. Over the many
 years of our history, Anderson Secondary School has produced many graduates
 whom we are proud of – not just due to their achievements, but more importantly,
 because of their contributions to society. Some continue to serve the school
@@ -15,14 +15,14 @@ business enterprises that add value to our nation and even globally.</p>
 we always return to the fundamental building blocks of human society –
 good character and sound values. Mahatma Gandhi spoke about the danger
 of “knowledge without character”. Indeed, a highly intelligent and competent
-individual without a strong moral compass can unleash much harm on those
+individual without a steady moral compass can unleash much harm on those
 around him. A humble individual with a deep sense of other-directed purpose
 and positive dispositions can, conversely, improve society, and/or influence
 many others to change society for the better. It is ultimately our hope
 that our Andersonians truly live out the values embodied by our emblem,
 the unassuming and useful bamboo, and use their strengths, talents and
 interests to serve others to make a difference for the greater good.</p>
-<p>The theme of our 65th anniversary is “Warm Memories, Growing Together”.
+<p>The theme of our 65th anniversary was “Warm Memories, Growing Together”.
 Just as the bamboo grows in colonies rather than individually, Andersonians
 lean on one another to grow together. Even as we hope to make an impact
 on larger society, we recognise that we too are an important community
@@ -36,10 +36,12 @@ as resilient learners. We are glad to have heard from members of public,
 other colleagues in the fraternity, and our students themselves about how
 Andersonians have shown heart for others, even during difficult or challenging
 times, thereby perpetuating a virtuous circle of positivity and graciousness.</p>
-<p>As we celebrate together this year, we will affirm the warm memories that
-bind us together, and look ahead to the growth that is still to come for
-all our Andersonians.</p>
-<p></p>
+<p>We recognise that the larger landscape is ever-changing, with global issues
+and Artificial Intelligence evolving day by day. Our aim is to guide our
+students to thrive in this landscape with constancy and purpose, and we
+believe that they will be able to do so with the strong values, robust
+social networks and sense of meaning they will acquire during their time
+with us in Anderson.</p>
 <p>With Constancy and Purpose,</p>
 <p>ANDSS School Leaders</p>
 <p>[Ms Tan Po Chin (Principal), Mr Eugene Lee (VP1), Mr Shahreen Aman (VP(A))]</p>
