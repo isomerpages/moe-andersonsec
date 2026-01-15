@@ -1,8 +1,9 @@
 ---
-title: Art Theatre Club
+title: Anderson Theatre Circle
 permalink: /cca/performing-arts/atc/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
 ![](/images/IMG_0292_ATC.jpg)
 
