@@ -45,7 +45,8 @@ variant: tiptap
 <p>Art Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hairol Mohamed Hossain (IC)
+<p>Hairol Mohamed Hossain (IC)</p>
+<p>
 <br>Justine Yoong</p>
 </td>
 </tr>
@@ -60,7 +61,8 @@ variant: tiptap
 <p>Mobile Robotics Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Hui Zheng Shirley (IC)
+<p>Ho Hui Zheng Shirley (IC)</p>
+<p>
 <br>Ching Siow Eik Sibyl</p>
 </td>
 </tr>
@@ -72,12 +74,14 @@ variant: tiptap
 <p>Mon (3.30 - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">AND.TECH</a>
-<br>Hall PA Room</p>
+<p>AND.TECH</p>
+<p>Hall PA Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Wei Chuen Gary (IC)
-<br>Chia Yi Kang Jason
+<p>Tang Wei Chuen Gary (IC)</p>
+<p>
+<br>Chia Yi Kang Jason</p>
+<p>
 <br>Venotni d/o Retnam</p>
 </td>
 </tr>
@@ -90,14 +94,16 @@ variant: tiptap
 <br>Wed (3.30 - 6.00pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">AND.ART</a>
-<br>AND.SEACH
+<p>AND.ART</p>
+<p>AND.SEARCH
 <br>AND2
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Chew Yen Jasmine (IC)
-<br>Lim Kelvin
+<p>Lim Chew Yen Jasmine (IC)</p>
+<p>
+<br>Lim Kelvin</p>
+<p>
 <br>Wang Zhiwei</p>
 </td>
 </tr>
@@ -133,9 +139,12 @@ variant: tiptap
 <p>BlackBox</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Piak Yun Trixie (IC)
-<br>Low Hui Ying
-<br>Chia Wai Yee
+<p>Ong Piak Yun Trixie (IC)</p>
+<p>
+<br>Low Hui Ying</p>
+<p>
+<br>Chia Wai Yee</p>
+<p>
 <br>Choo Li Zhi Shaun&nbsp;</p>
 </td>
 </tr>
@@ -152,9 +161,12 @@ variant: tiptap
 <p>Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aw Sean Ling (IC)
-<br>Zhong Wanzhen
-<br>Ramaiah Pandimeenal
+<p>Aw Sean Ling (IC)</p>
+<p>
+<br>Zhong Wanzhen</p>
+<p>
+<br>Ramaiah Pandimeenal</p>
+<p>
 <br>Tan Wenxiang</p>
 </td>
 </tr>
@@ -170,8 +182,10 @@ variant: tiptap
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Hui Tang Elizabeth (IC)
-<br>Pek Jia Hui
+<p>Chan Hui Tang Elizabeth (IC)</p>
+<p>
+<br>Pek Jia Hui</p>
+<p>
 <br>Malvin Lim</p>
 </td>
 </tr>
@@ -205,8 +219,10 @@ variant: tiptap
 <br>Multi-Purpose Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Na'lmmatual Raudah (IC)
-<br>Rafidah Bte Abdul Razak
+<p>Siti Na'lmmatual Raudah (IC)</p>
+<p>
+<br>Rafidah Bte Abdul Razak</p>
+<p>
 <br>Khoo Poh Leng</p>
 </td>
 </tr>
@@ -243,8 +259,10 @@ variant: tiptap
 <p>Lower ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noorlizasabariah Bte Ramli (IC)
-<br>Chong Yong Shing
+<p>Noorlizasabariah Bte Ramli (IC)</p>
+<p>
+<br>Chong Yong Shing</p>
+<p>
 <br>Divyasri D/O Rajendra</p>
 </td>
 </tr>
@@ -261,8 +279,10 @@ variant: tiptap
 <br>School Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suranteran s/o Loganathan (IC)
-<br>Lim Kuan Yick Arthur
+<p>Suranteran s/o Loganathan (IC)</p>
+<p>
+<br>Lim Kuan Yick Arthur</p>
+<p>
 <br>Cheng Chang Hup Andrew</p>
 </td>
 </tr>
@@ -280,8 +300,10 @@ variant: tiptap
 <br>Science Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong Kwong Tine Ken (IC)
-<br>Wong Teck Hock
+<p>Leong Kwong Tine Ken (IC)</p>
+<p>
+<br>Wong Teck Hock</p>
+<p>
 <br>Amy Ang</p>
 </td>
 </tr>
@@ -297,8 +319,10 @@ variant: tiptap
 <p>Upper ISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Ern Pearlin (IC)
-<br>Lenny Tusya
+<p>Tan Wei Ern Pearlin (IC)</p>
+<p>
+<br>Lenny Tusya</p>
+<p>
 <br>Low Mingsheng Benedict&nbsp;</p>
 </td>
 </tr>
@@ -317,8 +341,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neo Eng Hup Edward (IC)
-<br>Zhang Liya
+<p>Neo Eng Hup Edward (IC)</p>
+<p>
+<br>Zhang Liya</p>
+<p>
 <br>Muhd Azmi Salleh</p>
 </td>
 </tr>
@@ -336,8 +362,10 @@ variant: tiptap
 <p>Guides' Den&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jess Neo Jue Shi (IC)
-<br>Filzatul Azreen Bte Gazali
+<p>Jess Neo Jue Shi (IC)</p>
+<p>
+<br>Filzatul Azreen Bte Gazali</p>
+<p>
 <br>Petrina Wong</p>
 </td>
 </tr>
@@ -353,10 +381,14 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lai Rher Wei (IC)
-<br>Eu Lee Chung Don
-<br>Tay Jun Keat
-<br>Woo Kwong Hui Jacob
+<p>Lai Rher Wei (IC)</p>
+<p>
+<br>Eu Lee Chung Don</p>
+<p>
+<br>Tay Jun Keat</p>
+<p>
+<br>Woo Kwong Hui Jacob</p>
+<p>
 <br>Saarvieenrash Ragubalan</p>
 </td>
 </tr>
@@ -374,10 +406,14 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jacob Tan (IC)
-<br>Edmund Tan Yong Boon
-<br>Siti Fatimah Muhammad
-<br>Andrew Oh
+<p>Jacob Tan (IC)</p>
+<p>
+<br>Edmund Tan Yong Boon</p>
+<p>
+<br>Siti Fatimah Muhammad</p>
+<p>
+<br>Andrew Oh</p>
+<p>
 <br>Chan Wei Chee&nbsp;</p>
 </td>
 </tr>
