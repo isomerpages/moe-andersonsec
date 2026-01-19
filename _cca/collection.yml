@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA Training Timetable 2025.md
+      - CCA Schedule 2026.md
       - Sports/.keep
       - Sports/Basketball.md
       - Sports/Netball.md
