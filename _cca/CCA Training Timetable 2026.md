@@ -383,8 +383,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>* Additional sessions that may be called during peak or competition season	</strong>	
+<p><strong>* Additional sessions that may be called during peak or competition season</strong>
 </p>
-<p><strong>CCA hours may also be adjusted during peak or competition season	</strong>	
+<p><strong>CCA hours may also be adjusted during peak or competition season</strong>
 </p>
 <p></p>
