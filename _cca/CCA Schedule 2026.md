@@ -119,7 +119,8 @@ variant: tiptap
 <p>Research Lab 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Chip Seng (IC)
+<p>Ang Chip Seng (IC)</p>
+<p>
 <br>Eythan Ong</p>
 </td>
 </tr>
@@ -201,8 +202,10 @@ variant: tiptap
 <p>Multi-Purpose Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gao Wei Wei (IC)
-<br>Lum Yoke Wah
+<p>Gao Wei Wei (IC)</p>
+<p>
+<br>Lum Yoke Wah</p>
+<p>
 <br>Greak Kumar</p>
 </td>
 </tr>
@@ -242,8 +245,10 @@ variant: tiptap
 <br>Wed: Upper ISH&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Shoujie Colin (IC)
-<br>Lee Chen Beng
+<p>Chen Shoujie Colin (IC)</p>
+<p>
+<br>Lee Chen Beng</p>
+<p>
 <br>Liu Yirui</p>
 </td>
 </tr>
