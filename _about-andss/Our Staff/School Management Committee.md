@@ -251,7 +251,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Year Heads</strong></h4>
+<h4><strong>Year Heads &amp; Assistant Year Heads</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -322,6 +322,134 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Subject Heads</strong></h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_xin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_xin_hui@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Huang Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loo_huang_yi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Wang ZhiWei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_zhiwei@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pamela Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pamela_priya@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh Wenhui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_wenhui@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yan Mui Dolly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_yan_mui_dolly@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Chip Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_chip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chip_seng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mirshasha Bte Mohamed Taib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mirshasha_mohamed_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mirshasha_mohamed_taib@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Petrina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_li_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_li_yi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
