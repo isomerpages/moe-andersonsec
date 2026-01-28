@@ -251,7 +251,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Year Heads</strong></h4>
+<h4><strong>Year Heads &amp; Assistant Year Heads</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -322,6 +322,172 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Subject Heads</strong></h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Wenhui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yan Mui Dolly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject head, Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_yan_mui_dolly@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Zhiwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pamela Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pamela_priya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pamela_priya@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loo Huang Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fadilah Yusran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (LS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Chip Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Syazwani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (US)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mirshasha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Petrina Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_li_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_li_yi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
