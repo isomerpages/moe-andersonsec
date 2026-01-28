@@ -354,31 +354,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Wenhui</p>
+<p>Ms Loo Huang Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
+<p>Subject Head, Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_wenhui@moe.edu.sg</u></a>
+<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loo_huang_yi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yan Mui Dolly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject head, Student Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_yan_mui_dolly@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Wang Zhi Wei</p>
+<p>Dr Wang ZhiWei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Chinese Language</p>
@@ -402,13 +390,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loo Huang Yi</p>
+<p>Mrs Goh Wenhui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Character and Citizenship Education</p>
+<p>Subject Head, Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_huang_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loo_huang_yi@moe.edu.sg</u></a>
+<p><a href="mailto:wong_wenhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_wenhui@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yan Mui Dolly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yan_mui_dolly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_yan_mui_dolly@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
