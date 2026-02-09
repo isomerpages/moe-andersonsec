@@ -896,7 +896,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Shengwei, Andrew</p>
+<p>Mr Oh Shengwei, Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_shengwei_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_shengwei_andrew@moe.edu.sg</u></a>
