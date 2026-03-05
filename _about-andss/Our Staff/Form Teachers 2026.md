@@ -230,6 +230,21 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Edmund Tan Yong Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:edmund_tan_yong_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>edmund_tan_yong_boon@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>369</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1E</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Tan WenXiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -841,6 +856,21 @@ variant: tiptap
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>346</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3R</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Mary Charles</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1117,6 +1147,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>407</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4R</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chin Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Chin_Wee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Lim_Chin_Wee_A@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
