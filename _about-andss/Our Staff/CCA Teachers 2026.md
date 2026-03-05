@@ -330,7 +330,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Chinese Dance</strong>
 </p>
 </td>
@@ -359,14 +359,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Greak Kumar</p>
+<p>Mr Yong Eng Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">greak_kumar@moe.edu.sg</a>
+<p><a href="mailto:yong_eng_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yong_eng_kiat@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>345</p>
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_li_ting@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>346</p>
 </td>
 </tr>
 <tr>
@@ -860,19 +872,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hong Yi, Jacob (i/c)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hong_yi_jacob_tan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>340</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Tan Yong Boon</p>
+<p>Mr Edmund Tan Yong Boon (i/c)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">edmund_tan_yong_boon@moe.edu.sg</a>
@@ -880,6 +880,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>369</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hong Yi, Jacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hong_yi_jacob_tan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>340</p>
 </td>
 </tr>
 <tr>
@@ -920,60 +932,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Student Leadership</u></strong></h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ext</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Student Council</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chia Yi Kang, Jason (i/c)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_yi_kang_jason@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>365</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Li Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ting@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>346</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
