@@ -205,8 +205,10 @@ variant: tiptap
 <p>Gao Wei Wei (IC)</p>
 <p>
 <br>Lum Yoke Wah</p>
-<p>
-<br>Greak Kumar</p>
+<p></p>
+<p>Yong Eng Kiat</p>
+<p></p>
+<p>Chua Liting</p>
 </td>
 </tr>
 <tr>
@@ -411,9 +413,9 @@ variant: tiptap
 <br>Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jacob Tan (IC)</p>
-<p>
-<br>Edmund Tan Yong Boon</p>
+<p>Edmund Tan Yong Boon (IC)</p>
+<p></p>
+<p>Jacob Tan</p>
 <p>
 <br>Siti Fatimah Muhammad</p>
 <p>
