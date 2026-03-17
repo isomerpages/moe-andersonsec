@@ -691,7 +691,7 @@ variant: tiptap
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Liu Yirui</p>
+<p>Mrs Chin Yirui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_yirui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yirui@moe.edu.sg</a>
@@ -796,7 +796,7 @@ variant: tiptap
 <p>3K</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Shengwei Andrew</p>
+<p>Mr Oh Shengwei Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_shengwei_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_shengwei_andrew@moe.edu.sg</a>
@@ -944,7 +944,7 @@ variant: tiptap
 <p>4T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Wai Yee</p>
+<p>Mrs Goh Wai Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_wai_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wai_yee@moe.edu.sg</a>
