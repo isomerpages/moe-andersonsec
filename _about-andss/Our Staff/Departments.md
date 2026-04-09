@@ -2,8 +2,8 @@
 title: Departments
 permalink: /about-andss/our-staff/departments/
 description: ""
-third_nav_title: Our Staff
 variant: tiptap
+third_nav_title: Our Staff
 ---
 <table style="minWidth: 100px">
 <colgroup>

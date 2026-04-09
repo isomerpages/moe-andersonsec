@@ -2,8 +2,8 @@
 title: Form Teachers 2026
 permalink: /about-andss/our-staff/form-teachers/
 description: ""
-third_nav_title: Our Staff
 variant: tiptap
+third_nav_title: Our Staff
 ---
 <table style="minWidth: 100px">
 <colgroup>

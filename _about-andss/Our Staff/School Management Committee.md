@@ -2,8 +2,8 @@
 title: School Management Committee
 permalink: /about-andss/our-staff/school-management-committee/
 description: ""
-third_nav_title: Our Staff
 variant: tiptap
+third_nav_title: Our Staff
 ---
 <table style="minWidth: 75px">
 <colgroup>

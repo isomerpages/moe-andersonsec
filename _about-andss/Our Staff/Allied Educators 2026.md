@@ -1,6 +1,6 @@
 ---
 title: Allied Educators 2026
-permalink: /about-andss/our-staff/allied-educators-2023/
+permalink: /about-andss/our-staffs/allied-educators-2023/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap

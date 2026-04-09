@@ -2,8 +2,8 @@
 title: Teacher Leaders
 permalink: /about-andss/our-staff/senior-teachers/
 description: ""
-third_nav_title: Our Staff
 variant: tiptap
+third_nav_title: Our Staff
 ---
 <table style="minWidth: 100px">
 <colgroup>

@@ -1,6 +1,6 @@
 ---
 title: CCA Teachers 2026
-permalink: /about-andss/our-staff/cca-teachers-2023/
+permalink: /about-andss/our-staffs/cca-teachers-2023/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap

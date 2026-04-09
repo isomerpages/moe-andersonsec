@@ -3,11 +3,6 @@ title: Bamboo Perspective
 permalink: /about-andss/bamboo-perspectives/
 description: ""
 ---
-
-
-
-
-
 **Bamboo Perspectives for the Andersonian**
 
 The story of the bamboo is the epitome of a young Andersonian growing up in the shady grove of the Anderson Family. It is much akin to the growing process of a bamboo.
