@@ -2,6 +2,7 @@ collections:
   about-andss:
     output: true
     order:
+      - Our Staffs/Bamboo Perspective.md
       - Our Staffs/Emblem.md
       - Our Staffs/Mission and Values.md
       - Our Staffs/School Leaders' Message.md
