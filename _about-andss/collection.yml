@@ -2,6 +2,7 @@ collections:
   about-andss:
     output: true
     order:
+      - Departments.md
       - Teacher Leaders.md
       - School Management Committee.md
       - School Leaders' Message.md
