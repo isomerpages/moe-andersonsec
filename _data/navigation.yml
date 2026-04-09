@@ -1,7 +1,5 @@
 logo: /images/homepage_school logo.png
 links:
-  - title: New folder
-    collection: about-andss
   - title: About ANDSS
     url: /about-andss/school-leaders-message/
     sublinks:
@@ -14,7 +12,7 @@ links:
       - title: Bamboo Perspective
         url: /about-andss/bamboo-perspectives
       - title: Our Staffs
-        url: /about-andss/our-staffs/about-andss/our-staffs/cca-teachers-2023/
+        url: /about-andss/our-staff/school-management-committee/
       - title: Our Partners
         url: /our-partners/school-advisory-committee
       - title: Contact Us
