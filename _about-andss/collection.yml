@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Leaders' Message.md
-      - Our Staffs/Bamboo Perspective.md
       - Our Staffs/Emblem.md
       - Our Staffs/Mission and Values.md
       - Our Staffs/.keep
