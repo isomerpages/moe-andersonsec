@@ -2,6 +2,7 @@ collections:
   about-andss:
     output: true
     order:
+      - Our Staffs/School Leaders' Message.md
       - Our Staffs/.keep
       - Mission and Values.md
       - Emblem.md
