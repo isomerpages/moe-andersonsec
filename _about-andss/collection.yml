@@ -2,10 +2,10 @@ collections:
   about-andss:
     output: true
     order:
+      - School Leaders' Message.md
       - Mission and Values.md
       - Emblem.md
       - Bamboo Perspective.md
-      - School Leaders' Message.md
       - Our Staffs/.keep
       - Our Staff/.keep
       - Our Staff/School Management Committee.md
