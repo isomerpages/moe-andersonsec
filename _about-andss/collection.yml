@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Leaders' Message.md
-      - Departments.md
       - Form Teachers 2026.md
       - Mission and Values.md
       - Emblem.md
