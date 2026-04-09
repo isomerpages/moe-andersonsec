@@ -1,5 +1,7 @@
 logo: /images/homepage_school logo.png
 links:
+  - title: New folder
+    collection: about-andss
   - title: About ANDSS
     url: /about-andss/school-leaders-message/
     sublinks:
