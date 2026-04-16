@@ -280,7 +280,7 @@ us at anderson_ss@moe.edu.sg</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between <strong>17 to 28 Aug 2026</strong>
+<p><strong>Between</strong>  <strong>17 to 28 Aug 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
