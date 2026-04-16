@@ -2,302 +2,359 @@
 title: Direct School Admission 2026
 permalink: /anderson-experience/direct-school-admission/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**The Unique Anderson Experience**
-
-Are you keen to be part of this caring community and be immersed in a learning environment that is stimulating and engaging? Do you enjoy challenging opportunities that bring out the best in you?
-
-It is our mission to unleash the potential in every Andersonian. We know they perform their best when they are exposed to diverse opportunities and feel a sense of belonging here.
-
-If you have the talent, abilities and a strong passion for one of the areas below, we want you!
-
-**Admission Criteria for DSA selection**
-
-<table style="margin-left:3.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
- .5pt solid black" width="597" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.35pt"><td style="width:447.75pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.35pt" valign="top" colspan="3" width="597"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;
-  line-height:107%" lang="EN-SG">Sports &amp; Games</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.5pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:22.5pt" valign="top" width="170"><p style="text-align:center" align="center" class="MsoNormal"><a name="_Hlk165294796"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Talent Areas</span></b></a></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.5pt" valign="top" width="210"><p style="text-align:center" align="center" class="MsoNormal"><span style="mso-bookmark:_Hlk165294796"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Shortlisting Criteria</span></b></span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.5pt" valign="top" width="217"><p style="text-align:center" align="center" class="MsoNormal"><span style="mso-bookmark:_Hlk165294796"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Selection Process</span></b></span></p></td></tr><tr style="mso-yfti-irow:2;height:115.6pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:115.6pt" valign="top" width="170"><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo7" class="MsoListParagraphCxSpFirst"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Basketball (Boys)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo7" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Netball&nbsp;(Girls)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo7" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Table Tennis&nbsp;(Girls)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo7" class="MsoListParagraphCxSpMiddle"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Volleyball&nbsp;(Girls)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo7" class="MsoListParagraphCxSpLast"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Wushu&nbsp;(Girls and Boys)</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:115.6pt" valign="top" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo1;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:
-  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:black" lang="EN-SG">Active member of the relevant sports CCA in primary school.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo1;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:
-  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:black" lang="EN-SG">Participation in National School Games (NSG) and/or relevant competitions (achievements a plus).</span></p><p style="margin-left:.25in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%;color:black" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo1;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:
-  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:black" lang="EN-SG">Is medically / physically fit.<br style="mso-special-character:
-  line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l5 level1 lfo1;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:black" lang="EN-SG"><span style="mso-list:
-  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:black" lang="EN-SG">Has very good conduct and school attendance.</span></p><p style="margin-left:.25in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%;color:black" lang="EN-SG">&nbsp;</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:115.6pt" valign="top" width="217"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo3" class="MsoNormal"><span style="font-size:12.0pt" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Trials for shortlisted applicants. Students will be assessed on sport-specific skills and fitness, as well as in-game decision making for team sports. (July)<br style="mso-special-character:
-  line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l6 level1 lfo3" class="MsoNormal"><span style="font-size:12.0pt" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Small group interview for selected applicants who performed well during trials.<span style="mso-spacerun:yes">&nbsp; </span>(August)</span></p></td></tr><tr style="mso-yfti-irow:3;height:14.35pt"><td style="width:447.75pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:14.35pt" valign="top" colspan="3" width="597"><p style="margin-bottom:14.0pt;text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;
-  line-height:107%;color:#3C3C3C" lang="EN-SG">Performing Arts</span></b></p></td></tr><tr style="mso-yfti-irow:4;height:26.5pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:26.5pt" valign="top" width="170"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Talent Areas</span></b></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:26.5pt" valign="top" width="210"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Shortlisting Criteria<span style="color:#484848;background:white;mso-highlight:white"></span></span></b></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:26.5pt" valign="top" width="217"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Selection Process</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:70.9pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="170"><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo8" class="MsoListParagraph"><a name="_Hlk165294746"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Concert Band (Girls and Boys)<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></a></p><span style="mso-bookmark:_Hlk165294746"></span><p style="margin-top:14.0pt" class="MsoNormal"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;line-height:107%;color:#3C3C3C" lang="EN-SG">&nbsp;</span></span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Active member of the Band CCA in Primary School, and/or similar musical experiences outside school.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;
-  color:black" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:black" lang="EN-SG">Participation in the Singapore Youth Festival (SYF) and/or relevant competitions (achievements a plus).</span></span><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt" lang="EN-SG"><br style="mso-special-character:line-break"><br style="mso-special-character:line-break"><span style="color:black"></span></span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:14.0pt;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  background:white;mso-highlight:white" lang="EN-SG">Has very good conduct and school attendance</span></span><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt" lang="EN-SG">.</span></span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="217"><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l4 level1 lfo6" class="MsoListParagraph"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol" lang="EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Auditions for shortlisted applicants. (July)</span></span></p><p class="MsoNormal"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l4 level1 lfo6" class="MsoListParagraph"><span style="mso-bookmark:_Hlk165294746"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol" lang="EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Small group interview for selected applicants who performed well during auditions.<span style="mso-spacerun:yes">&nbsp; </span>(August)</span></span></p></td></tr><tr style="mso-yfti-irow:6;height:70.9pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="170"><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo8" class="MsoListParagraph"><span style="font-size:12.0pt;font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
-  &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Chinese Dance (Girls)</span></p><p style="margin-top:14.0pt" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;color:#3C3C3C" lang="EN-SG">&nbsp;</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Active member of Chinese Dance or Ballet CCA in Primary School, and/or similar dance experiences outside school.<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p><p style="margin-left:.25in;mso-add-space:auto;
-  text-indent:-.25in;mso-list:l1 level1 lfo2" class="MsoListParagraph"><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Noto Sans Symbols&quot;;
-  mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  line-height:115%;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri" lang="EN-SG">Participation in </span><span style="font-size:12.0pt;line-height:115%;
-  color:black" lang="EN-SG">Singapore Youth Festival (SYF)</span><span style="font-size:12.0pt;line-height:115%;mso-fareast-font-family:Calibri;
-  mso-bidi-font-family:Calibri" lang="EN-SG"> and/or relevant competitions (achievements a plus).</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;background:white;mso-highlight:white" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  background:white;mso-highlight:white" lang="EN-SG">Has very good conduct and school attendance.</span></p><p style="margin-left:.25in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%;background:white;mso-highlight:white" lang="EN-SG">&nbsp;</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:70.9pt" valign="top" width="217"><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l4 level1 lfo6" class="MsoListParagraph"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol" lang="EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Auditions for shortlisted applicants.<span style="mso-spacerun:yes">&nbsp; </span>(July)</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:
-  0in;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;line-height:normal;
-  mso-list:l4 level1 lfo6" class="MsoListParagraph"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol" lang="EN-SG"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Small group interview for selected applicants who performed well during auditions.<span style="mso-spacerun:yes">&nbsp; </span>(August)</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.4pt"><td style="width:447.75pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:27.4pt" valign="top" colspan="3" width="597"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;
-  line-height:107%" lang="EN-SG">Others</span></b><span style="font-size:14.0pt;
-  line-height:107%" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:53.9pt"><td style="width:127.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:53.9pt" valign="top" width="170"><p style="margin-top:0in;margin-right:0in;margin-bottom:10.0pt;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo4;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;;color:#3C3C3C" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
-  color:#3C3C3C" lang="EN-SG">Language – Malay (Girls and Boys)</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:53.9pt" valign="top" width="210"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo4;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Participation in Malay Language competitions (achievements a plus).</span></p><p style="margin-left:.25in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo4;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Excellent academic performance in Malay Language.</span></p><p style="margin-left:.25in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%" lang="EN-SG">&nbsp;</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.25in;text-indent:-.25in;line-height:normal;mso-list:l8 level1 lfo4;
-  border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
-  yes" class="MsoNormal"><span style="font-size:12.0pt;
-  font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:&quot;Noto Sans Symbols&quot;;
-  mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-SG"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt" lang="EN-SG">Has very good conduct and school attendance.</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p></td><td style="width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt;height:53.9pt" valign="top" width="217"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Shortlisted applicants will be assessed in Malay Language oracy and thinking skills followed by an<span style="mso-spacerun:yes">&nbsp;</span></span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">interview. (July-August)</span></p></td></tr></tbody></table>
-
-_\* Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer._
-
-_\*Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants._
-
-**Application procedure and information**
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.  
-  
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school's decision on the offer is final. We regret that no appeal will be entertained. The school reserves the right not to disclose the reason for non-selection of an applicant or to release the results of the trials.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will receive notification by email from the school by 18 July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For further enquiries, please email us at anderson\_ss@moe.edu.sg
-
-**Schedule for DSA**
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
- mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black" width="601" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:211.25pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;
-  line-height:107%" lang="EN-SG">Process</span></b></p><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;
-  line-height:107%" lang="EN-SG">&nbsp;</span></b></p></td><td style="width:164.15pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;
-  line-height:107%" lang="EN-SG">Date</span></b></p></td><td style="width:75.4pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="101"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;
-  line-height:107%" lang="EN-SG">Means of Notification</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:211.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="282"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Application Period</span></b><span style="font-size:12.0pt;line-height:107%" lang="EN-SG"> via DSA-Sec Portal</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Link: </span><span lang="EN-SG"><a href="http://www.moe.gov.sg/dsa-sec"><span style="font-size:12.0pt;line-height:107%;color:black">www.moe.gov.sg/dsa-sec</span></a></span><span style="font-size:12.0pt;line-height:107%" lang="EN-SG"></span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p></td><td style="width:164.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">7 May (11 am) to</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">3 Jun 2025 (3 pm)</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p></td><td style="width:75.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="101"><p style="margin-left:.75in;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes" class="MsoNormal"><span style="font-size:12.0pt;line-height:
-  107%;color:black" lang="EN-SG">-</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:211.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="282"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Selection</span></b></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">- Shortlisting, Trials/Audition/Assessment &amp; Interview Sessions</span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p></td><td style="width:164.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">30 Jun to 22 Aug 2025</span></p></td><td style="width:75.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="101"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Email</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:211.25pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="282"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Notification of Outcome</span></b></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">&nbsp;</span></p></td><td style="width:164.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Between 25 Aug to 4 Sep 2025</span></p></td><td style="width:75.4pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="101"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%" lang="EN-SG">Email</span></p></td></tr></tbody></table>
-
-**Useful MOE Links**
-
-<table style="margin-left:-.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.15pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">DSA-Sec Main Webpage</span></p></td><td style="width:226.95pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://www.moe.gov.sg/dsa-sec</span></p></td></tr><tr style="mso-yfti-irow:1;height:15.05pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:15.05pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">Instructions on Application (Mainstream students)</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.05pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/dsa-sec-application</span></p></td></tr><tr style="mso-yfti-irow:2;height:15.05pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:15.05pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">Instructions on Application (Non-Mainstream Students)</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.05pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/nmsdsa-sec-application</span></p></td></tr><tr style="mso-yfti-irow:3;height:21.95pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:21.95pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">Direct to DSA-Sec Portal (Mainstream Students)</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-US">*go live on 7 May 2025, 11am</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:21.95pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/apply-dsa-sec</span></p></td></tr><tr style="mso-yfti-irow:4;height:21.95pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:21.95pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">Direct to DSA-Sec Portal (Non-Mainstream Students)</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-US">*go live on 7 May 2025, 11am</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:21.95pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/apply-dsa-sec-nms</span></p></td></tr><tr style="mso-yfti-irow:5;height:8.15pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">DSA-Sec iFAQs</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/dsa-secfaqs</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:8.15pt"><td style="width:218.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="292"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">DSA-Sec SchoolFinder</span></p></td><td style="width:226.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.15pt" valign="top" width="303"><p class="MsoNormal"><span style="mso-ansi-language:EN-US">https://go.gov.sg/dsa-secschfinder</span></p></td></tr></tbody></table>
+<p><strong>The Unique Anderson Experience</strong>
+</p>
+<p>Are you keen to be part of this caring community and be immersed in a
+learning environment that is stimulating and engaging? Do you enjoy challenging
+opportunities that bring out the best in you?</p>
+<p>It is our mission to unleash the potential in every Andersonian. We know
+they perform their best when they are exposed to diverse opportunities
+and feel a sense of belonging here.</p>
+<p>If you have the talent, abilities and a strong passion for one of the
+areas below, we want you!</p>
+<p><strong>Admission Criteria for DSA selection</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Sports &amp; Games</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Talent Area</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisting Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Boys)
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Netball&nbsp;(Girls)
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Table Tennis&nbsp;(Girls)
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Volleyball&nbsp;(Girls)
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wushu&nbsp;(Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active member of the relevant sports CCA
+in primary school.
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in National School Games
+(NSG) and/or relevant competitions (achievements a plus).</p>
+<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is medically / physically fit.
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has very good conduct and school attendance.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trials for shortlisted applicants. Students
+will be assessed on sport-specific skills and fitness, as well as in-game
+decision making for team sports. (July)
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small group interview for selected applicants
+who performed well during trials.&nbsp; (August)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Talent Areas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisting Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band&nbsp;(Girls and Boys)<a rel="noopener noreferrer nofollow" target="_blank"><br><br></a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active member of the Band CCA in Primary
+School, and/or similar musical experiences outside school.
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in the Singapore Youth Festival
+(SYF) and/or relevant competitions (achievements a plus).
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has very good conduct and school attendance.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditions for shortlisted applicants.
+(July)</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small group interview for selected
+applicants who performed well during auditions.&nbsp; (August)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese Dance (Girls)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active member of Chinese Dance or Ballet
+CCA in Primary School, and/or similar dance experiences outside school.
+<br>
+<br>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in Singapore Youth Festival
+(SYF) and/or relevant competitions (achievements a plus).</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has very good conduct and school attendance.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Auditions for shortlisted applicants.&nbsp;
+(July)</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small group interview for selected
+applicants who performed well during auditions.&nbsp; (August)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Others</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Language – Malay (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in Malay Language competitions
+(achievements a plus).</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent academic performance in Malay
+Language.</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has very good conduct and school attendance.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will be assessed in Malay Language oracy and thinking
+skills followed by an&nbsp;interview. (July-August)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>* Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</em>
+</p>
+<p><em>*Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+</p>
+<p><strong>Application procedure and information</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for DSA-Sec can be submitted
+through the online DSA-Sec Portal. The application is free-of-charge and
+will be open from 6 May 2026, 11am to 2 Jun 2026, 4.30pm. For more details,
+please refer to MOE website – www.moe.gov.sg/dsa-sec.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and students are encouraged
+to choose schools wisely based on the student’s aptitudes and strengths,
+bearing in mind the schools’ academic and non-academic requirements, and
+the programmes available to develop the area of talent.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are successfully admitted
+to the school via DSA are expected to honour their commitment to the school
+and participate in the activities related to the talent they are selected
+for from year 1-4.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school's decision on the offer
+is final. We regret that no appeal will be entertained. The school reserves
+the right not to disclose the reason for non-selection of an applicant
+or to release the results of the trials.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will receive notification by
+email from the school by 13 July 2026, if your child has been shortlisted
+to undergo Direct School Admission (DSA) selection. All applicants will
+receive their application outcomes between 17 and 28 Aug 2026.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For further enquiries, please email
+us at anderson_ss@moe.edu.sg</p>
+<p><strong>Schedule for DSA</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Process</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Means of Notification</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application Period</strong> via DSA-Sec Portal</p>
+<p>Link: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 May 2026 (11am) to 2 June 2026 (4.30pm)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Selection</strong>
+</p>
+<p>- Shortlisting, Trials/Audition/Assessment &amp; Interview Sessions</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>29 Jun to 28 Aug 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Notification of Outcome</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Between <strong>17 to 28 Aug 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Useful MOE Links</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Main Webpage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.moe.gov.sg/dsa-sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Mainstream students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/dsa-sec-application</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Non-Mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/nmsdsa-sec-application</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p>*go live on 6 May 2026, 11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/apply-dsa-sec</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
+<p>*go live on 6 May 2026, 11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/apply-dsa-sec-nms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec iFAQs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/dsa-secfaqs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec SchoolFinder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/dsa-secschfinder</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
