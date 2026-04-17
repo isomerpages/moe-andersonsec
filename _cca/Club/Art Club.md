@@ -24,11 +24,12 @@ students to share ideas, provides feedback, and works collectively on projects.<
 in its members and cultivates vital interpersonal skills that are essential
 for success in any creative endeavours.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Art 1" src="/images/CCA 2024/2024_Art_club_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="1" src="/images/CCA 2026/1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Art 2" src="/images/CCA 2024/2024_Art_club_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="2" src="/images/CCA 2026/2_1.jpg">
 </div>
 <p></p>
