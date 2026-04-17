@@ -112,9 +112,7 @@ who performed well during trials.&nbsp; (August)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band&nbsp;(Girls and Boys)<a rel="noopener noreferrer nofollow" target="_blank"><br><br></a>
-</p>
-<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band&nbsp;(Girls and Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active member of the Band CCA in Primary
@@ -244,8 +242,7 @@ us at anderson_ss@moe.edu.sg</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Application Period</strong> via DSA-Sec Portal</p>
-<p>Link: <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
-</p>
+<p>Link: www.moe.gov.sg/dsa-sec</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
