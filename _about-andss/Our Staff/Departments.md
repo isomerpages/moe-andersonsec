@@ -411,21 +411,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aminurashid Bin Jumaat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:aminurashid_bin_jumaat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminurashid_bin_jumaat@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>361</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Cheng Chang Hup Andrew</p>
 </td>
 <td rowspan="1" colspan="1">
