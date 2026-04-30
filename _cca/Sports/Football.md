@@ -19,6 +19,10 @@ diligently towards self-improvement, in order to become better players
 and active contributors to our society.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 1" src="/images/CCA 2024/2024_Football_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA 2026/Football/Football_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA 2026/Football/Football_22.jpg">
 </div>
 <p></p>
