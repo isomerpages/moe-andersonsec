@@ -17,19 +17,13 @@ collaborate directly with teachers and can work independently as they handle
 the various technical requirements, which is evident of their maturity
 and professionalism. Beyond technical knowledge, the members of the Infocomm
 Club also embody teamwork, adaptability, and a commitment to excellence.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 1" src="/images/CCA%202024/2024_infocomm_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA 2026/Infocomm/infocomm_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 2" src="/images/CCA%202024/2024_infocomm_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA 2026/Infocomm/infocomm_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 3" src="/images/CCA%202024/2024_infocomm_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 4" src="/images/CCA%202024/2024_infocomm_4.jpg">
-</div>
 <p></p>
