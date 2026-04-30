@@ -39,7 +39,7 @@ variant: tiptap
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (3.15 - 5.30pm)</p>
+<p>Mon (3.30 - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room 1</p>
