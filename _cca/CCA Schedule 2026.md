@@ -196,7 +196,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon (3.15 - 6.15pm)
-<br>Fri (1.30 - 4.30pm)</p>
+<br>Fri (Hall 1.30 - 4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi-Purpose Studio</p>
