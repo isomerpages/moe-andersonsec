@@ -3,8 +3,9 @@ title: Band
 permalink: /cca/performing-arts/band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-![](/images/IMG_0298_Band.jpg)
+![1](/images/CCA%202026/Band/band_1.jpg)
 
 Anderson Military Band (AMB) participated in the Singapore Youth Festival (SYF) 2021 on 6th April and 7th April at the Singapore Conference Hall. This year, two band ensembles, comprising 25 students, represented our school. The junior band ensemble and the main band consisted of students mostly from the lower secondary and the upper secondary respectively.
 
