@@ -18,18 +18,6 @@ dance at professional levels in future and become active contributors to
 the local and global dance scenes.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 1" src="/images/CCA 2024/2024_chinese_dance_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 2" src="/images/CCA 2024/2024_chinese_dance_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 3" src="/images/CCA 2024/2024_chinese_dance_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 4" src="/images/CCA 2024/2024_chinese_dance_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA 2026/Chinese dance 1/Chinese_dance_1.jpg">
 </div>
 <p></p>
