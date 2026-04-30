@@ -28,19 +28,16 @@ various activities allowed the seniors and juniors to gain a better understandin
 towards one another as well as have a greater level of compassion for the
 larger community.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 1" src="/images/CCA 2024/2024_Girl_Guides_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA 2026/Girl Guide/IMG_0359.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 2" src="/images/CCA 2024/2024_Girl_Guides_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA 2026/Girl Guide/IMG_0344.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 3" src="/images/CCA 2024/2024_Girl_Guides_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 4" src="/images/CCA 2024/2024_Girl_Guides_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA 2026/Girl Guide/IMG_0385.jpg">
 </div>
 <p></p>
