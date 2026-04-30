@@ -364,6 +364,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri (1.30 - 5.30pm)</p>
+<p></p>
+<p>Additional CCA sessions may be held in Term 3:
+<br>Mon and/or Wed due to National Day preparations (3:30pm - 5:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guides' Den&nbsp;</p>
