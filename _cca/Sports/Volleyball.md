@@ -30,17 +30,17 @@ spike, and soar to victory with Anderson Volleyball!</p>
 </div>
 <p>Wining 4<sup>th</sup> placing at the ‘B’ Division Volleyball North Zone
 Championship</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pic 2" src="/images/CCA 2024/2024_Volleyball_2.jpg">
-</div>
 <p>The trophy we won at the North Zone ‘B’ Division Volleyball Championship</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 3" src="/images/CCA 2024/2024_Volleyball_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/CCA 2026/Netball/1.jpg">
 </div>
-<p>Our Captain receiving the trophy on our team’s behalf</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic 4" src="/images/CCA 2024/2024_Volleyball_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/CCA 2026/Netball/2.jpg">
 </div>
-<p>A sense of jubilant excitement as our team cheered after winning a close
-fight against the opponnent</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/CCA 2026/Netball/3.jpg">
+</div>
+<p></p>

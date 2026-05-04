@@ -39,7 +39,7 @@ variant: tiptap
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (3.15 - 5.30pm)</p>
+<p>Mon (3.30 - 5.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room 1</p>
@@ -196,7 +196,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon (3.15 - 6.15pm)
-<br>Fri (1.30 - 4.30pm)</p>
+<br>Fri (Hall 1.30 - 4.30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi-Purpose Studio</p>
@@ -363,7 +363,10 @@ variant: tiptap
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri (1.30 - 5.30pm)</p>
+<p>Fri (1.30 - 5pm**)</p>
+<p></p>
+<p>Additional CCA sessions may be held in Term 3:
+<br>Mon and/or Wed due to National Day preparations (3:30pm - 5:30pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guides' Den&nbsp;</p>
