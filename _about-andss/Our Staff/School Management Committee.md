@@ -518,6 +518,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Edward Suse Nathen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:edward_suse_nathen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">edward_suse_nathen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Low Chu Song</p>
 </td>
 <td rowspan="1" colspan="1">
