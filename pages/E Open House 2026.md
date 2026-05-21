@@ -4,6 +4,8 @@ permalink: /e-open-house/
 variant: markdown
 description: ""
 ---
+
+![1](/images/Website%20photo/2026_Open_house_banner.jpg)
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:133.15pt;border:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="178"><p class="MsoNormal"><b>Visit our E-Open House Virtual Website</b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:333.85pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="2" width="445"><p class="MsoNormal"><a href="https://for.edu.sg/andss-e-openhouse-2026"><b>https://for.edu.sg/andss-e-openhouse-2026</b></a><b></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:133.15pt;border:solid windowtext 1.0pt;
