@@ -14,7 +14,7 @@ sections:
           url: /news-and-highlights
         - title: E-Open House 2026
           description: ""
-          url: https://360.theredmarker.com/F1ndeikORy/45945089p&34.78h&106.89t
+          url: /e-open-house/
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
