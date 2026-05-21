@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /news-and-highlights
-        - title: Open House 2026
+        - title: E-Open House 2026
           description: ""
-          url: https://drive.google.com/file/d/1cHdZ7ql769qnpl3YXu16nzHtYTae3goQ/view
+          url: /e-open-house/
         - title: INSTAGRAM
           description: ""
           url: https://www.instagram.com/andersonsecsch/
