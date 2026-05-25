@@ -60,6 +60,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Don Loong Chieh Yung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loong_chieh_yung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loong_chieh_yung@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Shahreen Aman</p>
 </td>
 <td rowspan="1" colspan="1">
