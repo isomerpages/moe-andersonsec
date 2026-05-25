@@ -44,6 +44,6 @@ social networks and sense of meaning they will acquire during their time
 with us in Anderson.</p>
 <p>With Constancy and Purpose,</p>
 <p>ANDSS School Leaders</p>
-<p>[Ms Tan Po Chin (Principal), Mr Eugene Lee (VP1), Mr Don Loong VP2, Mr
-Shahreen Aman (VP(A))]</p>
+<p>[Ms Tan Po Chin (Principal), Mr Eugene Lee (VP1), Mr Don Loong (VP2),
+Mr Shahreen Aman (VP(A))]</p>
 <p></p>
